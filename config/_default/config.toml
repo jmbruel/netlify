@@ -14,7 +14,17 @@ baseurl = "/"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
-copyright = "&copy; {year} - ACDC. Last update: 14/10/2020"
+copyright = "&copy; {year} - ACDC. Last update: 16/10/2020"
+
+# Your details.
+team = "SM@RT"
+name = "Jean-Michel Bruel"
+role = "Professor of Software Engineering"
+office_hours = "http://doodle.com/jmbruel"
+phone = "+33 (0)6.07.65.19.70"
+twitter = "jmbruel"
+skype = "jmbruel"
+telegram = "jmbruel"
 
 ############################
 ## Advanced options below ##
