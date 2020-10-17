@@ -30,7 +30,7 @@ font = "yanone"
 
 # Choose a font size.
 # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
-font_size = "M"
+font_size = "L"
 
 ############################
 ## Basic Info
@@ -104,14 +104,14 @@ address = {street = "1 place Georges Brassens", city = "Blagnac Cedex", postcode
 coordinates = {latitude = "43.648764", longitude = "1.374307"}
 
 # Directions for visitors to locate you.
-directions = "Just call me when you arrive ;-)"
+#directions = "Just call me when you arrive ;-)"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = ["Monday 10:00 to 13:00", "Wednesday 09:00 to 10:00"]
+office_hours = []
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
-appointment_url = "https://doodle.com/jmbruel"
+appointment_url = "https://doodle.com/mm/jeanmichelbruel/book-a-time"
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.

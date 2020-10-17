@@ -1,19 +1,18 @@
 +++
-# A Recent Publications section created with the Pages widget.
-# This section displays recent blog posts from `content/publication/`.
+# A Recent and Upcoming Talks section created with the Pages widget.
+# This section displays recent talks from `content/talk/`.
 
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
-#widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 20  # Order that this section will appear.
+weight = 40  # Order that this section will appear.
 
-title = "Recent Publications"
-subtitle = ""
+title = "Teachings"
+subtitle = "#ILoveMyJob"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
-  page_type = "publication"
+  page_type = "teaching"
   
   # Choose how much pages you would like to display (0 = all pages)
   count = 5
@@ -31,7 +30,9 @@ subtitle = ""
     publication_type = ""
     author = ""
     exclude_featured = false
-  
+    exclude_past = false
+    exclude_future = false
+    
 [design]
   # Toggle between the various page layout types.
   #   1 = List
@@ -45,7 +46,7 @@ subtitle = ""
   #   Uncomment (by removing `#`) an option to apply it.
   #   Choose a light or dark text color by setting `text_color_light`.
   #   Any HTML color name or Hex value is valid.
-    
+
   # Background color.
   # color = "navy"
   
@@ -54,8 +55,8 @@ subtitle = ""
   # gradient_end = "SkyBlue"
   
   # Background image.
-  # image = "background.jpg"  # Name of image in `static/media/`.
-  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  #image = "tuxteacher.png"  # Name of image in `static/media/`.
+  #image_darken = 0.1  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
   # text_color_light = true  
@@ -67,15 +68,3 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-{{% callout note %}}
-Note that you can access to the <a href="http://www.irit.fr/-Publications-?code=528&amp;nom=Bruel%20Jean-Michel">official list</a> from the lab (up to date, but only related to it). 
-You can access to the <a href="https://www.researchgate.net/profile/Jean-Michel_Bruel2/publications/">ResearchGate</a> page. 
-For some indexes and numbers, check those (updated on 
-October 17th, 2020):
-The <a href="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/b/Bruel:Jean=Michel.html">DBLP</a> Server (16 journals, 73 conference papers referenced, with 139 different co-authors);
-<a href="http://scholar.google.com/citations?user=5shVHyoAAAAJ&hl=en">Google Scolar</a> (204 papers, H-index 20, 14 since 2015).
-{{% /callout %}}
-
-{{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
-{{% /callout %}}
