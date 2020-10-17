@@ -68,3 +68,8 @@ subtitle = "#ILoveMyJob"
  # CSS class.
  css_class = ""
 +++
+
+{{% callout note %}}
+Note that most of my teaching materials is available here: 
+<a href="https://jmbruel.github.io/teaching/">https://jmbruel.github.io/teaching/</a>.
+{{% /callout %}}

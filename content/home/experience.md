@@ -24,13 +24,13 @@ date_format = "Jan 2006"
   location = "Toulouse, France"
   date_start = "2008-09-01"
   date_end = ""
-  description = ""
-# Current responsibilities include:
-#  
-#  * Lab representative at my University
-#  * CNU 27 elected member
-#  * Computer Science Students' Internships
-#  """
+  description = """
+Current responsibilities include:
+  
+  * Lab representative at my University
+  * CNU 27 elected member
+  * Computer Science Students' Internships
+"""
 
 [[experience]]
   title = "Associate Professor"

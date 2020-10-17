@@ -18,7 +18,9 @@
     <div>
       <h2>Coucou <a href="{{$link}}" {{ $target | safeHTMLAttr }}>{{ .Title }}</a></h2>
       <div class="article-style">
-        {{ if .Params.summary }}
+        {{ if .Params.date }}
+            {{ .Params.date | plainify | emojify }}
+        {{ else if .Params.summary }}
           {{ .Params.summary | plainify | emojify }}
         {{ else if .Params.abstract }}
           {{ .Params.abstract | plainify | emojify | truncate 250 }}

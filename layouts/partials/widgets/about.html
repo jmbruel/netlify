@@ -104,11 +104,13 @@
       </div>
       {{ end }}
 
+      {{ if $person.superuser }}
       <div class="col-sm-4">
         <h3>{{ "Twitter" | markdownify }}</h3>
         <a class="twitter-timeline"  data-width="600" data-height="300" data-theme="light" href="https://twitter.com/jmbruel?ref_src=twsrc%5Etfw">Tweets by jmbruel</a> 
         <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
       </div>
+      {{ end }}
 
     </div>
   </div>
