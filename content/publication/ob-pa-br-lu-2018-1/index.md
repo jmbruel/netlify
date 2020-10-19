@@ -8,14 +8,12 @@ summary: ''
 authors:
 - Ileana Ober
 - Marc Palyart
-- Jean-Michel Bruel
+- jmb
 - David Lugato
 tags:
-- '"HPC"'
-- '"High-performance calculus"'
-- '"MDE Model-driven engineering"'
-- '"Architecture"'
-- '"Fortran"'
+- 'HPC'
+- 'MDE'
+- 'Architecture'
 categories: []
 date: '2018-02-01'
 lastmod: 2020-10-17T20:54:48+02:00
