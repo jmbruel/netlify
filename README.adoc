@@ -2,8 +2,7 @@
 :icons: font
 :hugo: https://github.com/smart-researchteam/smart-researchteam.github.io.git[Hugo]
 
-https://api.netlify.com/api/v1/badges/5a992dfd-1669-490c-adb5-48b3cbc75a9c/deploy-status[Netlify Status]
-https://app.netlify.com/sites/jmbruel/deploys[]
+image:https://api.netlify.com/api/v1/badges/5a992dfd-1669-490c-adb5-48b3cbc75a9c/deploy-status[Netlify Status, link="https://app.netlify.com/sites/jmbruel/deploys"]
 
 ifdef::env-github[]
 :tip-caption: :bulb:
