@@ -12,7 +12,7 @@ authors:
 - jmb
 - sophie
 tags:
-- 'Seamless requirements'
+- 'Lean'
 - 'Eiffel'
 - 'Multirequirements'
 

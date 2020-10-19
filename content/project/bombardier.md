@@ -12,7 +12,7 @@ summary = "An integrated model-based early validation approach for Railway Syste
 image_preview = "bombardier.png"
 
 # Tags: can be used for filtering projects.
-tags = ["lean", "mbse","validation"]
+tags = ["Lean", "MBSE","V&V"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = "https://www.researchgate.net/project/An-integrated-model-based-early-validation-approach-for-Railway-Systems"

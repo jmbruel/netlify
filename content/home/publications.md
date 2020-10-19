@@ -67,8 +67,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-You can access to:
-
+You can also access to:
 - the <a href="http://www.irit.fr/-Publications-?code=528&amp;nom=Bruel%20Jean-Michel">official list</a> from my lab (up to date, but only related to it) 
 - <a href="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/b/Bruel:Jean=Michel.html">DBLP</a> Server (16 journals, 73 conference papers referenced, with 139 different co-authors, on 2020/10/16)
 - <a href="http://scholar.google.com/citations?user=5shVHyoAAAAJ&hl=en">Google Scolar</a> (204 papers, H-index 20, 14 since 2015, on 2020/10/16).

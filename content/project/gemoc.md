@@ -12,7 +12,7 @@ summary = "GEMOC is an open and international initiative that aims to coordinate
 image_preview = "gemoc.png"
 
 # Tags: can be used for filtering projects.
-tags = ["language", "workbench","globalization"]
+tags = ["Language", "Workbench","Globalization", "MDE"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = "http://gemoc.org"

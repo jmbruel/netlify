@@ -12,7 +12,7 @@ summary = "Placing the Final User Needs (FUN) at the center of the (modeling) co
 image_preview = ""
 
 # Tags: can be used for filtering projects.
-tags = ["requirements", "collaboration","user"]
+tags = ["Collaboration", "FUN"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""

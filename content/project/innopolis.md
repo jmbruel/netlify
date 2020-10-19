@@ -1,28 +1,28 @@
 +++
 # Date this page was created.
-date = "2017-10-19"
+date = "2020-10-19"
 
 # Project title.
-title = "MOISE"
+title = "Formal Requirements"
 
 # Project summary to display on homepage.
-summary = "MOdels and Information Sharing for System Engineering in Extended Entreprise"
+summary = "Collaboration initiated with the Innopolis University on the use of formal methods in Requirements Engineering"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "irt.jpg"
+image_preview = ""
 
 # Tags: can be used for filtering projects.
-tags = ["Requirements", "Collaboration","Language","MBSE"]
+tags = ["Lean", "Requirements"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://www.irt-saintexupery.com/expertise/systems-engineering-modeling-domain/"
+external_link = ""
 
 # Does the project detail page use math formatting?
 math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "irt.jpg"
+image = ""
 caption = ""
 
 +++
