@@ -1,28 +1,31 @@
 ---
 # Display name
-title: Anas Motii
+title: Maroun Koussaifi
 
 # Username (this should match the folder name)
 authors:
-- anas
+- maroun
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: 2017 - Consultant IAM chez Sogeti
+role: Ph.D. student since 10/2017
 
 # Short bio (displayed in user profile at end of posts)
-bio: "Ph.D. thesis on Ingénierie des architectures logicielles sécurisées : patrons, modèles et analyses"
+bio: "Ph.D. thesis on Smart User-Centric Modeling using Opportunistic Artefact Compositions"
+from: "2016-10-01"
+note: "Co-directed with Jean-Paul Arcangeli and Sylvie Trouilhet. Doctorial School Grant."
+external_link: "http://fgalinier.fr"
 
 
 # Organizations/Affiliations
-organizations:
-- name: Sogeti
-  url: ""
+#organizations:
+#- name: Sogeti
+#  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Co-directed with Brahim Hamid and Agnès Lanusse. CEA LIST funding.
+bio: Co-directed with Bertrand Meyer and Sophie Ebersold
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -31,13 +34,10 @@ bio: Co-directed with Brahim Hamid and Agnès Lanusse. CEA LIST funding.
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:anas.motii@sogeti.com'  # For a direct email link, use "mailto:test@example.org".
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/anas-motii-ph-d-59b88868/
+  link: 'mailto:maroun.koussaifi2@gmail.com'  # For a direct email link, use "mailto:test@example.org".
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "anas.motii@sogeti.com"
+email: "maroun.koussaifi2@gmail.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -45,8 +45,10 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Former Ph.D. Students
+- Ph.D. Students
 
-tags: ["past","phd","indus"]
+# Tags: can be used for filtering projects.
+#tags = ["past","phd","grant"]
+tags: ["current","phd","grant","fun"]
 
 ---

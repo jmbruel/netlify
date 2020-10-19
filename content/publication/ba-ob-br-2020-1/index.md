@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: Modeling and verification method for an early evaluation of Systems of Systems
-  interactions (regular paper)
+  interactions
 subtitle: ''
 summary: ''
 authors:
@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-19T08:52:02.399006Z'
+publishDate: '2020-10-19T13:28:58.534076Z'
 publication_types:
 - '1'
 abstract: This paper presents the results achieved while pursuing the verification

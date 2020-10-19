@@ -1,28 +1,27 @@
 ---
 # Display name
-title: Anas Motii
+title: Jacob Geisel
 
 # Username (this should match the folder name)
 authors:
-- anas
+- jacob
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: 2017 - Consultant IAM chez Sogeti
+role: 2015 - Software Engineer and in Charge of Academic Relations at Obeo
 
 # Short bio (displayed in user profile at end of posts)
-bio: "Ph.D. thesis on Ingénierie des architectures logicielles sécurisées : patrons, modèles et analyses"
-
+bio: Ph.D. thesis on "Méthodologie de conception et de mise en oeuvre au niveau système de la S&D pour les RCES dynamiquement reconfigurables"
 
 # Organizations/Affiliations
 organizations:
-- name: Sogeti
+- name: OBEO
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Co-directed with Brahim Hamid and Agnès Lanusse. CEA LIST funding.
+bio: 
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -31,13 +30,13 @@ bio: Co-directed with Brahim Hamid and Agnès Lanusse. CEA LIST funding.
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:anas.motii@sogeti.com'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:jacob.geisel@obeo.fr'  # For a direct email link, use "mailto:test@example.org".
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/anas-motii-ph-d-59b88868/
+  link: https://www.linkedin.com/in/jacobgeisel/
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "anas.motii@sogeti.com"
+email: "jacob.geisel@obeo.fr"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -47,6 +46,6 @@ highlight_name: false
 user_groups:
 - Former Ph.D. Students
 
-tags: ["past","phd","indus"]
+tags: ["past","phd","grant"]
 
 ---

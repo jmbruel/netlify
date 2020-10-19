@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Anas Motii
+title: Renan Leroux-Beaudout
 
 # Username (this should match the folder name)
 authors:
@@ -10,19 +10,19 @@ authors:
 superuser: false
 
 # Role/position
-role: 2017 - Consultant IAM chez Sogeti
+role: 2020 - Consultant IAM chez Sogeti
 
 # Short bio (displayed in user profile at end of posts)
-bio: "Ph.D. thesis on Ingénierie des architectures logicielles sécurisées : patrons, modèles et analyses"
+bio: Ph.D. thesis on "Gestion de la propriété intellectuelle dans la définition et le déploiement d'une approche basée modèle pour l'IS"
 
 
 # Organizations/Affiliations
 organizations:
-- name: Sogeti
+- name: ALTRAN
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Co-directed with Brahim Hamid and Agnès Lanusse. CEA LIST funding.
+bio: Co-directed with Ileana Ober and Marc Pantel. IRT Saint Exupery Funding.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -31,13 +31,13 @@ bio: Co-directed with Brahim Hamid and Agnès Lanusse. CEA LIST funding.
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:anas.motii@sogeti.com'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:renan.leroux@free.fr'  # For a direct email link, use "mailto:test@example.org".
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/anas-motii-ph-d-59b88868/
+  link: https://www.linkedin.com/in/renan-leroux-53625194/
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "anas.motii@sogeti.com"
+email: "renan.leroux@free.fr"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false

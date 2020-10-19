@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Consultant ALTEN
+role: 2019 - Consultant ALTEN
 
 # Short bio (displayed in user profile at end of posts)
 bio: Ph.D. thesis on "Méthode outillée d'intégration et de validation des modèles d'un système de train"

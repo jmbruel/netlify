@@ -16,7 +16,7 @@ subtitle = ""
   page_type = "publication"
   
   # Choose how much pages you would like to display (0 = all pages)
-  count = 5
+  count = 8
   
   # Choose how many pages you would like to offset by
   offset = 0
@@ -38,7 +38,7 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 3
+  view = 1
   
 [design.background]
   # Apply a background color, gradient, or image.
@@ -67,15 +67,9 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-{{% callout note %}}
-Note that you can access to the <a href="http://www.irit.fr/-Publications-?code=528&amp;nom=Bruel%20Jean-Michel">official list</a> from the lab (up to date, but only related to it). 
-You can access to the <a href="https://www.researchgate.net/profile/Jean-Michel_Bruel2/publications/">ResearchGate</a> page. 
-For some indexes and numbers, check those (updated on 
-October 17th, 2020):
-The <a href="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/b/Bruel:Jean=Michel.html">DBLP</a> Server (16 journals, 73 conference papers referenced, with 139 different co-authors);
-<a href="http://scholar.google.com/citations?user=5shVHyoAAAAJ&hl=en">Google Scolar</a> (204 papers, H-index 20, 14 since 2015).
-{{% /callout %}}
+You can access to:
 
-{{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
-{{% /callout %}}
+- the <a href="http://www.irit.fr/-Publications-?code=528&amp;nom=Bruel%20Jean-Michel">official list</a> from my lab (up to date, but only related to it) 
+- <a href="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/b/Bruel:Jean=Michel.html">DBLP</a> Server (16 journals, 73 conference papers referenced, with 139 different co-authors, on 2020/10/16)
+- <a href="http://scholar.google.com/citations?user=5shVHyoAAAAJ&hl=en">Google Scolar</a> (204 papers, H-index 20, 14 since 2015, on 2020/10/16).
+- my <a href="https://www.researchgate.net/profile/Jean-Michel_Bruel2/publications/">ResearchGate</a> page

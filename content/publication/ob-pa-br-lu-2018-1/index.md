@@ -8,12 +8,14 @@ summary: ''
 authors:
 - Ileana Ober
 - Marc Palyart
-- admin
+- Jean-Michel Bruel
 - David Lugato
 tags:
-- 'HPC'
-- 'MDE'
-
+- '"HPC"'
+- '"High-performance calculus"'
+- '"MDE Model-driven engineering"'
+- '"Architecture"'
+- '"Fortran"'
 categories: []
 date: '2018-02-01'
 lastmod: 2020-10-17T20:54:48+02:00
@@ -34,7 +36,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-17T20:08:04.055648Z'
+publishDate: '2020-10-19T13:28:58.201148Z'
 publication_types:
 - '2'
 abstract: This paper reports on a four-year project that aims to raise the abstraction

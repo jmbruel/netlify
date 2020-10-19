@@ -4,7 +4,7 @@ title: Jean-Michel Bruel
 
 # Username (this should match the folder name)
 authors:
-- admin
+- jmb
 
 # Is this the primary user of the site?
 superuser: true
@@ -33,7 +33,7 @@ education:
   - course: Habilitation
     institution: University of Pau
     year: 2006
-  - course: PhD in Software Engineering
+  - course: Ph.D. in Software Engineering
     institution: University of Toulouse - UPS
     year: 1996
   - course: M.Sc. in Software Engineering

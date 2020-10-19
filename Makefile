@@ -6,7 +6,7 @@ BIBLIO=biblio.bib
 
 biblio: 
 	@echo '==> Generating publication entries'
-	academic import --bibtex $(BIBLIO) -v --overwrite
+	academic import --bibtex $(BIBLIO) -v 
 
 clean:
 	hugo mod clean
