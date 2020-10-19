@@ -30,7 +30,7 @@ image:
 
 url_code: ""
 url_pdf: ""
-url_slides: "static/files/slides/modelsDocSymp2020.slides.html"
+url_slides: "files/slides/modelsDocSymp2020.slides.html"
 url_video: ""
 
 # Markdown Slides (optional).
