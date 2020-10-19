@@ -26,10 +26,9 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
 Current responsibilities include:
-  
-  * Lab representative at my University
-  * CNU 27 elected member
-  * Computer Science Students' Internships
+* CNU 27 elected member, since 2019
+* Lab representative at UT2J, since 2017
+* Students' Internships contact at IUT Blagnac, since 2013
 """
 
 [[experience]]
