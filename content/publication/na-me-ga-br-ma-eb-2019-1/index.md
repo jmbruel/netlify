@@ -6,15 +6,20 @@ subtitle: ''
 summary: ''
 authors:
 - Alexandr Naumchev
-- bertrand
+- Bertrand Meyer
 - Manuel Mazzara
-- florian
-- admin
+- Florian Galinier
+- Jean-Michel Bruel
 - Sophie Ebersold
 tags:
-- 'Seamless'
-- 'Eiffel'
-- 'Multirequirements'
+- '"AutoReq"'
+- '"seamless requirements"'
+- '"Design by Contract"'
+- '"AutoProof"'
+- '"Eiffel"'
+- '"Landing Gear System"'
+- '"specification drivers"'
+- '"multirequirements"'
 categories: []
 date: '2019-04-01'
 lastmod: 2020-10-17T20:50:56+02:00
@@ -35,7 +40,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-17T20:08:03.425340Z'
+publishDate: '2020-10-19T08:52:01.936698Z'
 publication_types:
 - '2'
 abstract: "The considerable effort of writing requirements is only worthwhile if the\

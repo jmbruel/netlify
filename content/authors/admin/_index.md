@@ -26,6 +26,7 @@ interests:
 - Requirements Engineering
 - Agile Methods & Design Patterns
 - Modeling for Sustainability
+- FUN (Final User Need) modeling
 
 education:
   courses:

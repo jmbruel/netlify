@@ -1,46 +1,36 @@
 ---
-title: Example Talk
-event: Academic Theme Conference
-event_url: https://example.org
+title: Feedbacks to students
+event: MODELS'2020 Doctorial Symposium
+event_url: https://research.cs.queensu.ca/home/dingel/models20DocSymp/
 
-location: Source Themes HQ
-address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+location: Montreal (virtual)
 
-summary: An example talk using Academic's Markdown slides feature.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+summary: Feedbacks to Ph.D. students
+abstract: ""
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
+date: "2020-10-19T13:00:00Z"
+date_end: "2020-10-19T14:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2020-10-19T00:00:00Z"
 
-authors: []
+authors: 
+  - admin
 tags: []
 
 # Is this a featured talk? (true/false)
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: ''
   focal_point: Right
 
-links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: ""
-url_slides: ""
+url_slides: "static/files/slides/modelsDocSymp2020.slides.html"
 url_video: ""
 
 # Markdown Slides (optional).
@@ -48,18 +38,17 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: []
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects:
-- internal-project
+projects: []
 
 # Enable math on this page?
-math: true
+math: false
 ---
 
 {{% alert note %}}

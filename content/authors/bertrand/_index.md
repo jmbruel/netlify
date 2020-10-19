@@ -33,7 +33,7 @@ social:
   link: 'mailto:bertrand.meyer@inf.ethz.ch'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/jmbruel
+  link: https://twitter.com/bertrand_meyer
 
 
 

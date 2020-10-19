@@ -8,7 +8,7 @@ summary: ''
 authors:
 - Ileana Ober
 - Marc Palyart
-- Jean-Michel Bruel
+- admin
 - David Lugato
 tags:
 - 'HPC'
