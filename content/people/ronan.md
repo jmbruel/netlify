@@ -10,7 +10,7 @@ note = "Co-directed with Iulian Ober. Bombardier Transportation funding"
 
 # Tags: can be used for filtering projects.
 #tags = ["past","phd","grant"]
-tags = ["current","phd","indus"]
+tags = ["phd","indus"]
 
 # Does the project detail page use math formatting?
 math = false

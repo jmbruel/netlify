@@ -2,11 +2,11 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: Modeling and verification method for an early evaluation of Systems of Systems
-  interactions (regular paper)
+  interactions
 subtitle: ''
 summary: ''
 authors:
-- Ronan Baduel
+- ronan
 - Iulian Ober
 - admin
 tags: []
@@ -41,6 +41,6 @@ abstract: This paper presents the results achieved while pursuing the verificati
   states and preconditions to use cases, as well as a structure for the behavior.
 publication: '*ACM Symposium on Applied Computing (SAC 2020), Brno, Czech Republic,
   30/03/2020-03/04/2020*'
-url_pdf: https://www.irit.fr/~Iulian.Ober/docs/SAC2020.pdf,%20https://doi.org/10.1145/3341105.3373944
-  - https://oatao.univ-toulouse.fr/26362/
+url_pdf: https://www.irit.fr/~Iulian.Ober/docs/SAC2020.pdf
+doi: 10.1145/3341105.3373944
 ---

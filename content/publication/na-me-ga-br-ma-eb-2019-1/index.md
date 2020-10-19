@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Alexandr Naumchev
-- Bertrand Meyer
+- bertrand
 - Manuel Mazzara
 - florian
 - admin

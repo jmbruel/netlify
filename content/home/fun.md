@@ -36,7 +36,7 @@ I have completed in 2018 my longuest trail: the <a href="https://utmbmontblanc.c
 Here are some stuff I'd like to share:
 	<ul>
 	<li>My little brother's <a href="https://www.facebook.com/AtomikBandIii/">band</a>
-	(wanna hear? check <a href="https://www.youtube.com/watch?v=ixWsJPMrobU">this</a>
+	(wanna hear? check <a href="https://www.youtube.com/watch?v=ixWsJPMrobU">this one</a> or < ahref="https://youtu.be/A-UgLgFOxyg">this one</a>
 	and enjoy!)</li>
 	<li>Our <a href="https://bit.ly/jjj-ignaux">litle paradize</a>
 	in the "Pyr&eacute;n&eacute;es"</li>
