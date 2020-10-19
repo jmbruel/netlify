@@ -1,6 +1,6 @@
-= SM@RT web site
+= JMB's web site
 :icons: font
-:hugo: https://github.com/smart-researchteam/smart-researchteam.github.io.git[Hugo]
+:mypages: https://jmbruel.netlify.com
 
 image:https://api.netlify.com/api/v1/badges/5a992dfd-1669-490c-adb5-48b3cbc75a9c/deploy-status[Netlify Status, link="https://app.netlify.com/sites/jmbruel/deploys"]
 
@@ -12,28 +12,23 @@ ifdef::env-github[]
 :warning-caption: :warning:
 endif::[]
 
-This branch hosts the team web pages
+This repo hosts my web pages
 
 WARNING: Work in progress!!
 
-Based on {hugo}.
+The deployed version is here: {mypages}.
 
 == To add content
 
 Students::
 
-- Go to the `content/students` folder and add a `.md+` file for each of your students.
-- Add also a `[[team.students]]` item in the `content/team.md` file
-
-NOTE: This is temporary, DRY principle should be applied everywhere soon ;-)
-
-Pictures::
-
-- upload your picture in the `static/img/team/` folder (default pix is `portrait.jpg`)
+- Go to the `content/authors` folder and add forlder with a `.md+` file with your infos (see other forlders).
+- upload your picture in this folder with the `avatar.jpg` name (also works with `.png`, etc.)
+- commit & submit a pull request
 
 Other content (project, publication, talk)::
 
 - Go to the `content/xxx` folder (e.g., `content/talk`)
-- Follow the existing naming rule (if any) to create a new entry file (e.g., `20180119-CERFACS.md`),
+- Follow the existing naming rule (if any) to create a new entry file,
 by copying an existing one to get the attributes to fill
 
