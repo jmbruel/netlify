@@ -32,3 +32,9 @@ Other content (project, publication, talk)::
 - Follow the existing naming rule (if any) to create a new entry file,
 by copying an existing one to get the attributes to fill
 
+== Tools
+
+This web site uses:
+
+- https://golang.org/[go]
+- https://gohugo.io/[hugo] (`brew install hugo`)
