@@ -72,3 +72,4 @@ You can also access to:
 - <a href="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/b/Bruel:Jean=Michel.html">DBLP</a> Server (16 journals, 73 conference papers referenced, with 139 different co-authors, on 2020/10/16)
 - <a href="http://scholar.google.com/citations?user=5shVHyoAAAAJ&hl=en">Google Scolar</a> (204 papers, H-index 20, 14 since 2015, on 2020/10/16).
 - my <a href="https://www.researchgate.net/profile/Jean-Michel_Bruel2/publications/">ResearchGate</a> page
+- the preprints on <a href="https://hal.archives-ouvertes.fr/search/index/?q=%2A&authIdHal_s=jean-michel-bruel&sort=producedDate_tdate+desc">HAL</a>
