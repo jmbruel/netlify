@@ -26,3 +26,10 @@ image = ""
 caption = ""
 
 +++
+
+This (internal) project groups all the initiative related to placing the (final) user as the priority target of the models.
+
+Here are some examples:
+- Maroun's PhD thesis: Interactive Control Environment: https://github.com/marounkoussaifi/ICE
+- Git4School: https://gitlab.com/jeroli.co/git-supervisor
+- Git Supervisor: https://github.com/git4school/git4school-visu
