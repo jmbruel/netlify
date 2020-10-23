@@ -1,17 +1,18 @@
 ---
-title: Modern Applications Production
-event: Innopolis University, Russia
+title: Innopolis University
+event: 
 event_url: https://innopolis.university/en/
 
 location: Innopolis University, Russia
 
 summary: Master of Science in Information Technology – Software Engineering
-abstract: ""
+abstract: "Teaching 2 electives courses: [F20] Introduction to Pattern Oriented Design
+ and [F20] Modern Application Production"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2015-02-28T00:00:00Z"
-#date_end: ""
+date_end: "2021-06-30"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -50,7 +51,7 @@ slides: []
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects:
-- IU Collaboration
+- innopolis
 
 # Enable math on this page?
 math: false

@@ -27,4 +27,4 @@ caption = "Test"
 
 +++
 
-Chaire Industrielle  
+Chaire Industrielle suite à un dépôt infructueux à l'{{< anr >}} (voir l'<a href="https://anr.fr/fr/detail/call/chaires-industrielles-edition-2020/">appel</a>)
