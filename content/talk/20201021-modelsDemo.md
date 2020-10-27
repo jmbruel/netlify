@@ -3,7 +3,7 @@ title: Papyrus for gamers, let's play modeling (Best Demo Award!)
 event: MODELS'2020 Demo
 event_url: https://papygame.com
 
-active: false
+active: true
 
 location: Montreal (virtual)
 
