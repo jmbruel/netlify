@@ -112,7 +112,7 @@ coordinates = {latitude = "43.648764", longitude = "1.374307"}
 office_hours = []
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
-appointment_url = "https://doodle.com/mm/jeanmichelbruel/book-a-time"
+appointment_url = "https://calendly.com/jmbruel"
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
