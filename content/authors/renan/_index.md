@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: 2020 - Consultant IAM chez Sogeti
+role: 2020 - Ingénieur chez ALTRAN
 
 # Short bio (displayed in user profile at end of posts)
 bio: Ph.D. thesis on "Gestion de la propriété intellectuelle dans la définition et le déploiement d'une approche basée modèle pour l'IS"
