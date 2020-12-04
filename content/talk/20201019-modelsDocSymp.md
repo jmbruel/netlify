@@ -3,7 +3,7 @@ title: Feedbacks to students
 event: MODELS'2020 Doctorial Symposium
 event_url: https://research.cs.queensu.ca/home/dingel/models20DocSymp/
 
-active: false
+active: true
 
 location: Montreal (virtual)
 
