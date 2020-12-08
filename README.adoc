@@ -3,6 +3,7 @@
 :mypages: https://jmbruel.netlify.com
 
 //---------------------------------------- Badges --------------------------------------
+image:https://github.com/jmbruel/starter-academic2/workflows/Jekyll%20site%20CI/badge.svg[Jekyll site CI, link="https://github.com/jmbruel/starter-academic2/workflows/Jekyll%20site%20CI/badge.svg"]
 image:https://api.netlify.com/api/v1/badges/5a992dfd-1669-490c-adb5-48b3cbc75a9c/deploy-status[Netlify Status, link="https://app.netlify.com/sites/jmbruel/deploys"]
 image:https://app.codacy.com/project/badge/Grade/cc502d08b7d04fedad6fa7ffd5e2b99a["Codacy code quality", link="https://www.codacy.com/gh/jmbruel/starter-academic2/dashboard?utm_source=github.com&utm_medium=referral&utm_content=jmbruel/starter-academic2&utm_campaign=Badge_Grade"]
 //---------------------------------------- Badges --------------------------------------
