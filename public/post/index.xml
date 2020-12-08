@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts | Jean-Michel Bruel</title>
+    <link>https://jmbruell.netlify.com/post/</link>
+      <atom:link href="https://jmbruell.netlify.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020 - ACDC. Last update: 08/12/2020</copyright>
+    <image>
+      <url>https://jmbruell.netlify.com/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
+      <title>Posts</title>
+      <link>https://jmbruell.netlify.com/post/</link>
+    </image>
+    
+  </channel>
+</rss>
