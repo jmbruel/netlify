@@ -8,7 +8,7 @@
 
 # Check for prerequisites.
 if [ ! -d content ]; then
-  echo "ERROR: `cd` into your website folder before running this tool."
+  echo "ERROR: $(cd) into your website folder before running this tool."
   exit 1;
 fi
 
