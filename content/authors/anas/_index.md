@@ -1,5 +1,5 @@
 ---
-[comment]: # Display name
+# Display name
 title: Anas Motii
 
 # Username (this should match the folder name)

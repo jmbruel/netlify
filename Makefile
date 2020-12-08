@@ -15,3 +15,6 @@ codecov:
 clean:
 	hugo mod clean
 	hugo mod get -u ./...
+
+install_netlify_client:
+	npm install netlify-cli -g
