@@ -1,4 +1,6 @@
 = JMB's web site
+
+image:https://api.codacy.com/project/badge/Grade/a2af4a0033aa44fe9a1a0555d3f2f1ce[link="https://app.codacy.com/gh/jmbruel/starter-academic2?utm_source=github.com&utm_medium=referral&utm_content=jmbruel/starter-academic2&utm_campaign=Badge_Grade"]
 :icons: font
 :mypages: https://jmbruel.netlify.com
 
