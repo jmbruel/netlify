@@ -10,13 +10,15 @@ authors:
 superuser: false
 
 # Role/position
-role: Ph.D. student since 10/2017
+# role: Ph.D. student since 10/2017
+role: 18/12/2020 - Consultant at Antipolis
 
 # Short bio (displayed in user profile at end of posts)
 bio: "Ph.D. thesis on Smart User-Centric Modeling using Opportunistic Artefact Compositions"
-from: "2016-10-01"
+from: "2017-10-01"
+to: "2020-12-18"
 note: "Co-directed with Jean-Paul Arcangeli and Sylvie Trouilhet. Doctorial School Grant."
-external_link: "http://fgalinier.fr"
+external_link: ""
 
 
 # Organizations/Affiliations
@@ -25,7 +27,7 @@ external_link: "http://fgalinier.fr"
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Co-directed with Bertrand Meyer and Sophie Ebersold
+bio: Co-directed with Jean-Paul Archangeli and Sylvie Trouilhet.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -45,10 +47,10 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Ph.D. Students
+- Former Ph.D. Students
 
 # Tags: can be used for filtering projects.
 #tags = ["past","phd","grant"]
-tags: ["current","phd","grant","fun"]
+tags: ["past","phd","grant","fun"]
 
 ---

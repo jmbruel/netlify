@@ -1,16 +1,291 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags | Jean-Michel Bruel</title>
+    <title>Tags on Jean-Michel Bruel</title>
     <link>https://jmbruell.netlify.com/tags/</link>
-      <atom:link href="https://jmbruell.netlify.com/tags/index.xml" rel="self" type="application/rss+xml" />
-    <description>Tags</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020 - ACDC. Last update: 08/12/2020</copyright><lastBuildDate>Fri, 11 Dec 2020 11:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://jmbruell.netlify.com/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
-      <title>Tags</title>
-      <link>https://jmbruell.netlify.com/tags/</link>
-    </image>
+    <description>Recent content in Tags on Jean-Michel Bruel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; {year} - ACDC. Last update: 18/12/2020</copyright>
+    <lastBuildDate>Fri, 11 Dec 2020 11:00:00 +0000</lastBuildDate><atom:link href="https://jmbruell.netlify.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Teaching</title>
+      <link>https://jmbruell.netlify.com/tag/teaching/</link>
+      <pubDate>Fri, 11 Dec 2020 11:00:00 +0000</pubDate>
+      
+      <guid>https://jmbruell.netlify.com/tag/teaching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FUN</title>
+      <link>https://jmbruell.netlify.com/tag/fun/</link>
+      <pubDate>Wed, 21 Oct 2020 18:00:00 +0000</pubDate>
+      
+      <guid>https://jmbruell.netlify.com/tag/fun/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gamification</title>
+      <link>https://jmbruell.netlify.com/tag/gamification/</link>
+      <pubDate>Wed, 21 Oct 2020 18:00:00 +0000</pubDate>
+      
+      <guid>https://jmbruell.netlify.com/tag/gamification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Papyrus</title>
+      <link>https://jmbruell.netlify.com/tag/papyrus/</link>
+      <pubDate>Wed, 21 Oct 2020 18:00:00 +0000</pubDate>
+      
+      <guid>https://jmbruell.netlify.com/tag/papyrus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MDE</title>
+      <link>https://jmbruell.netlify.com/tag/mde/</link>
+      <pubDate>Tue, 20 Oct 2020 10:20:41 +0000</pubDate>
+      
+      <guid>https://jmbruell.netlify.com/tag/mde/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Collaboration</title>
+      <link>https://jmbruell.netlify.com/tag/collaboration/</link>
+      <pubDate>Mon, 19 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jmbruell.netlify.com/tag/collaboration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lean</title>
+      <link>https://jmbruell.netlify.com/tag/lean/</link>
+      <pubDate>Mon, 19 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jmbruell.netlify.com/tag/lean/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Requirements</title>
+      <link>https://jmbruell.netlify.com/tag/requirements/</link>
+      <pubDate>Mon, 19 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jmbruell.netlify.com/tag/requirements/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sustainability</title>
+      <link>https://jmbruell.netlify.com/tag/sustainability/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jmbruell.netlify.com/tag/sustainability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Systems of Systems</title>
+      <link>https://jmbruell.netlify.com/tag/systems-of-systems/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jmbruell.netlify.com/tag/systems-of-systems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>V&amp;V</title>
+      <link>https://jmbruell.netlify.com/tag/vv/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jmbruell.netlify.com/tag/vv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ambient intelligence</title>
+      <link>https://jmbruell.netlify.com/tag/ambient-intelligence/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://jmbruell.netlify.com/tag/ambient-intelligence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Service Composition</title>
+      <link>https://jmbruell.netlify.com/tag/service-composition/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://jmbruell.netlify.com/tag/service-composition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eiffel</title>
+      <link>https://jmbruell.netlify.com/tag/eiffel/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://jmbruell.netlify.com/tag/eiffel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multirequirements</title>
+      <link>https://jmbruell.netlify.com/tag/multirequirements/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://jmbruell.netlify.com/tag/multirequirements/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://jmbruell.netlify.com/tag/publications/</link>
+      <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://jmbruell.netlify.com/tag/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DSL</title>
+      <link>https://jmbruell.netlify.com/tag/dsl/</link>
+      <pubDate>Fri, 27 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://jmbruell.netlify.com/tag/dsl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HPC</title>
+      <link>https://jmbruell.netlify.com/tag/hpc/</link>
+      <pubDate>Fri, 27 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://jmbruell.netlify.com/tag/hpc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent</title>
+      <link>https://jmbruell.netlify.com/tag/recent/</link>
+      <pubDate>Fri, 27 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://jmbruell.netlify.com/tag/recent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RELAX</title>
+      <link>https://jmbruell.netlify.com/tag/relax/</link>
+      <pubDate>Fri, 27 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://jmbruell.netlify.com/tag/relax/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SysML</title>
+      <link>https://jmbruell.netlify.com/tag/sysml/</link>
+      <pubDate>Tue, 26 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://jmbruell.netlify.com/tag/sysml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Architecture</title>
+      <link>https://jmbruell.netlify.com/tag/architecture/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://jmbruell.netlify.com/tag/architecture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MBSE</title>
+      <link>https://jmbruell.netlify.com/tag/mbse/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://jmbruell.netlify.com/tag/mbse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simulation</title>
+      <link>https://jmbruell.netlify.com/tag/simulation/</link>
+      <pubDate>Fri, 27 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://jmbruell.netlify.com/tag/simulation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Globalization</title>
+      <link>https://jmbruell.netlify.com/tag/globalization/</link>
+      <pubDate>Thu, 19 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://jmbruell.netlify.com/tag/globalization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Language</title>
+      <link>https://jmbruell.netlify.com/tag/language/</link>
+      <pubDate>Thu, 19 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://jmbruell.netlify.com/tag/language/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>past</title>
+      <link>https://jmbruell.netlify.com/tag/past/</link>
+      <pubDate>Thu, 19 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://jmbruell.netlify.com/tag/past/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Workbench</title>
+      <link>https://jmbruell.netlify.com/tag/workbench/</link>
+      <pubDate>Thu, 19 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://jmbruell.netlify.com/tag/workbench/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Formal Requirements</title>
+      <link>https://jmbruell.netlify.com/tag/formal-requirements/</link>
+      <pubDate>Wed, 07 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://jmbruell.netlify.com/tag/formal-requirements/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Education</title>
+      <link>https://jmbruell.netlify.com/tag/education/</link>
+      <pubDate>Mon, 03 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://jmbruell.netlify.com/tag/education/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Agile Methods</title>
+      <link>https://jmbruell.netlify.com/tag/agile-methods/</link>
+      <pubDate>Sat, 28 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://jmbruell.netlify.com/tag/agile-methods/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

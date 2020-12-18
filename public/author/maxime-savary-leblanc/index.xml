@@ -1,23 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Maxime Savary-Leblanc | Jean-Michel Bruel</title>
+    <title>Maxime Savary-Leblanc on Jean-Michel Bruel</title>
     <link>https://jmbruell.netlify.com/author/maxime-savary-leblanc/</link>
-      <atom:link href="https://jmbruell.netlify.com/author/maxime-savary-leblanc/index.xml" rel="self" type="application/rss+xml" />
-    <description>Maxime Savary-Leblanc</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020 - ACDC. Last update: 08/12/2020</copyright><lastBuildDate>Wed, 21 Oct 2020 18:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://jmbruell.netlify.com/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
-      <title>Maxime Savary-Leblanc</title>
-      <link>https://jmbruell.netlify.com/author/maxime-savary-leblanc/</link>
-    </image>
-    
+    <description>Recent content in Maxime Savary-Leblanc on Jean-Michel Bruel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; {year} - ACDC. Last update: 18/12/2020</copyright>
+    <lastBuildDate>Wed, 21 Oct 2020 18:00:00 +0000</lastBuildDate><atom:link href="https://jmbruell.netlify.com/author/maxime-savary-leblanc/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Papyrus for gamers, let&#39;s play modeling (Best Demo Award!)</title>
       <link>https://jmbruell.netlify.com/talk/20201021-modelsdemo/</link>
       <pubDate>Wed, 21 Oct 2020 18:00:00 +0000</pubDate>
+      
       <guid>https://jmbruell.netlify.com/talk/20201021-modelsdemo/</guid>
-      <description></description>
+      <description>Demo of PapyGame by Antonio Bucchiarone</description>
     </item>
     
   </channel>

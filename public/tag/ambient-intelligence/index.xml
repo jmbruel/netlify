@@ -1,21 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ambient intelligence | Jean-Michel Bruel</title>
+    <title>Ambient intelligence on Jean-Michel Bruel</title>
     <link>https://jmbruell.netlify.com/tag/ambient-intelligence/</link>
-      <atom:link href="https://jmbruell.netlify.com/tag/ambient-intelligence/index.xml" rel="self" type="application/rss+xml" />
-    <description>Ambient intelligence</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020 - ACDC. Last update: 08/12/2020</copyright><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://jmbruell.netlify.com/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
-      <title>Ambient intelligence</title>
-      <link>https://jmbruell.netlify.com/tag/ambient-intelligence/</link>
-    </image>
-    
+    <description>Recent content in Ambient intelligence on Jean-Michel Bruel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; {year} - ACDC. Last update: 18/12/2020</copyright>
+    <lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://jmbruell.netlify.com/tag/ambient-intelligence/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Automated user-oriented description of emerging composite ambient applications</title>
       <link>https://jmbruell.netlify.com/publication/ko-2019-2/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      
       <guid>https://jmbruell.netlify.com/publication/ko-2019-2/</guid>
       <description></description>
     </item>
