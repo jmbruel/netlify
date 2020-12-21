@@ -38,6 +38,31 @@
   </url>
   
   <url>
+    <loc>https://jmbruell.netlify.com/project/airbus/</loc>
+    <lastmod>2020-10-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jmbruell.netlify.com/tag/lean/</loc>
+    <lastmod>2020-10-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jmbruell.netlify.com/tag/mbse/</loc>
+    <lastmod>2020-10-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jmbruell.netlify.com/project/</loc>
+    <lastmod>2020-10-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jmbruell.netlify.com/tag/vv/</loc>
+    <lastmod>2020-10-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jmbruell.netlify.com/author/annapaola-marconi/</loc>
     <lastmod>2020-10-21T18:00:00+00:00</lastmod>
   </url>
@@ -268,16 +293,6 @@
   </url>
   
   <url>
-    <loc>https://jmbruell.netlify.com/tag/lean/</loc>
-    <lastmod>2020-10-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jmbruell.netlify.com/project/</loc>
-    <lastmod>2020-10-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://jmbruell.netlify.com/tag/requirements/</loc>
     <lastmod>2020-10-19T00:00:00+00:00</lastmod>
   </url>
@@ -425,11 +440,6 @@
   <url>
     <loc>https://jmbruell.netlify.com/publication/dblp-journalscacm-kienzle-mcbbbbbc-20/</loc>
     <lastmod>2020-10-19T15:28:59+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jmbruell.netlify.com/tag/vv/</loc>
-    <lastmod>2020-10-19T16:17:57+02:00</lastmod>
   </url>
   
   <url>
@@ -740,11 +750,6 @@
   <url>
     <loc>https://jmbruell.netlify.com/talk/20171119-cafe-irit/</loc>
     <lastmod>2017-11-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jmbruell.netlify.com/tag/mbse/</loc>
-    <lastmod>2017-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>

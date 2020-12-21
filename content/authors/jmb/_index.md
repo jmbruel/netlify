@@ -55,7 +55,7 @@ social:
   link: https://twitter.com/jmbruel
 - icon: github
   icon_pack: fab
-  link: https://github.com/jmbruel
+  link: https://github.com/jmbruel/starter-academic2
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/jmbruel/

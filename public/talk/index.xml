@@ -1,45 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent &amp; Upcoming Talks on Jean-Michel Bruel</title>
+    <title>Recent &amp; Upcoming Talks | Jean-Michel Bruel</title>
     <link>https://jmbruell.netlify.com/talk/</link>
-    <description>Recent content in Recent &amp; Upcoming Talks on Jean-Michel Bruel</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; {year} - ACDC. Last update: 18/12/2020</copyright>
-    <lastBuildDate>Fri, 11 Dec 2020 11:00:00 +0000</lastBuildDate><atom:link href="https://jmbruell.netlify.com/talk/index.xml" rel="self" type="application/rss+xml" />
+      <atom:link href="https://jmbruell.netlify.com/talk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent &amp; Upcoming Talks</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020 - ACDC. Last update: 21/12/2020</copyright><lastBuildDate>Fri, 11 Dec 2020 11:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jmbruell.netlify.com/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://jmbruell.netlify.com/talk/</link>
+    </image>
+    
     <item>
       <title>Le Monde d’après 2020</title>
       <link>https://jmbruell.netlify.com/talk/20201204-cusi/</link>
       <pubDate>Fri, 11 Dec 2020 11:00:00 +0000</pubDate>
-      
       <guid>https://jmbruell.netlify.com/talk/20201204-cusi/</guid>
-      <description>Retours sur les impacts de la COVID&#39;19 en termes d&amp;rsquo;enseignements dans le supérieur</description>
+      <description></description>
     </item>
     
     <item>
       <title>Papyrus for gamers, let&#39;s play modeling (Best Demo Award!)</title>
       <link>https://jmbruell.netlify.com/talk/20201021-modelsdemo/</link>
       <pubDate>Wed, 21 Oct 2020 18:00:00 +0000</pubDate>
-      
       <guid>https://jmbruell.netlify.com/talk/20201021-modelsdemo/</guid>
-      <description>Demo of PapyGame by Antonio Bucchiarone</description>
+      <description></description>
     </item>
     
     <item>
       <title>Feedbacks to students</title>
       <link>https://jmbruell.netlify.com/talk/20201019-modelsdocsymp/</link>
       <pubDate>Mon, 19 Oct 2020 18:00:00 +0000</pubDate>
-      
       <guid>https://jmbruell.netlify.com/talk/20201019-modelsdocsymp/</guid>
-      <description>Feedbacks to Ph.D. students</description>
+      <description></description>
     </item>
     
     <item>
       <title>Formality in Requirements</title>
       <link>https://jmbruell.netlify.com/talk/20190924-formreq/</link>
       <pubDate>Tue, 24 Sep 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://jmbruell.netlify.com/talk/20190924-formreq/</guid>
       <description></description>
     </item>
@@ -48,7 +48,6 @@
       <title>Teaching DevOps</title>
       <link>https://jmbruell.netlify.com/talk/20190917-devopsmodels/</link>
       <pubDate>Tue, 17 Sep 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://jmbruell.netlify.com/talk/20190917-devopsmodels/</guid>
       <description></description>
     </item>
@@ -57,7 +56,6 @@
       <title>DevOps &amp; Requirements</title>
       <link>https://jmbruell.netlify.com/talk/20190508-devops19/</link>
       <pubDate>Wed, 08 May 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://jmbruell.netlify.com/talk/20190508-devops19/</guid>
       <description></description>
     </item>
@@ -66,7 +64,6 @@
       <title>Quizz Driven Teaching</title>
       <link>https://jmbruell.netlify.com/talk/20180412-ariut/</link>
       <pubDate>Thu, 12 Apr 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://jmbruell.netlify.com/talk/20180412-ariut/</guid>
       <description></description>
     </item>
@@ -75,7 +72,6 @@
       <title>Ingénierie Dirigée par les Modèles et Domain Specific Languages : application à la simulation numérique haute-performance</title>
       <link>https://jmbruell.netlify.com/talk/20180119-cerfacs/</link>
       <pubDate>Fri, 19 Jan 2018 11:00:00 +0000</pubDate>
-      
       <guid>https://jmbruell.netlify.com/talk/20180119-cerfacs/</guid>
       <description></description>
     </item>
@@ -84,7 +80,6 @@
       <title>Défilé de modèles</title>
       <link>https://jmbruell.netlify.com/talk/20171119-cafe-irit/</link>
       <pubDate>Sun, 19 Nov 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://jmbruell.netlify.com/talk/20171119-cafe-irit/</guid>
       <description></description>
     </item>
@@ -93,7 +88,6 @@
       <title>New SM@RT team presentation</title>
       <link>https://jmbruell.netlify.com/talk/20171012-cs-irit/</link>
       <pubDate>Thu, 12 Oct 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://jmbruell.netlify.com/talk/20171012-cs-irit/</guid>
       <description></description>
     </item>

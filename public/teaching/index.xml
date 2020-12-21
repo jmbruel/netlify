@@ -1,30 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Teachings on Jean-Michel Bruel</title>
+    <title>Teachings | Jean-Michel Bruel</title>
     <link>https://jmbruell.netlify.com/teaching/</link>
-    <description>Recent content in Teachings on Jean-Michel Bruel</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; {year} - ACDC. Last update: 18/12/2020</copyright>
-    <lastBuildDate>Fri, 20 Oct 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://jmbruell.netlify.com/teaching/index.xml" rel="self" type="application/rss+xml" />
+      <atom:link href="https://jmbruell.netlify.com/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <description>Teachings</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020 - ACDC. Last update: 21/12/2020</copyright><lastBuildDate>Fri, 20 Oct 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jmbruell.netlify.com/media/tuxteacher.png</url>
+      <title>Teachings</title>
+      <link>https://jmbruell.netlify.com/teaching/</link>
+    </image>
+    
     <item>
       <title>Mobile Application Modeling</title>
       <link>https://jmbruell.netlify.com/teaching/mobilemodeling/</link>
       <pubDate>Fri, 20 Oct 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://jmbruell.netlify.com/teaching/mobilemodeling/</guid>
-      <description>In this course, I am teaching specifics of Mobile Applications in terms of modeling activities.
-This course is taugh since 2015.</description>
+      <description>&lt;p&gt;In this course, I am teaching specifics of Mobile Applications in terms of modeling activities.&lt;/p&gt;
+&lt;p&gt;This course is taugh since 2015.&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Innopolis University</title>
       <link>https://jmbruell.netlify.com/teaching/innopolis/</link>
       <pubDate>Sat, 28 Feb 2015 00:00:00 +0000</pubDate>
-      
       <guid>https://jmbruell.netlify.com/teaching/innopolis/</guid>
-      <description>Master of Science in Information Technology – Software Engineering</description>
+      <description></description>
     </item>
     
   </channel>

@@ -1,20 +1,23 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>past on Jean-Michel Bruel</title>
+    <title>past | Jean-Michel Bruel</title>
     <link>https://jmbruell.netlify.com/tag/past/</link>
-    <description>Recent content in past on Jean-Michel Bruel</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; {year} - ACDC. Last update: 18/12/2020</copyright>
-    <lastBuildDate>Thu, 19 Oct 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://jmbruell.netlify.com/tag/past/index.xml" rel="self" type="application/rss+xml" />
+      <atom:link href="https://jmbruell.netlify.com/tag/past/index.xml" rel="self" type="application/rss+xml" />
+    <description>past</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020 - ACDC. Last update: 21/12/2020</copyright><lastBuildDate>Thu, 19 Oct 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jmbruell.netlify.com/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
+      <title>past</title>
+      <link>https://jmbruell.netlify.com/tag/past/</link>
+    </image>
+    
     <item>
       <title>Moise</title>
       <link>https://jmbruell.netlify.com/project/moise/</link>
       <pubDate>Thu, 19 Oct 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://jmbruell.netlify.com/project/moise/</guid>
-      <description>MOdels and Information Sharing for System Engineering in Extended Entreprise</description>
+      <description></description>
     </item>
     
   </channel>
