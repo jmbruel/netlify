@@ -4,6 +4,8 @@
 BIBLIO=biblio.bib
 #-----------------------------------------------------
 
+# Generate articles from Bibtex entries. 
+# pip3 install -U academic
 biblio: 
 	@echo '==> Generating publication entries'
 	academic import --bibtex $(BIBLIO) -v 
