@@ -5,7 +5,7 @@
     <link>https://jmbruell.netlify.com/author/hamna-aslam/</link>
       <atom:link href="https://jmbruell.netlify.com/author/hamna-aslam/index.xml" rel="self" type="application/rss+xml" />
     <description>Hamna Aslam</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020 - ACDC. Last update: 21/12/2020</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 - ACDC. Last update: 21/12/2020</copyright><lastBuildDate>Wed, 21 Oct 2020 18:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jmbruell.netlify.com/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
       <title>Hamna Aslam</title>
@@ -13,11 +13,16 @@
     </image>
     
     <item>
-      <title>Reflections on Teaching Formal Methods for Software Development in Higher Education</title>
-      <link>https://jmbruell.netlify.com/publication/dblp-conffisee-khazeev-acmbb-19/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://jmbruell.netlify.com/publication/dblp-conffisee-khazeev-acmbb-19/</guid>
+      <title>Papyrus for gamers, let&#39;s play modeling (Best Demo Award!)</title>
+      <link>https://jmbruell.netlify.com/talk/20201021-modelsdemo/</link>
+      <pubDate>Wed, 21 Oct 2020 18:00:00 +0000</pubDate>
+      <guid>https://jmbruell.netlify.com/talk/20201021-modelsdemo/</guid>
       <description></description>
+    </item>
+    
+  </channel>
+</rss>
+iption></description>
     </item>
     
   </channel>
