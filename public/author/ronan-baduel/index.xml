@@ -2,30 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ronan Baduel | Jean-Michel Bruel</title>
-    <link>https://jmbruell.netlify.com/author/ronan-baduel/</link>
-      <atom:link href="https://jmbruell.netlify.com/author/ronan-baduel/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jmbruell.netlify.app/author/ronan-baduel/</link>
+      <atom:link href="https://jmbruell.netlify.app/author/ronan-baduel/index.xml" rel="self" type="application/rss+xml" />
     <description>Ronan Baduel</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 - ACDC. Last update: 21/12/2020</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 - ACDC. Last update: 26/03/2021</copyright><lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jmbruell.netlify.com/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
+      <url>https://jmbruell.netlify.app/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
       <title>Ronan Baduel</title>
-      <link>https://jmbruell.netlify.com/author/ronan-baduel/</link>
+      <link>https://jmbruell.netlify.app/author/ronan-baduel/</link>
     </image>
     
     <item>
-      <title>Modeling and verification method for an early evaluation of systems of systems interactions</title>
-      <link>https://jmbruell.netlify.com/publication/dblp-confsac-baduel-ob-20/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://jmbruell.netlify.com/publication/dblp-confsac-baduel-ob-20/</guid>
+      <title>Modeling and verification method for an early evaluation of Systems of Systems interactions</title>
+      <link>https://jmbruell.netlify.app/publication/ba-ob-br-2020-1/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://jmbruell.netlify.app/publication/ba-ob-br-2020-1/</guid>
       <description></description>
     </item>
     
-  </channel>
-</rss>
-ification and Validation in an Industrial Context: Challenges and Experimentation</title>
-      <link>https://jmbruell.netlify.com/publication/ecmfa18/</link>
+    <item>
+      <title>SysML Models Verification and Validation in an Industrial Context: Challenges and Experimentation</title>
+      <link>https://jmbruell.netlify.app/publication/ecmfa18/</link>
       <pubDate>Tue, 26 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>https://jmbruell.netlify.com/publication/ecmfa18/</guid>
+      <guid>https://jmbruell.netlify.app/publication/ecmfa18/</guid>
       <description></description>
     </item>
     

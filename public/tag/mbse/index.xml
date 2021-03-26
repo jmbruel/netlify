@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>MBSE | Jean-Michel Bruel</title>
-    <link>https://jmbruell.netlify.com/tag/mbse/</link>
-      <atom:link href="https://jmbruell.netlify.com/tag/mbse/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jmbruell.netlify.app/tag/mbse/</link>
+      <atom:link href="https://jmbruell.netlify.app/tag/mbse/index.xml" rel="self" type="application/rss+xml" />
     <description>MBSE</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 - ACDC. Last update: 21/12/2020</copyright><lastBuildDate>Wed, 01 Nov 2017 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 - ACDC. Last update: 26/03/2021</copyright><lastBuildDate>Wed, 01 Nov 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jmbruell.netlify.com/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
+      <url>https://jmbruell.netlify.app/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
       <title>MBSE</title>
-      <link>https://jmbruell.netlify.com/tag/mbse/</link>
+      <link>https://jmbruell.netlify.app/tag/mbse/</link>
     </image>
     
     <item>
       <title>MBSE &amp; Early Validation</title>
-      <link>https://jmbruell.netlify.com/project/bombardier/</link>
+      <link>https://jmbruell.netlify.app/project/bombardier/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>https://jmbruell.netlify.com/project/bombardier/</guid>
+      <guid>https://jmbruell.netlify.app/project/bombardier/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Modeling Co-simulation: A First Experiment</title>
-      <link>https://jmbruell.netlify.com/publication/gemoc2017/</link>
+      <link>https://jmbruell.netlify.app/publication/gemoc2017/</link>
       <pubDate>Fri, 27 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>https://jmbruell.netlify.com/publication/gemoc2017/</guid>
+      <guid>https://jmbruell.netlify.app/publication/gemoc2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Moise</title>
-      <link>https://jmbruell.netlify.com/project/moise/</link>
+      <link>https://jmbruell.netlify.app/project/moise/</link>
       <pubDate>Thu, 19 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>https://jmbruell.netlify.com/project/moise/</guid>
+      <guid>https://jmbruell.netlify.app/project/moise/</guid>
       <description></description>
     </item>
     

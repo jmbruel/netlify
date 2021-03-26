@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Marc Palyart | Jean-Michel Bruel</title>
-    <link>https://jmbruell.netlify.com/author/marc-palyart/</link>
-      <atom:link href="https://jmbruell.netlify.com/author/marc-palyart/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jmbruell.netlify.app/author/marc-palyart/</link>
+      <atom:link href="https://jmbruell.netlify.app/author/marc-palyart/index.xml" rel="self" type="application/rss+xml" />
     <description>Marc Palyart</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 - ACDC. Last update: 21/12/2020</copyright><lastBuildDate>Fri, 27 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 - ACDC. Last update: 26/03/2021</copyright><lastBuildDate>Fri, 27 Jul 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jmbruell.netlify.com/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
+      <url>https://jmbruell.netlify.app/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
       <title>Marc Palyart</title>
-      <link>https://jmbruell.netlify.com/author/marc-palyart/</link>
+      <link>https://jmbruell.netlify.app/author/marc-palyart/</link>
     </image>
     
     <item>
       <title>On the use of models for high-performance scientific computing applications: an experience report</title>
-      <link>https://jmbruell.netlify.com/publication/sosym2018/</link>
+      <link>https://jmbruell.netlify.app/publication/sosym2018/</link>
       <pubDate>Fri, 27 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>https://jmbruell.netlify.com/publication/sosym2018/</guid>
+      <guid>https://jmbruell.netlify.app/publication/sosym2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On the Use of Models for High-Performance Scientific Computing Applications: an Experience Report</title>
-      <link>https://jmbruell.netlify.com/publication/ob-pa-br-lu-2018-1/</link>
+      <link>https://jmbruell.netlify.app/publication/ob-pa-br-lu-2018-1/</link>
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>https://jmbruell.netlify.com/publication/ob-pa-br-lu-2018-1/</guid>
+      <guid>https://jmbruell.netlify.app/publication/ob-pa-br-lu-2018-1/</guid>
       <description></description>
     </item>
     

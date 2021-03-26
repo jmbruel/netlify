@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Birgit Penzenstadler | Jean-Michel Bruel</title>
-    <link>https://jmbruell.netlify.com/author/birgit-penzenstadler/</link>
-      <atom:link href="https://jmbruell.netlify.com/author/birgit-penzenstadler/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jmbruell.netlify.app/author/birgit-penzenstadler/</link>
+      <atom:link href="https://jmbruell.netlify.app/author/birgit-penzenstadler/index.xml" rel="self" type="application/rss+xml" />
     <description>Birgit Penzenstadler</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 - ACDC. Last update: 21/12/2020</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 - ACDC. Last update: 26/03/2021</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jmbruell.netlify.com/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
+      <url>https://jmbruell.netlify.app/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
       <title>Birgit Penzenstadler</title>
-      <link>https://jmbruell.netlify.com/author/birgit-penzenstadler/</link>
+      <link>https://jmbruell.netlify.app/author/birgit-penzenstadler/</link>
     </image>
     
     <item>
       <title>Toward model-driven sustainability evaluation</title>
-      <link>https://jmbruell.netlify.com/publication/dblp-journalscacm-kienzle-mcbbbbbc-20/</link>
+      <link>https://jmbruell.netlify.app/publication/dblp-journalscacm-kienzle-mcbbbbbc-20/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://jmbruell.netlify.com/publication/dblp-journalscacm-kienzle-mcbbbbbc-20/</guid>
+      <guid>https://jmbruell.netlify.app/publication/dblp-journalscacm-kienzle-mcbbbbbc-20/</guid>
       <description></description>
     </item>
     

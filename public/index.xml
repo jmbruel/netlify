@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jean-Michel Bruel</title>
-    <link>https://jmbruell.netlify.com/</link>
-      <atom:link href="https://jmbruell.netlify.com/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jmbruell.netlify.app/</link>
+      <atom:link href="https://jmbruell.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <description>Jean-Michel Bruel</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 - ACDC. Last update: 21/12/2020</copyright><lastBuildDate>Fri, 11 Dec 2020 11:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 - ACDC. Last update: 26/03/2021</copyright><lastBuildDate>Fri, 11 Dec 2020 11:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jmbruell.netlify.com/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
+      <url>https://jmbruell.netlify.app/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
       <title>Jean-Michel Bruel</title>
-      <link>https://jmbruell.netlify.com/</link>
+      <link>https://jmbruell.netlify.app/</link>
     </image>
     
     <item>
       <title>Le Monde d’après 2020</title>
-      <link>https://jmbruell.netlify.com/talk/20201204-cusi/</link>
+      <link>https://jmbruell.netlify.app/talk/20201204-cusi/</link>
       <pubDate>Fri, 11 Dec 2020 11:00:00 +0000</pubDate>
-      <guid>https://jmbruell.netlify.com/talk/20201204-cusi/</guid>
+      <guid>https://jmbruell.netlify.app/talk/20201204-cusi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Papyrus for gamers, let&#39;s play modeling (Best Demo Award!)</title>
-      <link>https://jmbruell.netlify.com/talk/20201021-modelsdemo/</link>
+      <link>https://jmbruell.netlify.app/talk/20201021-modelsdemo/</link>
       <pubDate>Wed, 21 Oct 2020 18:00:00 +0000</pubDate>
-      <guid>https://jmbruell.netlify.com/talk/20201021-modelsdemo/</guid>
+      <guid>https://jmbruell.netlify.app/talk/20201021-modelsdemo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Hitchhiker’s Guide to Model-Driven Engineering for Data-Centric Systems</title>
-      <link>https://jmbruell.netlify.com/publication/9094197/</link>
+      <link>https://jmbruell.netlify.app/publication/9094197/</link>
       <pubDate>Tue, 20 Oct 2020 10:20:41 +0000</pubDate>
-      <guid>https://jmbruell.netlify.com/publication/9094197/</guid>
+      <guid>https://jmbruell.netlify.app/publication/9094197/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Feedbacks to students</title>
-      <link>https://jmbruell.netlify.com/talk/20201019-modelsdocsymp/</link>
+      <link>https://jmbruell.netlify.app/talk/20201019-modelsdocsymp/</link>
       <pubDate>Mon, 19 Oct 2020 18:00:00 +0000</pubDate>
-      <guid>https://jmbruell.netlify.com/talk/20201019-modelsdocsymp/</guid>
+      <guid>https://jmbruell.netlify.app/talk/20201019-modelsdocsymp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Formal Requirements</title>
-      <link>https://jmbruell.netlify.com/project/innopolis/</link>
+      <link>https://jmbruell.netlify.app/project/innopolis/</link>
       <pubDate>Mon, 19 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://jmbruell.netlify.com/project/innopolis/</guid>
+      <guid>https://jmbruell.netlify.app/project/innopolis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>FUN Modeling</title>
-      <link>https://jmbruell.netlify.com/project/fun/</link>
+      <link>https://jmbruell.netlify.app/project/fun/</link>
       <pubDate>Mon, 19 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://jmbruell.netlify.com/project/fun/</guid>
+      <guid>https://jmbruell.netlify.app/project/fun/</guid>
       <description>&lt;p&gt;This (internal) project groups all the initiative related to placing the (final) user as the priority target of the models.&lt;/p&gt;
 &lt;p&gt;Here are some examples:&lt;/p&gt;
 &lt;ul&gt;
@@ -69,209 +69,209 @@
     
     <item>
       <title>Modeling and verification method for an early evaluation of Systems of Systems interactions</title>
-      <link>https://jmbruell.netlify.com/publication/ba-ob-br-2020-1/</link>
+      <link>https://jmbruell.netlify.app/publication/ba-ob-br-2020-1/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://jmbruell.netlify.com/publication/ba-ob-br-2020-1/</guid>
+      <guid>https://jmbruell.netlify.app/publication/ba-ob-br-2020-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Comparing and classifying model transformation reuse approaches across metamodels</title>
-      <link>https://jmbruell.netlify.com/publication/dblp-journalssosym-bruel-cgjklmsv-20/</link>
+      <link>https://jmbruell.netlify.app/publication/dblp-journalssosym-bruel-cgjklmsv-20/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://jmbruell.netlify.com/publication/dblp-journalssosym-bruel-cgjklmsv-20/</guid>
+      <guid>https://jmbruell.netlify.app/publication/dblp-journalssosym-bruel-cgjklmsv-20/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Modeling and verification method for an early evaluation of systems of systems interactions</title>
-      <link>https://jmbruell.netlify.com/publication/dblp-confsac-baduel-ob-20/</link>
+      <link>https://jmbruell.netlify.app/publication/dblp-confsac-baduel-ob-20/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://jmbruell.netlify.com/publication/dblp-confsac-baduel-ob-20/</guid>
+      <guid>https://jmbruell.netlify.app/publication/dblp-confsac-baduel-ob-20/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Toward model-driven sustainability evaluation</title>
-      <link>https://jmbruell.netlify.com/publication/dblp-journalscacm-kienzle-mcbbbbbc-20/</link>
+      <link>https://jmbruell.netlify.app/publication/dblp-journalscacm-kienzle-mcbbbbbc-20/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://jmbruell.netlify.com/publication/dblp-journalscacm-kienzle-mcbbbbbc-20/</guid>
+      <guid>https://jmbruell.netlify.app/publication/dblp-journalscacm-kienzle-mcbbbbbc-20/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Formality in Requirements</title>
-      <link>https://jmbruell.netlify.com/talk/20190924-formreq/</link>
+      <link>https://jmbruell.netlify.app/talk/20190924-formreq/</link>
       <pubDate>Tue, 24 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://jmbruell.netlify.com/talk/20190924-formreq/</guid>
+      <guid>https://jmbruell.netlify.app/talk/20190924-formreq/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Teaching DevOps</title>
-      <link>https://jmbruell.netlify.com/talk/20190917-devopsmodels/</link>
+      <link>https://jmbruell.netlify.app/talk/20190917-devopsmodels/</link>
       <pubDate>Tue, 17 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://jmbruell.netlify.com/talk/20190917-devopsmodels/</guid>
+      <guid>https://jmbruell.netlify.app/talk/20190917-devopsmodels/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Automated user-oriented description of emerging composite ambient applications</title>
-      <link>https://jmbruell.netlify.com/publication/ko-2019-2/</link>
+      <link>https://jmbruell.netlify.app/publication/ko-2019-2/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://jmbruell.netlify.com/publication/ko-2019-2/</guid>
+      <guid>https://jmbruell.netlify.app/publication/ko-2019-2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>DevOps &amp; Requirements</title>
-      <link>https://jmbruell.netlify.com/talk/20190508-devops19/</link>
+      <link>https://jmbruell.netlify.app/talk/20190508-devops19/</link>
       <pubDate>Wed, 08 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://jmbruell.netlify.com/talk/20190508-devops19/</guid>
+      <guid>https://jmbruell.netlify.app/talk/20190508-devops19/</guid>
       <description></description>
     </item>
     
     <item>
       <title>AutoReq: expressing and verifying requirements for control systems</title>
-      <link>https://jmbruell.netlify.com/publication/na-me-ga-br-ma-eb-2019-1/</link>
+      <link>https://jmbruell.netlify.app/publication/na-me-ga-br-ma-eb-2019-1/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://jmbruell.netlify.com/publication/na-me-ga-br-ma-eb-2019-1/</guid>
+      <guid>https://jmbruell.netlify.app/publication/na-me-ga-br-ma-eb-2019-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reflections on Teaching Formal Methods for Software Development in Higher Education</title>
-      <link>https://jmbruell.netlify.com/publication/dblp-conffisee-khazeev-acmbb-19/</link>
+      <link>https://jmbruell.netlify.app/publication/dblp-conffisee-khazeev-acmbb-19/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://jmbruell.netlify.com/publication/dblp-conffisee-khazeev-acmbb-19/</guid>
+      <guid>https://jmbruell.netlify.app/publication/dblp-conffisee-khazeev-acmbb-19/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Towards an Anatomy of Software Requirements</title>
-      <link>https://jmbruell.netlify.com/publication/dblp-conftools-0001-begn-19/</link>
+      <link>https://jmbruell.netlify.app/publication/dblp-conftools-0001-begn-19/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://jmbruell.netlify.com/publication/dblp-conftools-0001-begn-19/</guid>
+      <guid>https://jmbruell.netlify.app/publication/dblp-conftools-0001-begn-19/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Model-Driven Engineering for Design-Runtime Interaction in Complex Systems: Scientific Challenges and Roadmap</title>
-      <link>https://jmbruell.netlify.com/publication/staf18/</link>
+      <link>https://jmbruell.netlify.app/publication/staf18/</link>
       <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>https://jmbruell.netlify.com/publication/staf18/</guid>
+      <guid>https://jmbruell.netlify.app/publication/staf18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Emergence of Composite Services in Smart Environments</title>
-      <link>https://jmbruell.netlify.com/publication/esof-poster2018/</link>
+      <link>https://jmbruell.netlify.app/publication/esof-poster2018/</link>
       <pubDate>Fri, 27 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>https://jmbruell.netlify.com/publication/esof-poster2018/</guid>
+      <guid>https://jmbruell.netlify.app/publication/esof-poster2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>How to handle environmental uncertainty in goal-based requirements engineering</title>
-      <link>https://jmbruell.netlify.com/publication/icse-poster2018/</link>
+      <link>https://jmbruell.netlify.app/publication/icse-poster2018/</link>
       <pubDate>Fri, 27 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>https://jmbruell.netlify.com/publication/icse-poster2018/</guid>
+      <guid>https://jmbruell.netlify.app/publication/icse-poster2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On the use of models for high-performance scientific computing applications: an experience report</title>
-      <link>https://jmbruell.netlify.com/publication/sosym2018/</link>
+      <link>https://jmbruell.netlify.app/publication/sosym2018/</link>
       <pubDate>Fri, 27 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>https://jmbruell.netlify.com/publication/sosym2018/</guid>
+      <guid>https://jmbruell.netlify.app/publication/sosym2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Towards a Requirements Engineering Approach for capturing Uncertainty in Cyber-Physical Systems Environment</title>
-      <link>https://jmbruell.netlify.com/publication/iwcfs18/</link>
+      <link>https://jmbruell.netlify.app/publication/iwcfs18/</link>
       <pubDate>Tue, 03 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>https://jmbruell.netlify.com/publication/iwcfs18/</guid>
+      <guid>https://jmbruell.netlify.app/publication/iwcfs18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Requirements Specific Modeling Language : un langage formel d&#39;expression d&#39;exigences</title>
-      <link>https://jmbruell.netlify.com/publication/ciel18/</link>
+      <link>https://jmbruell.netlify.app/publication/ciel18/</link>
       <pubDate>Wed, 27 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>https://jmbruell.netlify.com/publication/ciel18/</guid>
+      <guid>https://jmbruell.netlify.app/publication/ciel18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SysML Models Verification and Validation in an Industrial Context: Challenges and Experimentation</title>
-      <link>https://jmbruell.netlify.com/publication/ecmfa18/</link>
+      <link>https://jmbruell.netlify.app/publication/ecmfa18/</link>
       <pubDate>Tue, 26 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>https://jmbruell.netlify.com/publication/ecmfa18/</guid>
+      <guid>https://jmbruell.netlify.app/publication/ecmfa18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ambient Intelligence Users in the Loop: Towards a Model-Driven Approach</title>
-      <link>https://jmbruell.netlify.com/publication/mse18/</link>
+      <link>https://jmbruell.netlify.app/publication/mse18/</link>
       <pubDate>Mon, 25 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>https://jmbruell.netlify.com/publication/mse18/</guid>
+      <guid>https://jmbruell.netlify.app/publication/mse18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Quizz Driven Teaching</title>
-      <link>https://jmbruell.netlify.com/talk/20180412-ariut/</link>
+      <link>https://jmbruell.netlify.app/talk/20180412-ariut/</link>
       <pubDate>Thu, 12 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>https://jmbruell.netlify.com/talk/20180412-ariut/</guid>
+      <guid>https://jmbruell.netlify.app/talk/20180412-ariut/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On the Use of Models for High-Performance Scientific Computing Applications: an Experience Report</title>
-      <link>https://jmbruell.netlify.com/publication/ob-pa-br-lu-2018-1/</link>
+      <link>https://jmbruell.netlify.app/publication/ob-pa-br-lu-2018-1/</link>
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>https://jmbruell.netlify.com/publication/ob-pa-br-lu-2018-1/</guid>
+      <guid>https://jmbruell.netlify.app/publication/ob-pa-br-lu-2018-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ingénierie Dirigée par les Modèles et Domain Specific Languages : application à la simulation numérique haute-performance</title>
-      <link>https://jmbruell.netlify.com/talk/20180119-cerfacs/</link>
+      <link>https://jmbruell.netlify.app/talk/20180119-cerfacs/</link>
       <pubDate>Fri, 19 Jan 2018 11:00:00 +0000</pubDate>
-      <guid>https://jmbruell.netlify.com/talk/20180119-cerfacs/</guid>
+      <guid>https://jmbruell.netlify.app/talk/20180119-cerfacs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Défilé de modèles</title>
-      <link>https://jmbruell.netlify.com/talk/20171119-cafe-irit/</link>
+      <link>https://jmbruell.netlify.app/talk/20171119-cafe-irit/</link>
       <pubDate>Sun, 19 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>https://jmbruell.netlify.com/talk/20171119-cafe-irit/</guid>
+      <guid>https://jmbruell.netlify.app/talk/20171119-cafe-irit/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MBSE &amp; Early Validation</title>
-      <link>https://jmbruell.netlify.com/project/bombardier/</link>
+      <link>https://jmbruell.netlify.app/project/bombardier/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>https://jmbruell.netlify.com/project/bombardier/</guid>
+      <guid>https://jmbruell.netlify.app/project/bombardier/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Modeling Co-simulation: A First Experiment</title>
-      <link>https://jmbruell.netlify.com/publication/gemoc2017/</link>
+      <link>https://jmbruell.netlify.app/publication/gemoc2017/</link>
       <pubDate>Fri, 27 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>https://jmbruell.netlify.com/publication/gemoc2017/</guid>
+      <guid>https://jmbruell.netlify.app/publication/gemoc2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mobile Application Modeling</title>
-      <link>https://jmbruell.netlify.com/teaching/mobilemodeling/</link>
+      <link>https://jmbruell.netlify.app/teaching/mobilemodeling/</link>
       <pubDate>Fri, 20 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>https://jmbruell.netlify.com/teaching/mobilemodeling/</guid>
+      <guid>https://jmbruell.netlify.app/teaching/mobilemodeling/</guid>
       <description>&lt;p&gt;In this course, I am teaching specifics of Mobile Applications in terms of modeling activities.&lt;/p&gt;
 &lt;p&gt;This course is taugh since 2015.&lt;/p&gt;
 </description>
@@ -279,49 +279,49 @@
     
     <item>
       <title>GEMOC Initiative</title>
-      <link>https://jmbruell.netlify.com/project/gemoc/</link>
+      <link>https://jmbruell.netlify.app/project/gemoc/</link>
       <pubDate>Thu, 19 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>https://jmbruell.netlify.com/project/gemoc/</guid>
+      <guid>https://jmbruell.netlify.app/project/gemoc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Moise</title>
-      <link>https://jmbruell.netlify.com/project/moise/</link>
+      <link>https://jmbruell.netlify.app/project/moise/</link>
       <pubDate>Thu, 19 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>https://jmbruell.netlify.com/project/moise/</guid>
+      <guid>https://jmbruell.netlify.app/project/moise/</guid>
       <description></description>
     </item>
     
     <item>
       <title>New SM@RT team presentation</title>
-      <link>https://jmbruell.netlify.com/talk/20171012-cs-irit/</link>
+      <link>https://jmbruell.netlify.app/talk/20171012-cs-irit/</link>
       <pubDate>Thu, 12 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>https://jmbruell.netlify.com/talk/20171012-cs-irit/</guid>
+      <guid>https://jmbruell.netlify.app/talk/20171012-cs-irit/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A contract-based method to specify stimulus-response requirements</title>
-      <link>https://jmbruell.netlify.com/publication/mmbge17/</link>
+      <link>https://jmbruell.netlify.app/publication/mmbge17/</link>
       <pubDate>Wed, 07 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>https://jmbruell.netlify.com/publication/mmbge17/</guid>
+      <guid>https://jmbruell.netlify.app/publication/mmbge17/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Joint Proceedings of the 12th Educators Symposium (EduSymp 2016) and 3rd International Workshop on Open Source Software for Model Driven Engineering (OSS4MDE 2016)</title>
-      <link>https://jmbruell.netlify.com/publication/models16/</link>
+      <link>https://jmbruell.netlify.app/publication/models16/</link>
       <pubDate>Mon, 03 Oct 2016 00:00:00 +0000</pubDate>
-      <guid>https://jmbruell.netlify.com/publication/models16/</guid>
+      <guid>https://jmbruell.netlify.app/publication/models16/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Innopolis University</title>
-      <link>https://jmbruell.netlify.com/teaching/innopolis/</link>
+      <link>https://jmbruell.netlify.app/teaching/innopolis/</link>
       <pubDate>Sat, 28 Feb 2015 00:00:00 +0000</pubDate>
-      <guid>https://jmbruell.netlify.com/teaching/innopolis/</guid>
+      <guid>https://jmbruell.netlify.app/teaching/innopolis/</guid>
       <description></description>
     </item>
     

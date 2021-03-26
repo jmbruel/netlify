@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Multirequirements | Jean-Michel Bruel</title>
-    <link>https://jmbruell.netlify.com/tag/multirequirements/</link>
-      <atom:link href="https://jmbruell.netlify.com/tag/multirequirements/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jmbruell.netlify.app/tag/multirequirements/</link>
+      <atom:link href="https://jmbruell.netlify.app/tag/multirequirements/index.xml" rel="self" type="application/rss+xml" />
     <description>Multirequirements</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 - ACDC. Last update: 21/12/2020</copyright><lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 - ACDC. Last update: 26/03/2021</copyright><lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jmbruell.netlify.com/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
+      <url>https://jmbruell.netlify.app/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
       <title>Multirequirements</title>
-      <link>https://jmbruell.netlify.com/tag/multirequirements/</link>
+      <link>https://jmbruell.netlify.app/tag/multirequirements/</link>
     </image>
     
     <item>
       <title>AutoReq: expressing and verifying requirements for control systems</title>
-      <link>https://jmbruell.netlify.com/publication/na-me-ga-br-ma-eb-2019-1/</link>
+      <link>https://jmbruell.netlify.app/publication/na-me-ga-br-ma-eb-2019-1/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://jmbruell.netlify.com/publication/na-me-ga-br-ma-eb-2019-1/</guid>
+      <guid>https://jmbruell.netlify.app/publication/na-me-ga-br-ma-eb-2019-1/</guid>
       <description></description>
     </item>
     

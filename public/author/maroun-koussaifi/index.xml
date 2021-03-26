@@ -2,21 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Maroun Koussaifi | Jean-Michel Bruel</title>
-    <link>https://jmbruell.netlify.com/author/maroun-koussaifi/</link>
-      <atom:link href="https://jmbruell.netlify.com/author/maroun-koussaifi/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jmbruell.netlify.app/author/maroun-koussaifi/</link>
+      <atom:link href="https://jmbruell.netlify.app/author/maroun-koussaifi/index.xml" rel="self" type="application/rss+xml" />
     <description>Maroun Koussaifi</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 - ACDC. Last update: 21/12/2020</copyright><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 - ACDC. Last update: 26/03/2021</copyright><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jmbruell.netlify.com/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
+      <url>https://jmbruell.netlify.app/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
       <title>Maroun Koussaifi</title>
-      <link>https://jmbruell.netlify.com/author/maroun-koussaifi/</link>
+      <link>https://jmbruell.netlify.app/author/maroun-koussaifi/</link>
     </image>
     
     <item>
       <title>Automated user-oriented description of emerging composite ambient applications</title>
-      <link>https://jmbruell.netlify.com/publication/ko-2019-2/</link>
+      <link>https://jmbruell.netlify.app/publication/ko-2019-2/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://jmbruell.netlify.com/publication/ko-2019-2/</guid>
+      <guid>https://jmbruell.netlify.app/publication/ko-2019-2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
+ntelligence Users in the Loop: Towards a Model-Driven Approach</title>
+      <link>https://jmbruell.netlify.app/publication/mse18/</link>
+      <pubDate>Mon, 25 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://jmbruell.netlify.app/publication/mse18/</guid>
       <description></description>
     </item>
     
