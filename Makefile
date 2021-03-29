@@ -20,3 +20,10 @@ clean:
 
 install_netlify_client:
 	npm install netlify-cli -g
+
+deploy: public/index.html
+	@echo "========================================"
+	@echo "==> Deploy updates "
+	hugo
+#       rake && git commit -am ":memo: Deploy updates"; git pull; git push
+	git commit -am "🤖 DEPLOY: last updates"; git pull; git push
