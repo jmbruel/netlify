@@ -24,6 +24,5 @@ install_netlify_client:
 deploy: public/index.html
 	@echo "========================================"
 	@echo "==> Deploy updates "
-	hugo
-#       rake && git commit -am ":memo: Deploy updates"; git pull; git push
-	git commit -am "🤖 DEPLOY: last updates"; git pull; git push
+	#       rake && git commit -am ":memo: Deploy updates"; git pull; git push
+	hugo && git commit -am "🤖 DEPLOY: last updates"; git pull; git push
