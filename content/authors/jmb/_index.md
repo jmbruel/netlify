@@ -83,6 +83,7 @@ user_groups: []
 ---
 
 Jean-Michel Bruel is head of the {{< smart >}} team of the {{< irit >}} CNRS laboratory.
-His research areas include: development of software-intensive Cyber-Physical Systems, methods/model/language integration, with a focus on Requirements and Model-Based Systems Engineering.
+His research areas include the development of software-intensive Cyber-Physical Systems, and methods/model/language integration, with a focus on Requirements and Model-Based Systems Engineering.
 He has defended his "Habilitation à Diriger des Recherches" in December 2006 and obtained in 2008 a full professor position at the {{< univtlse >}}.
-He has been head of the Computer Science department of the {{< iut-blagnac >}} from 2009 to 2012 and is now Laboratory Representative for the {{< ut2j >}} since 2016.
+He has been head of the Computer Science department of the {{< iut-blagnac >}} from 2009 to 2012, and Laboratory Representative for the {{< ut2j >}} from 2016 to 2020. 
+He is now a member of the Strategic Research Committee of the {{< irit >}} CNRS laboratory since 2021.
