@@ -2,8 +2,8 @@
 name = "Yanone Kaffeesatz"
 
 # Optional Google font URL
-#google_fonts = "Yanone+Kaffeesatz:400,700|Fauna+One"
-google_fonts = "Yanone+Kaffeesatz:wght@300"
+google_fonts = "Yanone+Kaffeesatz:400,700|Fauna+One"
+#google_fonts = "Yanone+Kaffeesatz:wght@300"
 
 # Font families
 heading_font = "Yanone Kaffeesatz"
