@@ -1,29 +1,27 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Requirements | Jean-Michel Bruel</title>
+    <title>Requirements on Jean-Michel Bruel</title>
     <link>https://jmbruell.netlify.app/tag/requirements/</link>
-      <atom:link href="https://jmbruell.netlify.app/tag/requirements/index.xml" rel="self" type="application/rss+xml" />
-    <description>Requirements</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 - ACDC. Last update: 07/04/2021</copyright><lastBuildDate>Mon, 19 Oct 2020 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://jmbruell.netlify.app/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
-      <title>Requirements</title>
-      <link>https://jmbruell.netlify.app/tag/requirements/</link>
-    </image>
-    
+    <description>Recent content in Requirements on Jean-Michel Bruel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; {year} - ACDC. Last update: 07/04/2021</copyright>
+    <lastBuildDate>Mon, 19 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://jmbruell.netlify.app/tag/requirements/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Formal Requirements</title>
       <link>https://jmbruell.netlify.app/project/innopolis/</link>
       <pubDate>Mon, 19 Oct 2020 00:00:00 +0000</pubDate>
+      
       <guid>https://jmbruell.netlify.app/project/innopolis/</guid>
-      <description></description>
+      <description>Collaboration initiated with the Innopolis University on the use of formal methods in Requirements Engineering</description>
     </item>
     
     <item>
       <title>How to handle environmental uncertainty in goal-based requirements engineering</title>
       <link>https://jmbruell.netlify.app/publication/icse-poster2018/</link>
       <pubDate>Fri, 27 Jul 2018 00:00:00 +0000</pubDate>
+      
       <guid>https://jmbruell.netlify.app/publication/icse-poster2018/</guid>
       <description></description>
     </item>
@@ -32,6 +30,7 @@
       <title>Towards a Requirements Engineering Approach for capturing Uncertainty in Cyber-Physical Systems Environment</title>
       <link>https://jmbruell.netlify.app/publication/iwcfs18/</link>
       <pubDate>Tue, 03 Jul 2018 00:00:00 +0000</pubDate>
+      
       <guid>https://jmbruell.netlify.app/publication/iwcfs18/</guid>
       <description></description>
     </item>
@@ -40,6 +39,7 @@
       <title>Requirements Specific Modeling Language : un langage formel d&#39;expression d&#39;exigences</title>
       <link>https://jmbruell.netlify.app/publication/ciel18/</link>
       <pubDate>Wed, 27 Jun 2018 00:00:00 +0000</pubDate>
+      
       <guid>https://jmbruell.netlify.app/publication/ciel18/</guid>
       <description></description>
     </item>
@@ -48,8 +48,9 @@
       <title>Moise</title>
       <link>https://jmbruell.netlify.app/project/moise/</link>
       <pubDate>Thu, 19 Oct 2017 00:00:00 +0000</pubDate>
+      
       <guid>https://jmbruell.netlify.app/project/moise/</guid>
-      <description></description>
+      <description>MOdels and Information Sharing for System Engineering in Extended Entreprise</description>
     </item>
     
   </channel>

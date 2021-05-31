@@ -1,44 +1,36 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>FUN | Jean-Michel Bruel</title>
+    <title>FUN on Jean-Michel Bruel</title>
     <link>https://jmbruell.netlify.app/tag/fun/</link>
-      <atom:link href="https://jmbruell.netlify.app/tag/fun/index.xml" rel="self" type="application/rss+xml" />
-    <description>FUN</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 - ACDC. Last update: 07/04/2021</copyright><lastBuildDate>Wed, 21 Oct 2020 18:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://jmbruell.netlify.app/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
-      <title>FUN</title>
-      <link>https://jmbruell.netlify.app/tag/fun/</link>
-    </image>
-    
+    <description>Recent content in FUN on Jean-Michel Bruel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; {year} - ACDC. Last update: 07/04/2021</copyright>
+    <lastBuildDate>Wed, 21 Oct 2020 18:00:00 +0000</lastBuildDate><atom:link href="https://jmbruell.netlify.app/tag/fun/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Papyrus for gamers, let&#39;s play modeling (Best Demo Award!)</title>
       <link>https://jmbruell.netlify.app/talk/20201021-modelsdemo/</link>
       <pubDate>Wed, 21 Oct 2020 18:00:00 +0000</pubDate>
+      
       <guid>https://jmbruell.netlify.app/talk/20201021-modelsdemo/</guid>
-      <description></description>
+      <description>Demo of PapyGame by Antonio Bucchiarone</description>
     </item>
     
     <item>
       <title>FUN Modeling</title>
       <link>https://jmbruell.netlify.app/project/fun/</link>
       <pubDate>Mon, 19 Oct 2020 00:00:00 +0000</pubDate>
+      
       <guid>https://jmbruell.netlify.app/project/fun/</guid>
-      <description>&lt;p&gt;This (internal) project groups all the initiative related to placing the (final) user as the priority target of the models.&lt;/p&gt;
-&lt;p&gt;Here are some examples:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Maroun&amp;rsquo;s PhD thesis: Interactive Control Environment: &lt;a href=&#34;https://github.com/marounkoussaifi/ICE&#34;&gt;https://github.com/marounkoussaifi/ICE&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Git4School: &lt;a href=&#34;https://gitlab.com/jeroli.co/git-supervisor&#34;&gt;https://gitlab.com/jeroli.co/git-supervisor&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Git Supervisor: &lt;a href=&#34;https://github.com/git4school/git4school-visu&#34;&gt;https://github.com/git4school/git4school-visu&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description>Placing the Final User Needs (FUN) at the center of the (modeling) concerns</description>
     </item>
     
     <item>
       <title>Automated user-oriented description of emerging composite ambient applications</title>
       <link>https://jmbruell.netlify.app/publication/ko-2019-2/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      
       <guid>https://jmbruell.netlify.app/publication/ko-2019-2/</guid>
       <description></description>
     </item>
@@ -47,8 +39,9 @@
       <title>GEMOC Initiative</title>
       <link>https://jmbruell.netlify.app/project/gemoc/</link>
       <pubDate>Thu, 19 Oct 2017 00:00:00 +0000</pubDate>
+      
       <guid>https://jmbruell.netlify.app/project/gemoc/</guid>
-      <description></description>
+      <description>GEMOC is an open and international initiative that aims to coordinate and disseminate the research results regarding the support of the coordinated use of various modeling languages that will lead to the concept of the globalization of modeling languages.</description>
     </item>
     
   </channel>

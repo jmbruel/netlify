@@ -1,21 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jean-Michel Bruel</title>
     <link>https://jmbruell.netlify.app/author/jean-michel-bruel/</link>
-      <atom:link href="https://jmbruell.netlify.app/author/jean-michel-bruel/index.xml" rel="self" type="application/rss+xml" />
-    <description>Jean-Michel Bruel</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 - ACDC. Last update: 07/04/2021</copyright><lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://jmbruell.netlify.app/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
-      <title>Jean-Michel Bruel</title>
-      <link>https://jmbruell.netlify.app/author/jean-michel-bruel/</link>
-    </image>
-    
+    <description>Recent content on Jean-Michel Bruel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; {year} - ACDC. Last update: 07/04/2021</copyright>
+    <lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://jmbruell.netlify.app/author/jean-michel-bruel/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Modeling and verification method for an early evaluation of Systems of Systems interactions</title>
       <link>https://jmbruell.netlify.app/publication/ba-ob-br-2020-1/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      
       <guid>https://jmbruell.netlify.app/publication/ba-ob-br-2020-1/</guid>
       <description></description>
     </item>
@@ -24,6 +21,7 @@
       <title>Model-Driven Engineering for Design-Runtime Interaction in Complex Systems: Scientific Challenges and Roadmap</title>
       <link>https://jmbruell.netlify.app/publication/staf18/</link>
       <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
+      
       <guid>https://jmbruell.netlify.app/publication/staf18/</guid>
       <description></description>
     </item>
@@ -32,6 +30,7 @@
       <title>Emergence of Composite Services in Smart Environments</title>
       <link>https://jmbruell.netlify.app/publication/esof-poster2018/</link>
       <pubDate>Fri, 27 Jul 2018 00:00:00 +0000</pubDate>
+      
       <guid>https://jmbruell.netlify.app/publication/esof-poster2018/</guid>
       <description></description>
     </item>
@@ -40,6 +39,7 @@
       <title>How to handle environmental uncertainty in goal-based requirements engineering</title>
       <link>https://jmbruell.netlify.app/publication/icse-poster2018/</link>
       <pubDate>Fri, 27 Jul 2018 00:00:00 +0000</pubDate>
+      
       <guid>https://jmbruell.netlify.app/publication/icse-poster2018/</guid>
       <description></description>
     </item>
@@ -48,6 +48,7 @@
       <title>On the use of models for high-performance scientific computing applications: an experience report</title>
       <link>https://jmbruell.netlify.app/publication/sosym2018/</link>
       <pubDate>Fri, 27 Jul 2018 00:00:00 +0000</pubDate>
+      
       <guid>https://jmbruell.netlify.app/publication/sosym2018/</guid>
       <description></description>
     </item>
@@ -56,6 +57,7 @@
       <title>Towards a Requirements Engineering Approach for capturing Uncertainty in Cyber-Physical Systems Environment</title>
       <link>https://jmbruell.netlify.app/publication/iwcfs18/</link>
       <pubDate>Tue, 03 Jul 2018 00:00:00 +0000</pubDate>
+      
       <guid>https://jmbruell.netlify.app/publication/iwcfs18/</guid>
       <description></description>
     </item>
@@ -64,6 +66,7 @@
       <title>Requirements Specific Modeling Language : un langage formel d&#39;expression d&#39;exigences</title>
       <link>https://jmbruell.netlify.app/publication/ciel18/</link>
       <pubDate>Wed, 27 Jun 2018 00:00:00 +0000</pubDate>
+      
       <guid>https://jmbruell.netlify.app/publication/ciel18/</guid>
       <description></description>
     </item>
@@ -72,6 +75,7 @@
       <title>SysML Models Verification and Validation in an Industrial Context: Challenges and Experimentation</title>
       <link>https://jmbruell.netlify.app/publication/ecmfa18/</link>
       <pubDate>Tue, 26 Jun 2018 00:00:00 +0000</pubDate>
+      
       <guid>https://jmbruell.netlify.app/publication/ecmfa18/</guid>
       <description></description>
     </item>
@@ -80,6 +84,7 @@
       <title>Ambient Intelligence Users in the Loop: Towards a Model-Driven Approach</title>
       <link>https://jmbruell.netlify.app/publication/mse18/</link>
       <pubDate>Mon, 25 Jun 2018 00:00:00 +0000</pubDate>
+      
       <guid>https://jmbruell.netlify.app/publication/mse18/</guid>
       <description></description>
     </item>
@@ -88,6 +93,7 @@
       <title>Modeling Co-simulation: A First Experiment</title>
       <link>https://jmbruell.netlify.app/publication/gemoc2017/</link>
       <pubDate>Fri, 27 Oct 2017 00:00:00 +0000</pubDate>
+      
       <guid>https://jmbruell.netlify.app/publication/gemoc2017/</guid>
       <description></description>
     </item>
@@ -96,6 +102,7 @@
       <title>A contract-based method to specify stimulus-response requirements</title>
       <link>https://jmbruell.netlify.app/publication/mmbge17/</link>
       <pubDate>Wed, 07 Jun 2017 00:00:00 +0000</pubDate>
+      
       <guid>https://jmbruell.netlify.app/publication/mmbge17/</guid>
       <description></description>
     </item>
@@ -104,6 +111,7 @@
       <title>Joint Proceedings of the 12th Educators Symposium (EduSymp 2016) and 3rd International Workshop on Open Source Software for Model Driven Engineering (OSS4MDE 2016)</title>
       <link>https://jmbruell.netlify.app/publication/models16/</link>
       <pubDate>Mon, 03 Oct 2016 00:00:00 +0000</pubDate>
+      
       <guid>https://jmbruell.netlify.app/publication/models16/</guid>
       <description></description>
     </item>

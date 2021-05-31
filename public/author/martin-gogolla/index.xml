@@ -1,21 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Martin Gogolla | Jean-Michel Bruel</title>
+    <title>Martin Gogolla on Jean-Michel Bruel</title>
     <link>https://jmbruell.netlify.app/author/martin-gogolla/</link>
-      <atom:link href="https://jmbruell.netlify.app/author/martin-gogolla/index.xml" rel="self" type="application/rss+xml" />
-    <description>Martin Gogolla</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 - ACDC. Last update: 07/04/2021</copyright><lastBuildDate>Wed, 10 Oct 2018 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://jmbruell.netlify.app/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
-      <title>Martin Gogolla</title>
-      <link>https://jmbruell.netlify.app/author/martin-gogolla/</link>
-    </image>
-    
+    <description>Recent content in Martin Gogolla on Jean-Michel Bruel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; {year} - ACDC. Last update: 07/04/2021</copyright>
+    <lastBuildDate>Wed, 10 Oct 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://jmbruell.netlify.app/author/martin-gogolla/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Model-Driven Engineering for Design-Runtime Interaction in Complex Systems: Scientific Challenges and Roadmap</title>
       <link>https://jmbruell.netlify.app/publication/staf18/</link>
       <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
+      
       <guid>https://jmbruell.netlify.app/publication/staf18/</guid>
       <description></description>
     </item>
