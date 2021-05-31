@@ -1,23 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Workbench | Jean-Michel Bruel</title>
+    <title>Workbench on Jean-Michel Bruel</title>
     <link>https://jmbruell.netlify.app/tag/workbench/</link>
-      <atom:link href="https://jmbruell.netlify.app/tag/workbench/index.xml" rel="self" type="application/rss+xml" />
-    <description>Workbench</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 - ACDC. Last update: 07/04/2021</copyright><lastBuildDate>Thu, 19 Oct 2017 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://jmbruell.netlify.app/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
-      <title>Workbench</title>
-      <link>https://jmbruell.netlify.app/tag/workbench/</link>
-    </image>
-    
+    <description>Recent content in Workbench on Jean-Michel Bruel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; {year} - ACDC. Last update: 07/04/2021</copyright>
+    <lastBuildDate>Thu, 19 Oct 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://jmbruell.netlify.app/tag/workbench/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>GEMOC Initiative</title>
       <link>https://jmbruell.netlify.app/project/gemoc/</link>
       <pubDate>Thu, 19 Oct 2017 00:00:00 +0000</pubDate>
+      
       <guid>https://jmbruell.netlify.app/project/gemoc/</guid>
-      <description></description>
+      <description>GEMOC is an open and international initiative that aims to coordinate and disseminate the research results regarding the support of the coordinated use of various modeling languages that will lead to the concept of the globalization of modeling languages.</description>
     </item>
     
   </channel>

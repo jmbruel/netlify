@@ -1,21 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>V&amp;V | Jean-Michel Bruel</title>
+    <title>V&amp;V on Jean-Michel Bruel</title>
     <link>https://jmbruell.netlify.app/tag/vv/</link>
-      <atom:link href="https://jmbruell.netlify.app/tag/vv/index.xml" rel="self" type="application/rss+xml" />
-    <description>V&amp;V</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 - ACDC. Last update: 07/04/2021</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://jmbruell.netlify.app/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
-      <title>V&amp;V</title>
-      <link>https://jmbruell.netlify.app/tag/vv/</link>
-    </image>
-    
+    <description>Recent content in V&amp;V on Jean-Michel Bruel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; {year} - ACDC. Last update: 07/04/2021</copyright>
+    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://jmbruell.netlify.app/tag/vv/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Modeling and verification method for an early evaluation of systems of systems interactions</title>
       <link>https://jmbruell.netlify.app/publication/dblp-confsac-baduel-ob-20/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
       <guid>https://jmbruell.netlify.app/publication/dblp-confsac-baduel-ob-20/</guid>
       <description></description>
     </item>
@@ -24,6 +21,7 @@
       <title>SysML Models Verification and Validation in an Industrial Context: Challenges and Experimentation</title>
       <link>https://jmbruell.netlify.app/publication/ecmfa18/</link>
       <pubDate>Tue, 26 Jun 2018 00:00:00 +0000</pubDate>
+      
       <guid>https://jmbruell.netlify.app/publication/ecmfa18/</guid>
       <description></description>
     </item>
@@ -32,8 +30,9 @@
       <title>MBSE &amp; Early Validation</title>
       <link>https://jmbruell.netlify.app/project/bombardier/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      
       <guid>https://jmbruell.netlify.app/project/bombardier/</guid>
-      <description></description>
+      <description>An integrated model-based early validation approach for Railway Systems</description>
     </item>
     
   </channel>
