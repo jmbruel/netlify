@@ -11,7 +11,7 @@ superuser: false
 
 # Role/position
 # role: Ph.D. student since 10/2017
-role: 21/12/2020 - Consultant at Antipolis
+role: 18/12/2020 - Consultant at Antipolis
 
 # Short bio (displayed in user profile at end of posts)
 bio: "Ph.D. thesis on Smart User-Centric Modeling using Opportunistic Artefact Compositions"
