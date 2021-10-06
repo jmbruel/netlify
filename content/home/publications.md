@@ -68,8 +68,9 @@ subtitle = ""
  css_class = ""
 +++
 You can also access to:
-- the <a href="http://www.irit.fr/-Publications-?code=528&amp;nom=Bruel%20Jean-Michel">official list</a> from my lab (up to date, but only related to it) 
+
+- the <a href="http://www.irit.fr/-Publications-?code=528&amp;nom=Bruel%20Jean-Michel">official list</a> from my lab (up to date, but only related to it)
 - <a href="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/b/Bruel:Jean=Michel.html">DBLP</a> Server (18 journals, 77 conference papers referenced, with 160 different co-authors, on 2021/08/16)
-- <a href="http://scholar.google.com/citations?user=5shVHyoAAAAJ&hl=en">Google Scolar</a> (219 papers, H-index 21, 15 since 2016, on 2021/08/16).
+- <a href="http://scholar.google.com/citations?user=5shVHyoAAAAJ&hl=en">Google Scholar</a> (215 papers, H-index 21, 14 since 2016, on 2021/10/06).
 - my <a href="https://www.researchgate.net/profile/Jean-Michel_Bruel2/publications/">ResearchGate</a> page
 - the preprints on <a href="https://hal.archives-ouvertes.fr/search/index/?q=%2A&authIdHal_s=jean-michel-bruel&sort=producedDate_tdate+desc">HAL</a>

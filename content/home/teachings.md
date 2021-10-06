@@ -69,6 +69,5 @@ subtitle = "#ILoveMyJob"
  css_class = ""
 +++
 
-Note that most of my teaching materials is available here: 
+Note that most of my teaching materials are available here:  
 <a href="https://jmbruel.github.io/teaching/">https://jmbruel.github.io/teaching/</a>.
-
