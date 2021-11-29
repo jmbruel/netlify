@@ -8,3 +8,4 @@ exampleSite
 Gemfile.lock
 .DS_Store
 .vscode
+.hugo_build.lock
