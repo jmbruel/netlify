@@ -29,9 +29,13 @@ I am very proud of being an "ironman finisher" at Roth 2007 (3.8/180/42) in 11h5
 </div>
 </div>
 
-I have completed in 2018 my longuest trail: the <a href="https://utmbmontblanc.com/en/page/217/217.html">UTMB OCC</a> race (55km/3600mD+) in 11h13':
+I have completed in 2018 the <a href="https://utmbmontblanc.com/en/page/217/217.html">UTMB OCC</a> race (55km/3600mD+) in 11h13':
 
 {{< figure src="img/occ2017.jpg" width="200" title="[55km/3600mD+ in 11h13']">}}
+
+I have completed in 2021 my longuest trail: the <a href="https://utmbmontblanc.com/en/page/217/217.html">GRP "Tour des Lacs"</a> race (64km/3600mD+) in 12h:
+
+{{< figure src="img/grp2021.jpg" width="200" title="[64km/3600mD+ in 12h]">}}
 
 Here are some stuff I'd like to share:
 	<ul>
