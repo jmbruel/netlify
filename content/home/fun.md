@@ -29,15 +29,15 @@ I am very proud of being an "ironman finisher" at Roth 2007 (3.8/180/42) in 11h5
 </div>
 </div>
 
-I have completed in 2018 the <a href="https://utmbmontblanc.com/en/page/217/217.html">UTMB OCC</a> race (55km/3600mD+) in 11h13':
+I have completed in 2018 the <a href="https://utmbmontblanc.com/en/page/217/217.html">UTMB OCC</a> race (55km/3600mD+) in 11h13'
 
 {{< figure src="img/occ2017.jpg" width="200" title="[55km/3600mD+ in 11h13']">}}
 
-I have completed in 2021 my longuest trail: the <a href="https://utmbmontblanc.com/en/page/217/217.html">GRP "Tour des Lacs"</a> race (64km/3600mD+) in 12h:
+I have completed in 2021 my longuest trail: the <a href="https://utmbmontblanc.com/en/page/217/217.html">GRP "Tour des Lacs"</a> race (64km/3600mD+) in 12h (together with my friend Alain who did it at 75!)
 
 {{< figure src="img/grp2021.jpg" width="200" title="[64km/3600mD+ in 12h]">}}
 
-Here are some stuff I'd like to share:
+Here are some other stuff I'd like to share:
 	<ul>
 	<li>My little brother's <a href="https://www.facebook.com/AtomikBandIii/">band</a>
 	(wanna hear? check <a href="https://www.youtube.com/watch?v=ixWsJPMrobU" target=”_blank”>this one</a> or <a href="https://youtu.be/A-UgLgFOxyg" target=”_blank”>this one</a>
