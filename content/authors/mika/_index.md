@@ -1,32 +1,28 @@
 ---
 # Display name
-title: Florian Galinier
+title: Mika Pons
 
 # Username (this should match the folder name)
 authors:
-- florian
+- mika
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: 2021 - Spilen CEO
+role: Ph.D. student since 10/2021
 
 # Short bio (displayed in user profile at end of posts)
-bio: "Ph.D. thesis on Seamless development of complex systems: a multirequirements approach"
-from: "2016-10-01"
-to: "2021-11-08"
-note: "Co-directed with Bertrand Meyer and Sophie Ebersold. Doctorial School Grant"
-external_link: "https://www.linkedin.com/in/fgalinier-spilen"
+bio: Ph.D. thesis on "Technology Enhanced Learning"
 
 
 # Organizations/Affiliations
-organizations:
-- name: Spilen
-  url: "https://spilen.fr/"
+# organizations:
+# - name: Innopolis University
+#   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Co-directed with Bertrand Meyer and Sophie Ebersold
+bio: Co-directed with Franck Silvestre and Jean-Baptiste Raclet.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -35,13 +31,13 @@ bio: Co-directed with Bertrand Meyer and Sophie Ebersold
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:galinierflo@gmail.com'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:mika.pons@irit.fr'  # For a direct email link, use "mailto:test@example.org".
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/fgalinier-spilen
+  link: https://www.linkedin.com/in/mikapons/
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "galinierflo@gmail.com"
+email: "mika.pons@irit.fr"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -49,10 +45,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Former Ph.D. Students
+- Ph.D. Students
 
-# Tags: can be used for filtering projects.
-#tags = ["past","phd","grant"]
-tags: ["past","phd","grant"]
+tags: ["current", "phd", "grant"]
 
 ---
