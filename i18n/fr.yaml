@@ -101,6 +101,9 @@
 
 # Perso JMB
 
+- id: cocovad
+  translation: Chaire CoCoVaD
+
 - id: iut_blagnac
   translation: IUT de Blagnac
 

@@ -124,6 +124,9 @@
 
 # Perso JMB
 
+- id: cocovad
+  translation: CoCoVaD Chair
+
 - id: iut_blagnac
   translation: Technical Institute of Blagnac
 
