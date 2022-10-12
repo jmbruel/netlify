@@ -36,7 +36,7 @@ image:
 url_code: ""
 url_pdf: ""
 url_slides: ""
-url_video: "Presentation of why Software Engineering is important"
+url_video: "https://www.youtube.com/watch?v=zYc-6G0sr0Y"
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
