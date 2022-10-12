@@ -10,13 +10,13 @@ authors:
 superuser: false
 
 # Role/position
-role: Ph.D. student since 10/2019
+role: 2022 - Lecturer
 
 # Short bio (displayed in user profile at end of posts)
-bio: "Ph.D. thesis on "
+bio: "Ph.D. thesis on Affordance Theory in User Experience Evaluation"
 from: "2019-10-01"
+to: "2022-10-05"
 note: "Co-directed with Dr. Joseph Brown."
-external_link: "http://fgalinier.fr"
 
 
 # Organizations/Affiliations
@@ -34,10 +34,10 @@ bio: Co-directed with Dr. Joseph Brown.
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:h.aslam@innopolis.ru'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:hamna025@gmail.com'  # For a direct email link, use "mailto:test@example.org".
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "h.aslam@innopolis.ru"
+email: "hamna025@gmail.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -45,10 +45,10 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Ph.D. Students
+- Former Ph.D. Students
 
 # Tags: can be used for filtering projects.
 #tags = ["past","phd","grant"]
-tags: ["current","phd","grant","fun"]
+tags: ["past","phd","grant","fun"]
 
 ---

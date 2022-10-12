@@ -44,11 +44,11 @@ highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
+# user_groups:
+# - Associates
 
 # Tags: can be used for filtering projects.
 #tags = ["past","phd","grant"]
-tags: ["grant"]
+# tags: ["grant"]
 
 ---
