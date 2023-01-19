@@ -88,3 +88,5 @@ He has defended his "_Habilitation à Diriger des Recherches_" in December 2006 
 He has been Laboratory Representative for the {{< ut2j >}} from 2016 to 2020.
 He is now  head of the Computer Science department of the {{< iut-blagnac >}}
 and member of the Strategic Research Committee of the {{< irit >}} CNRS laboratory since 2021.
+He is the holder of the Chair of Model-Driven Systems Engineering between {{< airbus >}} and {{< ut2j >}} since 2022 and joined the
+{{< ipal >}} in 2023.
