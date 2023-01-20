@@ -121,3 +121,31 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
     path = "github.com/wowchemy/wowchemy-hugo-modules/wowchemy"
   [[module.imports]]
     path = "github.com/wowchemy/wowchemy-hugo-modules/netlify-cms-academic"
+
+# Bug in 2023
+[security.funcs]
+getenv = [ "^HUGO_", "^WC_" ]
+
+# Wowchemy Website Builder
+# https://wowchemy.com
+#
+# The presence of this file is for compatibility with Blogdown and Forestry.
+# If you are not using those tools, this file may be deleted.
+#
+# The actual configuration files are stored in the `config/_default/` folder.
+# If you want to implement a Content-Security-Policy, add this section
+[params.csp]
+childsrc = ["'self'"]
+fontsrc = ["'self'", "https://fonts.gstatic.com", "https://cdn.jsdelivr.net/"]
+formaction = ["'self'"]
+framesrc = ["'self'"]
+imgsrc = ["'self'"]
+objectsrc = ["'none'"]
+stylesrc = [
+  "'self'",
+  "'unsafe-inline'",
+  "https://fonts.googleapis.com/",
+  "https://cdn.jsdelivr.net/"
+]
+scriptsrc = ["'self'", "'unsafe-inline'", "https://www.google-analytics.com"]
+prefetchsrc = ["'self'"]
