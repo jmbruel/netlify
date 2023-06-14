@@ -6,12 +6,12 @@ title: 'Object-Oriented Requirements: a Unified Framework for Specifications, Sc
 subtitle: ''
 summary: ''
 authors:
-- <a href="/contents. php?query=Naumcheva">Maria Naumcheva</a>
-- <a href="/contents. php?query=Ebersold">Sophie Ebersold</a>
-- <a href="/contents. php?query=Naumchev">Alexandr Naumchev</a>
-- <a href="/contents. php?query=Bruel">Jean-Michel Bruel</a>
-- <a href="/contents. php?query=Galinier">Florian Galinier</a>
-- <a href="/contents. php?query=Meyer">Bertrand Meyer</a>
+- Maria Naumcheva
+- Sophie Ebersold
+- Alexandr Naumchev
+- Jean-Michel Bruel
+- Florian Galinier
+- Bertrand Meyer
 tags: []
 categories: []
 date: '2023-01-01'
