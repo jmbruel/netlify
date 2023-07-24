@@ -91,3 +91,4 @@ and has been a member of the Strategic Research Committee of the {{< irit >}} CN
 He is the holder of the Chair of Model-Driven Systems Engineering between {{< airbus >}} and {{< ut2j >}} since 2022 and joined the
 {{< ipal >}} in 2023.
 
+  
