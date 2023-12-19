@@ -25,9 +25,10 @@ date_format = "Jan 2006"
   date_start = "2008-09-01"
   date_end = ""
   description = """
-Current responsibilities include:
-* Head of Computer Science Department, since 2020
-* CNU 27 elected member, since 2019
+Recent responsibilities include:
+* International Relationships representative for the Computer Science Department since 2023
+* Head of Computer Science Department, 2020--2023
+* CNU 27 elected member, 2019--2023
 * Lab representative at UT2J, 2015-2020
 * Students' Internships contact at IUT Blagnac, since 2013-2020
 """
