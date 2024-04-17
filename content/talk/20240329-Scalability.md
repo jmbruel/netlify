@@ -34,7 +34,7 @@ image:
   focal_point: Right
 
 url_code: ""
-url_pdf: "files/PEGS-Overview-2024.pdf"
+url_pdf: "files/Requirements-Scalability-Issues-2024.pdf"
 url_slides: ""
 url_video: ""
 
