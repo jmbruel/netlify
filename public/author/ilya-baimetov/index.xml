@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ilya Baimetov | Jean-Michel Bruel</title>
+    <link>https://jmbruell.netlify.app/author/ilya-baimetov/</link>
+      <atom:link href="https://jmbruell.netlify.app/author/ilya-baimetov/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ilya Baimetov</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 - ACDC. Last update: March 20th, 2024</copyright>
+    <image>
+      <url>https://jmbruell.netlify.app/author/ilya-baimetov/avatar_huf006ecdac606a6b2b52c9f35366f5057_30412_270x270_fill_q90_lanczos_center.jpg</url>
+      <title>Ilya Baimetov</title>
+      <link>https://jmbruell.netlify.app/author/ilya-baimetov/</link>
+    </image>
+    
+  </channel>
+</rss>

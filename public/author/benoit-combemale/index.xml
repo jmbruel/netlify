@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Benoît Combemale | Jean-Michel Bruel</title>
+    <link>https://jmbruell.netlify.app/author/benoit-combemale/</link>
+      <atom:link href="https://jmbruell.netlify.app/author/benoit-combemale/index.xml" rel="self" type="application/rss+xml" />
+    <description>Benoît Combemale</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 - ACDC. Last update: March 20th, 2024</copyright>
+    <image>
+      <url>https://jmbruell.netlify.app/author/benoit-combemale/avatar_huceba3cf6d5f8553633c6932a037807b0_9400_270x270_fill_q90_lanczos_center.jpg</url>
+      <title>Benoît Combemale</title>
+      <link>https://jmbruell.netlify.app/author/benoit-combemale/</link>
+    </image>
+    
+    <item>
+      <title>A Hitchhiker’s Guide to Model-Driven Engineering for Data-Centric Systems</title>
+      <link>https://jmbruell.netlify.app/publication/9094197/</link>
+      <pubDate>Tue, 20 Oct 2020 10:20:41 +0000</pubDate>
+      <guid>https://jmbruell.netlify.app/publication/9094197/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparing and classifying model transformation reuse approaches across metamodels</title>
+      <link>https://jmbruell.netlify.app/publication/dblp-journalssosym-bruel-cgjklmsv-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://jmbruell.netlify.app/publication/dblp-journalssosym-bruel-cgjklmsv-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toward model-driven sustainability evaluation</title>
+      <link>https://jmbruell.netlify.app/publication/dblp-journalscacm-kienzle-mcbbbbbc-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://jmbruell.netlify.app/publication/dblp-journalscacm-kienzle-mcbbbbbc-20/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

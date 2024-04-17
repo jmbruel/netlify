@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A. Koziolek | Jean-Michel Bruel</title>
+    <link>https://jmbruell.netlify.app/author/a.-koziolek/</link>
+      <atom:link href="https://jmbruell.netlify.app/author/a.-koziolek/index.xml" rel="self" type="application/rss+xml" />
+    <description>A. Koziolek</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 - ACDC. Last update: March 20th, 2024</copyright><lastBuildDate>Tue, 20 Oct 2020 10:20:41 +0000</lastBuildDate>
+    <image>
+      <url>https://jmbruell.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>A. Koziolek</title>
+      <link>https://jmbruell.netlify.app/author/a.-koziolek/</link>
+    </image>
+    
+    <item>
+      <title>A Hitchhiker’s Guide to Model-Driven Engineering for Data-Centric Systems</title>
+      <link>https://jmbruell.netlify.app/publication/9094197/</link>
+      <pubDate>Tue, 20 Oct 2020 10:20:41 +0000</pubDate>
+      <guid>https://jmbruell.netlify.app/publication/9094197/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

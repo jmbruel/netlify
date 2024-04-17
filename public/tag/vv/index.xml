@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>V&amp;V | Jean-Michel Bruel</title>
+    <link>https://jmbruell.netlify.app/tag/vv/</link>
+      <atom:link href="https://jmbruell.netlify.app/tag/vv/index.xml" rel="self" type="application/rss+xml" />
+    <description>V&amp;V</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 - ACDC. Last update: March 20th, 2024</copyright><lastBuildDate>Fri, 23 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jmbruell.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>V&amp;V</title>
+      <link>https://jmbruell.netlify.app/tag/vv/</link>
+    </image>
+    
+    <item>
+      <title>Chaire Industrielle</title>
+      <link>https://jmbruell.netlify.app/project/airbus/</link>
+      <pubDate>Fri, 23 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://jmbruell.netlify.app/project/airbus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling and verification method for an early evaluation of systems of systems interactions</title>
+      <link>https://jmbruell.netlify.app/publication/dblp-confsac-baduel-ob-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://jmbruell.netlify.app/publication/dblp-confsac-baduel-ob-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SysML Models Verification and Validation in an Industrial Context: Challenges and Experimentation</title>
+      <link>https://jmbruell.netlify.app/publication/ecmfa18/</link>
+      <pubDate>Tue, 26 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://jmbruell.netlify.app/publication/ecmfa18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MBSE &amp; Early Validation</title>
+      <link>https://jmbruell.netlify.app/project/bombardier/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://jmbruell.netlify.app/project/bombardier/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

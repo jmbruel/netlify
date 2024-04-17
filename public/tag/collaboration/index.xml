@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Collaboration | Jean-Michel Bruel</title>
+    <link>https://jmbruell.netlify.app/tag/collaboration/</link>
+      <atom:link href="https://jmbruell.netlify.app/tag/collaboration/index.xml" rel="self" type="application/rss+xml" />
+    <description>Collaboration</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 - ACDC. Last update: March 20th, 2024</copyright><lastBuildDate>Mon, 19 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jmbruell.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Collaboration</title>
+      <link>https://jmbruell.netlify.app/tag/collaboration/</link>
+    </image>
+    
+    <item>
+      <title>FUN Modeling</title>
+      <link>https://jmbruell.netlify.app/project/fun/</link>
+      <pubDate>Mon, 19 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://jmbruell.netlify.app/project/fun/</guid>
+      <description>&lt;p&gt;This (internal) project groups all the initiative related to placing the (final) user as the priority target of the models.&lt;/p&gt;
+&lt;p&gt;Here are some examples:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Maroun&amp;rsquo;s PhD thesis: Interactive Control Environment: &lt;a href=&#34;https://github.com/marounkoussaifi/ICE&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/marounkoussaifi/ICE&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Git4School: &lt;a href=&#34;https://gitlab.com/jeroli.co/git-supervisor&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://gitlab.com/jeroli.co/git-supervisor&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Git Supervisor: &lt;a href=&#34;https://github.com/git4school/git4school-visu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/git4school/git4school-visu&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Moise</title>
+      <link>https://jmbruell.netlify.app/project/moise/</link>
+      <pubDate>Thu, 19 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://jmbruell.netlify.app/project/moise/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

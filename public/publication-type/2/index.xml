@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Jean-Michel Bruel</title>
+    <link>https://jmbruell.netlify.app/publication-type/2/</link>
+      <atom:link href="https://jmbruell.netlify.app/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 - ACDC. Last update: March 20th, 2024</copyright><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jmbruell.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>2</title>
+      <link>https://jmbruell.netlify.app/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>Object-Oriented Requirements: a Unified Framework for Specifications, Scenarios and Tests</title>
+      <link>https://jmbruell.netlify.app/publication/jot-issue-2023-01-article-3/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://jmbruell.netlify.app/publication/jot-issue-2023-01-article-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Artificial Intelligence Capabilities for Effective Model‐Based Systems Engineering: A Vision Paper</title>
+      <link>https://jmbruell.netlify.app/publication/incose-2022/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://jmbruell.netlify.app/publication/incose-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Special Issue on New Paradigms of Software Production and Deployment</title>
+      <link>https://jmbruell.netlify.app/publication/dblp-journalssncs-capozucca-bmm-22/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://jmbruell.netlify.app/publication/dblp-journalssncs-capozucca-bmm-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Role of Formalism in System Requirements</title>
+      <link>https://jmbruell.netlify.app/publication/acm-surveys-2021/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://jmbruell.netlify.app/publication/acm-surveys-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Model-Driven Engineering for End-Users in the Loop in Smart Ambient Systems</title>
+      <link>https://jmbruell.netlify.app/publication/jucs-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://jmbruell.netlify.app/publication/jucs-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Hitchhiker’s Guide to Model-Driven Engineering for Data-Centric Systems</title>
+      <link>https://jmbruell.netlify.app/publication/9094197/</link>
+      <pubDate>Tue, 20 Oct 2020 10:20:41 +0000</pubDate>
+      <guid>https://jmbruell.netlify.app/publication/9094197/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparing and classifying model transformation reuse approaches across metamodels</title>
+      <link>https://jmbruell.netlify.app/publication/dblp-journalssosym-bruel-cgjklmsv-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://jmbruell.netlify.app/publication/dblp-journalssosym-bruel-cgjklmsv-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toward model-driven sustainability evaluation</title>
+      <link>https://jmbruell.netlify.app/publication/dblp-journalscacm-kienzle-mcbbbbbc-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://jmbruell.netlify.app/publication/dblp-journalscacm-kienzle-mcbbbbbc-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AutoReq: expressing and verifying requirements for control systems</title>
+      <link>https://jmbruell.netlify.app/publication/na-me-ga-br-ma-eb-2019-1/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://jmbruell.netlify.app/publication/na-me-ga-br-ma-eb-2019-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Use of Models for High-Performance Scientific Computing Applications: an Experience Report</title>
+      <link>https://jmbruell.netlify.app/publication/ob-pa-br-lu-2018-1/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://jmbruell.netlify.app/publication/ob-pa-br-lu-2018-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A contract-based method to specify stimulus-response requirements</title>
+      <link>https://jmbruell.netlify.app/publication/mmbge17/</link>
+      <pubDate>Wed, 07 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://jmbruell.netlify.app/publication/mmbge17/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
