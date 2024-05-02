@@ -29,7 +29,7 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:benoit.combemale@irisa.fr'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+- icon: x-twitter
   icon_pack: fab
   link: https://twitter.com/bcombemale
 - icon: linkedin

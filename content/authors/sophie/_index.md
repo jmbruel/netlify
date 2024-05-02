@@ -31,7 +31,7 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:sophie.ebersold@irit.fr'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+- icon: x-twitter
   icon_pack: fab
   link: https://twitter.com/SophieEbersold
 - icon: linkedin
