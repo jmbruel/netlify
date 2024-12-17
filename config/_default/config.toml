@@ -14,7 +14,7 @@ baseurl = "https://jmbruell.netlify.app/"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
-copyright = "&copy; {year} - ACDC. Last update: July 29th, 2024"
+copyright = "&copy; {year} - ACDC. Last update: December 17th, 2024"
 
 # Your details.
 team = "SM@RT"

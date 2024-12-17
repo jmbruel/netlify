@@ -1,28 +1,28 @@
 ---
 # Display name
-title: Ilya Baimetov
+title: Kim Loubat 
 
 # Username (this should match the folder name)
 authors:
-- ilya
+- kim
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Registration pending
+role: Ph.D. student since 10/2023
 
 # Short bio (displayed in user profile at end of posts)
-bio: Ph.D. thesis on "Intelligent collaborative platform for online/blended education"
+bio: Ph.D. thesis on "..."
 
 
 # Organizations/Affiliations
 organizations:
-- name: Alemira, Schaffhausen Institute of Technology
+- name: Airbus CoCoVaD Chair
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Co-directed with Bertrand Meyer, Schaffhausen Institute of Technology.
+bio: Co-directed with Nathalie Hernandez and {sophie}.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -31,13 +31,10 @@ bio: Co-directed with Bertrand Meyer, Schaffhausen Institute of Technology.
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:ib@alemira.com'  # For a direct email link, use "mailto:test@example.org".
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/ilya-baimetov/
+  link: 'mailto:kim.loubat@irit.fr'  # For a direct email link, use "mailto:test@example.org".
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "ib@alemira.com"
+email: "kim.loubat@irit.fr"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
