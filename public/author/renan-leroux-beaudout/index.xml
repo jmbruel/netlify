@@ -5,20 +5,12 @@
     <link>https://jmbruell.netlify.app/author/renan-leroux-beaudout/</link>
       <atom:link href="https://jmbruell.netlify.app/author/renan-leroux-beaudout/index.xml" rel="self" type="application/rss+xml" />
     <description>Renan Leroux-Beaudout</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 - ACDC. Last update: December 17th, 2024</copyright><lastBuildDate>Fri, 27 Oct 2017 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 - ACDC. Last update: December 17th, 2024</copyright>
     <image>
-      <url>https://jmbruell.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>https://jmbruell.netlify.app/author/renan-leroux-beaudout/avatar_hu128ff7ac213bd130bd074fda7d252611_1106538_270x270_fill_q90_lanczos_center.jpg</url>
       <title>Renan Leroux-Beaudout</title>
       <link>https://jmbruell.netlify.app/author/renan-leroux-beaudout/</link>
     </image>
-    
-    <item>
-      <title>Modeling Co-simulation: A First Experiment</title>
-      <link>https://jmbruell.netlify.app/publication/gemoc2017/</link>
-      <pubDate>Fri, 27 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>https://jmbruell.netlify.app/publication/gemoc2017/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
