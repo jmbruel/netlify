@@ -17,6 +17,7 @@ codecov:
 clean:
 	hugo mod clean
 	hugo mod get -u ./...
+	git config http.postBuffer 524288000
 
 install_netlify_client:
 	npm install netlify-cli -g
