@@ -70,7 +70,7 @@ subtitle = ""
 You can also access to:
 
 - the <a href="http://www.irit.fr/-Publications-?code=528&amp;nom=Bruel%20Jean-Michel">official list</a> from my lab (up to date, but only related to it)
-- <a href="https://dblp.org/pid/51/3120.html">DBLP</a> Server (23 journals, 83 conference papers referenced, with 182 different co-authors, on 2024/07/29)
-- <a href="http://scholar.google.com/citations?user=5shVHyoAAAAJ&hl=en">Google Scholar</a> (241 papers, H-index 24, 15 since 2019, on 2024/07/29).
+- <a href="https://dblp.org/pid/51/3120.html">DBLP</a> Server (24 journals, 83 conference papers referenced, with 182 different co-authors, on 2025/01/06)
+- <a href="http://scholar.google.com/citations?user=5shVHyoAAAAJ&hl=en">Google Scholar</a> (241 papers, H-index 24, 15 since 2020, on 2025/01/06).
 - my <a href="https://www.researchgate.net/profile/Jean-Michel_Bruel2/publications/">ResearchGate</a> page
 - the preprints on <a href="https://hal.archives-ouvertes.fr/search/index/?q=%2A&authIdHal_s=jean-michel-bruel&sort=producedDate_tdate+desc">HAL</a>
