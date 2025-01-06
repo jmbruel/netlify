@@ -5,26 +5,42 @@
     <link>https://jmbruell.netlify.app/author/florian-galinier/</link>
       <atom:link href="https://jmbruell.netlify.app/author/florian-galinier/index.xml" rel="self" type="application/rss+xml" />
     <description>Florian Galinier</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 - ACDC. Last update: January 6th, 2025</copyright>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 - ACDC. Last update: January 6th, 2025</copyright><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jmbruell.netlify.app/author/florian-galinier/avatar_hu4484678f87f0568b09f6ff63b1923619_33476_270x270_fill_q90_lanczos_center.jpg</url>
+      <url>https://jmbruell.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Florian Galinier</title>
       <link>https://jmbruell.netlify.app/author/florian-galinier/</link>
     </image>
     
     <item>
-      <title>AutoReq: expressing and verifying requirements for control systems</title>
-      <link>https://jmbruell.netlify.app/publication/na-me-ga-br-ma-eb-2019-1/</link>
-      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://jmbruell.netlify.app/publication/na-me-ga-br-ma-eb-2019-1/</guid>
+      <title>Object-Oriented Requirements: a Unified Framework for Specifications, Scenarios and Tests</title>
+      <link>https://jmbruell.netlify.app/publication/jot-issue-2023-01-article-3/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://jmbruell.netlify.app/publication/jot-issue-2023-01-article-3/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Towards an Anatomy of Software Requirements</title>
-      <link>https://jmbruell.netlify.app/publication/dblp-conftools-0001-begn-19/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://jmbruell.netlify.app/publication/dblp-conftools-0001-begn-19/</guid>
+      <title>The Role of Formalism in System Requirements</title>
+      <link>https://jmbruell.netlify.app/publication/acm-surveys-2021/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://jmbruell.netlify.app/publication/acm-surveys-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Requirements Specific Modeling Language : un langage formel d&#39;expression d&#39;exigences</title>
+      <link>https://jmbruell.netlify.app/publication/ciel18/</link>
+      <pubDate>Wed, 27 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://jmbruell.netlify.app/publication/ciel18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A contract-based method to specify stimulus-response requirements</title>
+      <link>https://jmbruell.netlify.app/publication/mmbge17/</link>
+      <pubDate>Wed, 07 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://jmbruell.netlify.app/publication/mmbge17/</guid>
       <description></description>
     </item>
     

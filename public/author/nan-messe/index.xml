@@ -5,12 +5,20 @@
     <link>https://jmbruell.netlify.app/author/nan-messe/</link>
       <atom:link href="https://jmbruell.netlify.app/author/nan-messe/index.xml" rel="self" type="application/rss+xml" />
     <description>Nan Messe</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 - ACDC. Last update: January 6th, 2025</copyright>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 - ACDC. Last update: January 6th, 2025</copyright><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jmbruell.netlify.app/author/nan-messe/avatar_hu3c82d045fe49a335c33fe3f8927d6afd_468830_270x270_fill_q90_lanczos_center.jpg</url>
+      <url>https://jmbruell.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Nan Messe</title>
       <link>https://jmbruell.netlify.app/author/nan-messe/</link>
     </image>
+    
+    <item>
+      <title>RQCODE - Towards Object-Oriented Requirements in the Software Security Domain</title>
+      <link>https://jmbruell.netlify.app/publication/dblp-conficst-nigmatullin-smeb-22/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://jmbruell.netlify.app/publication/dblp-conficst-nigmatullin-smeb-22/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
