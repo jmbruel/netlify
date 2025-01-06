@@ -2,17 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://jmbruell.netlify.app/authors/</loc>
-    <lastmod>2024-12-17T17:10:46+01:00</lastmod>
+    <loc>https://jmbruell.netlify.app/tag/ai/</loc>
+    <lastmod>2025-01-06T18:17:46+01:00</lastmod>
+  </url><url>
+    <loc>https://jmbruell.netlify.app/tag/devops/</loc>
+    <lastmod>2025-01-06T18:17:46+01:00</lastmod>
+  </url><url>
+    <loc>https://jmbruell.netlify.app/project/anr-fates-mlops/</loc>
+    <lastmod>2025-01-06T18:17:46+01:00</lastmod>
   </url><url>
     <loc>https://jmbruell.netlify.app/</loc>
-    <lastmod>2024-12-17T17:10:46+01:00</lastmod>
+    <lastmod>2025-01-06T18:17:46+01:00</lastmod>
+  </url><url>
+    <loc>https://jmbruell.netlify.app/project/</loc>
+    <lastmod>2025-01-06T18:17:46+01:00</lastmod>
+  </url><url>
+    <loc>https://jmbruell.netlify.app/tag/requirements/</loc>
+    <lastmod>2025-01-06T18:17:46+01:00</lastmod>
+  </url><url>
+    <loc>https://jmbruell.netlify.app/tags/</loc>
+    <lastmod>2025-01-06T18:17:46+01:00</lastmod>
+  </url><url>
+    <loc>https://jmbruell.netlify.app/authors/</loc>
+    <lastmod>2025-01-06T18:17:46+01:00</lastmod>
   </url><url>
     <loc>https://jmbruell.netlify.app/talk/20240417-innopolis/</loc>
     <lastmod>2024-04-17T10:04:45+02:00</lastmod>
-  </url><url>
-    <loc>https://jmbruell.netlify.app/tags/</loc>
-    <lastmod>2024-05-02T10:53:05+02:00</lastmod>
   </url><url>
     <loc>https://jmbruell.netlify.app/tag/teaching/</loc>
     <lastmod>2024-04-17T10:04:45+02:00</lastmod>
@@ -192,12 +207,6 @@
     <lastmod>2022-10-12T17:15:03+02:00</lastmod>
   </url><url>
     <loc>https://jmbruell.netlify.app/tag/ontology/</loc>
-    <lastmod>2022-10-12T17:15:03+02:00</lastmod>
-  </url><url>
-    <loc>https://jmbruell.netlify.app/project/</loc>
-    <lastmod>2022-10-12T17:15:03+02:00</lastmod>
-  </url><url>
-    <loc>https://jmbruell.netlify.app/tag/requirements/</loc>
     <lastmod>2022-10-12T17:15:03+02:00</lastmod>
   </url><url>
     <loc>https://jmbruell.netlify.app/tag/vv/</loc>
@@ -653,7 +662,7 @@
     <lastmod>2020-10-19T16:39:44+02:00</lastmod>
   </url><url>
     <loc>https://jmbruell.netlify.app/author/jean-michel-bruel/</loc>
-    <lastmod>2024-07-29T13:58:52+02:00</lastmod>
+    <lastmod>2025-01-06T18:17:46+01:00</lastmod>
   </url><url>
     <loc>https://jmbruell.netlify.app/author/kim-loubat/</loc>
     <lastmod>2024-12-17T17:10:46+01:00</lastmod>

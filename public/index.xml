@@ -5,12 +5,20 @@
     <link>https://jmbruell.netlify.app/</link>
       <atom:link href="https://jmbruell.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <description>Jean-Michel Bruel</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 - ACDC. Last update: January 6th, 2025</copyright><lastBuildDate>Wed, 17 Apr 2024 13:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 - ACDC. Last update: January 6th, 2025</copyright><lastBuildDate>Mon, 06 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jmbruell.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Jean-Michel Bruel</title>
       <link>https://jmbruell.netlify.app/</link>
     </image>
+    
+    <item>
+      <title>FATES-MLOps</title>
+      <link>https://jmbruell.netlify.app/project/anr-fates-mlops/</link>
+      <pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://jmbruell.netlify.app/project/anr-fates-mlops/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>PEGS Approach Overview</title>
