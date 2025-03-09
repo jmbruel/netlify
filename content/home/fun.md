@@ -33,9 +33,13 @@ I have completed in 2018 the <a href="https://utmbmontblanc.com/en/page/217/217.
 
 {{< figure src="img/occ2017.jpg" width="200" title="[55km/3600mD+ in 11h13']">}}
 
-I have completed in 2021 my longuest trail: the <a href="https://www.grandraidpyrenees.com/">GRP "Tour du Moudang"</a> race (64km/3600mD+) in 12h (together with my friend Alain who did it at 75!)
+I have completed in 2021 my longest trail: the <a href="https://www.grandraidpyrenees.com/">GRP "Tour du Moudang"</a> race (64km/3600mD+) in 12h (together with my friend Alain who did it at 75!)
 
 {{< figure src="img/grp2021.jpg" width="200" title="[64km/3600mD+ in 12h]">}}
+
+I spend most of my free time learning paragliding.
+
+{{< figure src="img/epsilon.jpg" width="600" title="[Flight of Icarus]">}}
 
 Here are some other stuff I'd like to share:
 	<ul>
