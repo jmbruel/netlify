@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sophie Ebersold-Marcaillou | Jean-Michel Bruel</title>
-    <link>http://localhost:1313/author/sophie-ebersold-marcaillou/</link>
-      <atom:link href="http://localhost:1313/author/sophie-ebersold-marcaillou/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jmbruell.netlify.app/author/sophie-ebersold-marcaillou/</link>
+      <atom:link href="https://jmbruell.netlify.app/author/sophie-ebersold-marcaillou/index.xml" rel="self" type="application/rss+xml" />
     <description>Sophie Ebersold-Marcaillou</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 - ACDC. Last update: March 9th, 2025</copyright>
     <image>
-      <url>http://localhost:1313/author/sophie-ebersold-marcaillou/avatar_hu_26867c66dba3d550.jpeg</url>
+      <url>https://jmbruell.netlify.app/author/sophie-ebersold-marcaillou/avatar_hu_26867c66dba3d550.jpeg</url>
       <title>Sophie Ebersold-Marcaillou</title>
-      <link>http://localhost:1313/author/sophie-ebersold-marcaillou/</link>
+      <link>https://jmbruell.netlify.app/author/sophie-ebersold-marcaillou/</link>
     </image>
     
     <item>
       <title>AutoReq: expressing and verifying requirements for control systems</title>
-      <link>http://localhost:1313/publication/na-me-ga-br-ma-eb-2019-1/</link>
+      <link>https://jmbruell.netlify.app/publication/na-me-ga-br-ma-eb-2019-1/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/na-me-ga-br-ma-eb-2019-1/</guid>
+      <guid>https://jmbruell.netlify.app/publication/na-me-ga-br-ma-eb-2019-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Towards an Anatomy of Software Requirements</title>
-      <link>http://localhost:1313/publication/dblp-conftools-0001-begn-19/</link>
+      <link>https://jmbruell.netlify.app/publication/dblp-conftools-0001-begn-19/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dblp-conftools-0001-begn-19/</guid>
+      <guid>https://jmbruell.netlify.app/publication/dblp-conftools-0001-begn-19/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sophie Ebersold-Marcaillou</title>
-      <link>http://localhost:1313/author/sophie-ebersold-marcaillou/</link>
+      <link>https://jmbruell.netlify.app/author/sophie-ebersold-marcaillou/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/author/sophie-ebersold-marcaillou/</guid>
+      <guid>https://jmbruell.netlify.app/author/sophie-ebersold-marcaillou/</guid>
       <description></description>
     </item>
     

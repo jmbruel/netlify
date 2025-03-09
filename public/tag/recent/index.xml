@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent | Jean-Michel Bruel</title>
-    <link>http://localhost:1313/tag/recent/</link>
-      <atom:link href="http://localhost:1313/tag/recent/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jmbruell.netlify.app/tag/recent/</link>
+      <atom:link href="https://jmbruell.netlify.app/tag/recent/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 - ACDC. Last update: March 9th, 2025</copyright><lastBuildDate>Fri, 27 Jul 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_1b4bcfdf7d67b990.png</url>
+      <url>https://jmbruell.netlify.app/media/icon_hu_1b4bcfdf7d67b990.png</url>
       <title>Recent</title>
-      <link>http://localhost:1313/tag/recent/</link>
+      <link>https://jmbruell.netlify.app/tag/recent/</link>
     </image>
     
     <item>
       <title>On the use of models for high-performance scientific computing applications: an experience report</title>
-      <link>http://localhost:1313/publication/sosym2018/</link>
+      <link>https://jmbruell.netlify.app/publication/sosym2018/</link>
       <pubDate>Fri, 27 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/sosym2018/</guid>
+      <guid>https://jmbruell.netlify.app/publication/sosym2018/</guid>
       <description></description>
     </item>
     

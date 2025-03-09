@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nursultan Askarbekuly | Jean-Michel Bruel</title>
-    <link>http://localhost:1313/author/nursultan-askarbekuly/</link>
-      <atom:link href="http://localhost:1313/author/nursultan-askarbekuly/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jmbruell.netlify.app/author/nursultan-askarbekuly/</link>
+      <atom:link href="https://jmbruell.netlify.app/author/nursultan-askarbekuly/index.xml" rel="self" type="application/rss+xml" />
     <description>Nursultan Askarbekuly</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 - ACDC. Last update: March 9th, 2025</copyright>
     <image>
-      <url>http://localhost:1313/author/nursultan-askarbekuly/avatar_hu_85cb04a7e737e911.jpg</url>
+      <url>https://jmbruell.netlify.app/author/nursultan-askarbekuly/avatar_hu_85cb04a7e737e911.jpg</url>
       <title>Nursultan Askarbekuly</title>
-      <link>http://localhost:1313/author/nursultan-askarbekuly/</link>
+      <link>https://jmbruell.netlify.app/author/nursultan-askarbekuly/</link>
     </image>
     
     <item>
       <title>Nursultan Askarbekuly</title>
-      <link>http://localhost:1313/author/nursultan-askarbekuly/</link>
+      <link>https://jmbruell.netlify.app/author/nursultan-askarbekuly/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/author/nursultan-askarbekuly/</guid>
+      <guid>https://jmbruell.netlify.app/author/nursultan-askarbekuly/</guid>
       <description></description>
     </item>
     

@@ -2,746 +2,750 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/tag/ai/</loc>
+    <loc>https://jmbruell.netlify.app/tag/ai/</loc>
     <lastmod>2025-01-06T18:17:46+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tag/devops/</loc>
+    <loc>https://jmbruell.netlify.app/tag/devops/</loc>
     <lastmod>2025-01-06T18:17:46+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/project/anr-fates-mlops/</loc>
+    <loc>https://jmbruell.netlify.app/project/anr-fates-mlops/</loc>
     <lastmod>2025-01-06T18:17:46+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://jmbruell.netlify.app/</loc>
+    <lastmod>2025-03-09T15:49:10+01:00</lastmod>
+  </url><url>
+    <loc>https://jmbruell.netlify.app/project/</loc>
     <lastmod>2025-01-06T18:17:46+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/project/</loc>
+    <loc>https://jmbruell.netlify.app/tag/requirements/</loc>
     <lastmod>2025-01-06T18:17:46+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tag/requirements/</loc>
-    <lastmod>2025-01-06T18:17:46+01:00</lastmod>
+    <loc>https://jmbruell.netlify.app/tags/</loc>
+    <lastmod>2025-03-09T15:49:10+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-01-06T18:17:46+01:00</lastmod>
+    <loc>https://jmbruell.netlify.app/authors/</loc>
+    <lastmod>2025-03-09T15:49:10+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/authors/</loc>
-    <lastmod>2025-01-06T18:17:46+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/talk/20240417-innopolis/</loc>
+    <loc>https://jmbruell.netlify.app/talk/20240417-innopolis/</loc>
     <lastmod>2024-04-17T10:04:45+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tag/teaching/</loc>
+    <loc>https://jmbruell.netlify.app/tag/teaching/</loc>
     <lastmod>2024-04-17T10:04:45+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/talk/20240329-scalability/</loc>
+    <loc>https://jmbruell.netlify.app/talk/20240329-scalability/</loc>
     <lastmod>2024-04-17T10:34:32+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tag/research/</loc>
-    <lastmod>2024-04-17T10:34:32+02:00</lastmod>
+    <loc>https://jmbruell.netlify.app/tag/research/</loc>
+    <lastmod>2025-03-09T15:49:10+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/talk/20240221-ai-workshop/</loc>
+    <loc>https://jmbruell.netlify.app/talk/20240221-ai-workshop/</loc>
     <lastmod>2024-02-12T18:33:55+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/talk/20230905-re23-tuto/</loc>
+    <loc>https://jmbruell.netlify.app/talk/20230905-re23-tuto/</loc>
     <lastmod>2023-09-03T21:42:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/talk/20230905-re23-first/</loc>
+    <loc>https://jmbruell.netlify.app/talk/20230905-re23-first/</loc>
     <lastmod>2023-09-06T18:10:44+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/talk/20230619-mcmaster/</loc>
-    <lastmod>2023-06-18T18:36:33-04:00</lastmod>
+    <loc>https://jmbruell.netlify.app/talk/20230619-mcmaster/</loc>
+    <lastmod>2025-03-09T15:49:10+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/talk/20230606-gdr-gpl-ie/</loc>
-    <lastmod>2023-06-04T15:44:00+02:00</lastmod>
+    <loc>https://jmbruell.netlify.app/talk/20230606-gdr-gpl-ie/</loc>
+    <lastmod>2025-03-09T15:49:10+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tag/learning-analytics-git-traces-interactive-system-learning-analytics-traces-dapprentissage-git-systeme-interactif/</loc>
+    <loc>https://jmbruell.netlify.app/tag/learning-analytics-git-traces-interactive-system-learning-analytics-traces-dapprentissage-git-systeme-interactif/</loc>
     <lastmod>2023-11-24T10:30:51+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/publication-type/1/</loc>
+    <loc>https://jmbruell.netlify.app/publication-type/1/</loc>
     <lastmod>2023-11-24T10:30:51+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/franck-silvestre/</loc>
+    <loc>https://jmbruell.netlify.app/author/franck-silvestre/</loc>
     <lastmod>2023-11-24T10:30:51+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/jean-baptiste-raclet/</loc>
+    <loc>https://jmbruell.netlify.app/author/jean-baptiste-raclet/</loc>
     <lastmod>2023-11-24T10:30:51+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/jean-michel-bruel/</loc>
+    <loc>https://jmbruell.netlify.app/author/jean-michel-bruel/</loc>
     <lastmod>2023-11-24T10:30:51+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/mika-pons/</loc>
+    <loc>https://jmbruell.netlify.app/author/mika-pons/</loc>
     <lastmod>2023-11-24T10:30:51+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/publication_types/</loc>
-    <lastmod>2024-02-13T09:50:58+01:00</lastmod>
+    <loc>https://jmbruell.netlify.app/publication_types/</loc>
+    <lastmod>2025-03-09T15:49:10+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/publication/pons-hal-04144980/</loc>
+    <loc>https://jmbruell.netlify.app/publication/pons-hal-04144980/</loc>
     <lastmod>2023-11-24T10:30:51+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/publication-type/2/</loc>
-    <lastmod>2024-02-13T09:50:58+01:00</lastmod>
+    <loc>https://jmbruell.netlify.app/publication-type/2/</loc>
+    <lastmod>2025-03-09T15:49:10+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/alexandr-naumchev/</loc>
+    <loc>https://jmbruell.netlify.app/author/alexandr-naumchev/</loc>
     <lastmod>2023-06-14T12:39:13+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/bertrand-meyer/</loc>
+    <loc>https://jmbruell.netlify.app/author/bertrand-meyer/</loc>
     <lastmod>2023-06-14T12:39:13+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/florian-galinier/</loc>
+    <loc>https://jmbruell.netlify.app/author/florian-galinier/</loc>
     <lastmod>2023-06-14T12:39:13+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/maria-naumcheva/</loc>
+    <loc>https://jmbruell.netlify.app/author/maria-naumcheva/</loc>
     <lastmod>2023-06-14T12:39:13+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/publication/jot-issue-2023-01-article-3/</loc>
+    <loc>https://jmbruell.netlify.app/publication/jot-issue-2023-01-article-3/</loc>
     <lastmod>2023-06-14T12:39:13+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/sophie-ebersold/</loc>
+    <loc>https://jmbruell.netlify.app/author/sophie-ebersold/</loc>
     <lastmod>2023-06-14T12:39:13+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tag/states-and-modes-requirements-modeling-and-verification-domain-specific-language-model-checking-states-and-modes-requirements-modeling-and-verification-domain-specific-language-model-checking/</loc>
+    <loc>https://jmbruell.netlify.app/tag/states-and-modes-requirements-modeling-and-verification-domain-specific-language-model-checking-states-and-modes-requirements-modeling-and-verification-domain-specific-language-model-checking/</loc>
     <lastmod>2023-11-24T10:30:51+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/publication/liu-hal-03941814/</loc>
+    <loc>https://jmbruell.netlify.app/publication/liu-hal-03941814/</loc>
     <lastmod>2023-11-24T10:30:51+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/yinling-liu/</loc>
+    <loc>https://jmbruell.netlify.app/author/yinling-liu/</loc>
     <lastmod>2023-11-24T10:30:51+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/publication/incose-2022/</loc>
+    <loc>https://jmbruell.netlify.app/publication/incose-2022/</loc>
     <lastmod>2024-02-13T09:50:58+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/jeanmichel-bruel/</loc>
+    <loc>https://jmbruell.netlify.app/author/jeanmichel-bruel/</loc>
     <lastmod>2024-02-13T09:50:58+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/mohammad-chami/</loc>
+    <loc>https://jmbruell.netlify.app/author/mohammad-chami/</loc>
     <lastmod>2024-02-13T09:50:58+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/nabil-abdoun/</loc>
+    <loc>https://jmbruell.netlify.app/author/nabil-abdoun/</loc>
     <lastmod>2024-02-13T09:50:58+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/talk/20220901-youtube-fsl/</loc>
-    <lastmod>2022-10-12T16:55:30+02:00</lastmod>
+    <loc>https://jmbruell.netlify.app/talk/20220901-youtube-fsl/</loc>
+    <lastmod>2025-03-09T15:49:10+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/talk/20220224-diversecoffee/</loc>
+    <loc>https://jmbruell.netlify.app/talk/20220224-diversecoffee/</loc>
     <lastmod>2022-02-24T11:33:56+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/talk/20220216-wsse22/</loc>
+    <loc>https://jmbruell.netlify.app/talk/20220216-wsse22/</loc>
     <lastmod>2022-10-12T17:15:03+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/alfredo-capozucca/</loc>
+    <loc>https://jmbruell.netlify.app/author/alfredo-capozucca/</loc>
     <lastmod>2022-10-12T10:02:48+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/andrey-sadovykh/</loc>
+    <loc>https://jmbruell.netlify.app/author/andrey-sadovykh/</loc>
     <lastmod>2022-10-12T10:02:48+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/ildar-nigmatullin/</loc>
+    <loc>https://jmbruell.netlify.app/author/ildar-nigmatullin/</loc>
     <lastmod>2022-10-12T10:02:48+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/manuel-mazzara/</loc>
+    <loc>https://jmbruell.netlify.app/author/manuel-mazzara/</loc>
     <lastmod>2022-10-12T10:02:48+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/nan-messe/</loc>
+    <loc>https://jmbruell.netlify.app/author/nan-messe/</loc>
     <lastmod>2022-10-12T10:02:48+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/publication/dblp-conficst-nigmatullin-smeb-22/</loc>
+    <loc>https://jmbruell.netlify.app/publication/dblp-conficst-nigmatullin-smeb-22/</loc>
     <lastmod>2022-10-12T10:02:48+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/publication/dblp-journalssncs-capozucca-bmm-22/</loc>
+    <loc>https://jmbruell.netlify.app/publication/dblp-journalssncs-capozucca-bmm-22/</loc>
     <lastmod>2022-10-12T10:02:48+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/talk/20211130-gt-cifre/</loc>
+    <loc>https://jmbruell.netlify.app/talk/20211130-gt-cifre/</loc>
     <lastmod>2021-11-29T18:49:53+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/talk/20210528-gt-ie/</loc>
+    <loc>https://jmbruell.netlify.app/talk/20210528-gt-ie/</loc>
     <lastmod>2021-05-31T16:00:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tag/formal/</loc>
+    <loc>https://jmbruell.netlify.app/tag/formal/</loc>
     <lastmod>2021-06-15T17:10:24+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tag/requirement/</loc>
+    <loc>https://jmbruell.netlify.app/tag/requirement/</loc>
     <lastmod>2021-06-15T17:10:24+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tag/seamless/</loc>
+    <loc>https://jmbruell.netlify.app/tag/seamless/</loc>
     <lastmod>2021-06-15T17:10:24+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tag/software/</loc>
+    <loc>https://jmbruell.netlify.app/tag/software/</loc>
     <lastmod>2021-06-15T17:10:24+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tag/specification/</loc>
+    <loc>https://jmbruell.netlify.app/tag/specification/</loc>
     <lastmod>2021-06-15T17:10:24+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/publication/acm-surveys-2021/</loc>
+    <loc>https://jmbruell.netlify.app/publication/acm-surveys-2021/</loc>
     <lastmod>2021-06-15T17:10:24+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/publication/dblp-confisdevel-aslam-nbb-21/</loc>
+    <loc>https://jmbruell.netlify.app/publication/dblp-confisdevel-aslam-nbb-21/</loc>
     <lastmod>2022-10-12T10:02:48+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/hamna-aslam/</loc>
+    <loc>https://jmbruell.netlify.app/author/hamna-aslam/</loc>
     <lastmod>2022-10-12T10:02:48+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/jean-paul-arcangeli/</loc>
+    <loc>https://jmbruell.netlify.app/author/jean-paul-arcangeli/</loc>
     <lastmod>2021-07-28T09:45:14+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/joseph-alexander-brown/</loc>
+    <loc>https://jmbruell.netlify.app/author/joseph-alexander-brown/</loc>
     <lastmod>2022-10-12T10:02:48+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/maroun-koussaifi/</loc>
+    <loc>https://jmbruell.netlify.app/author/maroun-koussaifi/</loc>
     <lastmod>2021-07-28T09:45:14+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/publication/jucs-2021/</loc>
+    <loc>https://jmbruell.netlify.app/publication/jucs-2021/</loc>
     <lastmod>2021-07-28T09:45:14+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/sylvie-trouilhet/</loc>
+    <loc>https://jmbruell.netlify.app/author/sylvie-trouilhet/</loc>
     <lastmod>2021-07-28T09:45:14+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/talk/20201204-cusi/</loc>
+    <loc>https://jmbruell.netlify.app/talk/20201204-cusi/</loc>
     <lastmod>2020-12-04T16:43:10+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/project/airbus/</loc>
+    <loc>https://jmbruell.netlify.app/project/airbus/</loc>
     <lastmod>2022-10-12T17:15:03+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tag/lean/</loc>
+    <loc>https://jmbruell.netlify.app/tag/lean/</loc>
     <lastmod>2022-10-12T17:15:03+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tag/mbse/</loc>
+    <loc>https://jmbruell.netlify.app/tag/mbse/</loc>
     <lastmod>2022-10-12T17:15:03+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tag/ontology/</loc>
+    <loc>https://jmbruell.netlify.app/tag/ontology/</loc>
     <lastmod>2022-10-12T17:15:03+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tag/vv/</loc>
+    <loc>https://jmbruell.netlify.app/tag/vv/</loc>
     <lastmod>2022-10-12T17:15:03+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/annapaola-marconi/</loc>
+    <loc>https://jmbruell.netlify.app/author/annapaola-marconi/</loc>
     <lastmod>2021-07-30T11:18:32+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/antonio-cicchetti/</loc>
+    <loc>https://jmbruell.netlify.app/author/antonio-cicchetti/</loc>
     <lastmod>2021-07-30T11:18:32+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/antonion-bucchiarone/</loc>
+    <loc>https://jmbruell.netlify.app/author/antonion-bucchiarone/</loc>
     <lastmod>2020-10-27T18:10:28+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tag/fun/</loc>
+    <loc>https://jmbruell.netlify.app/tag/fun/</loc>
     <lastmod>2022-10-12T17:06:38+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tag/gamification/</loc>
+    <loc>https://jmbruell.netlify.app/tag/gamification/</loc>
     <lastmod>2020-10-27T18:10:28+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/jordi-cabot/</loc>
+    <loc>https://jmbruell.netlify.app/author/jordi-cabot/</loc>
     <lastmod>2021-07-30T11:18:32+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/maxime-savary-leblanc/</loc>
+    <loc>https://jmbruell.netlify.app/author/maxime-savary-leblanc/</loc>
     <lastmod>2021-07-30T11:18:32+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/mirko-perillo/</loc>
+    <loc>https://jmbruell.netlify.app/author/mirko-perillo/</loc>
     <lastmod>2021-07-30T11:18:32+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tag/papyrus/</loc>
+    <loc>https://jmbruell.netlify.app/tag/papyrus/</loc>
     <lastmod>2020-10-27T18:10:28+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/talk/20201021-modelsdemo/</loc>
+    <loc>https://jmbruell.netlify.app/talk/20201021-modelsdemo/</loc>
     <lastmod>2020-10-27T18:10:28+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/sebastien-gerard/</loc>
+    <loc>https://jmbruell.netlify.app/author/sebastien-gerard/</loc>
     <lastmod>2020-10-27T18:10:28+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/xavier-le-pallec/</loc>
+    <loc>https://jmbruell.netlify.app/author/xavier-le-pallec/</loc>
     <lastmod>2021-07-30T11:18:32+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/talk/20201019-modelsdocsymp/</loc>
+    <loc>https://jmbruell.netlify.app/talk/20201019-modelsdocsymp/</loc>
     <lastmod>2020-12-04T16:50:07+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tag/collaboration/</loc>
+    <loc>https://jmbruell.netlify.app/tag/collaboration/</loc>
     <lastmod>2020-10-20T12:24:06+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/project/innopolis/</loc>
+    <loc>https://jmbruell.netlify.app/project/innopolis/</loc>
     <lastmod>2020-10-19T20:20:09+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/project/fun/</loc>
+    <loc>https://jmbruell.netlify.app/project/fun/</loc>
     <lastmod>2020-10-20T12:24:06+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/iulian-ober/</loc>
+    <loc>https://jmbruell.netlify.app/author/iulian-ober/</loc>
     <lastmod>2020-10-19T16:39:44+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/publication/ba-ob-br-2020-1/</loc>
+    <loc>https://jmbruell.netlify.app/publication/ba-ob-br-2020-1/</loc>
     <lastmod>2020-10-19T16:39:44+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/ronan-baduel/</loc>
+    <loc>https://jmbruell.netlify.app/author/ronan-baduel/</loc>
     <lastmod>2020-10-19T16:39:44+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tag/gamification/</loc>
+    <loc>https://jmbruell.netlify.app/tag/gamification/</loc>
     <lastmod>2021-07-30T11:18:32+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tag/modeling-education/</loc>
+    <loc>https://jmbruell.netlify.app/tag/modeling-education/</loc>
     <lastmod>2021-07-30T11:18:32+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tag/papyrus/</loc>
+    <loc>https://jmbruell.netlify.app/tag/papyrus/</loc>
     <lastmod>2021-07-30T11:18:32+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tag/software-modeling/</loc>
+    <loc>https://jmbruell.netlify.app/tag/software-modeling/</loc>
     <lastmod>2021-07-30T11:18:32+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/publication/9094197/</loc>
-    <lastmod>2020-10-20T12:30:07+02:00</lastmod>
+    <loc>https://jmbruell.netlify.app/publication/9094197/</loc>
+    <lastmod>2025-03-09T15:49:10+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/a.-koziolek/</loc>
-    <lastmod>2020-10-20T12:30:07+02:00</lastmod>
+    <loc>https://jmbruell.netlify.app/author/a.-koziolek/</loc>
+    <lastmod>2025-03-09T15:49:10+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/antonio-bucchiarone/</loc>
+    <loc>https://jmbruell.netlify.app/author/antonio-bucchiarone/</loc>
     <lastmod>2021-07-30T11:18:32+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/b.-benni/</loc>
-    <lastmod>2020-10-20T12:30:07+02:00</lastmod>
+    <loc>https://jmbruell.netlify.app/author/b.-benni/</loc>
+    <lastmod>2025-03-09T15:49:10+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/b.-h.-c.-cheng/</loc>
-    <lastmod>2020-10-20T12:30:07+02:00</lastmod>
+    <loc>https://jmbruell.netlify.app/author/b.-h.-c.-cheng/</loc>
+    <lastmod>2025-03-09T15:49:10+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/betty-h.-c.-cheng/</loc>
+    <loc>https://jmbruell.netlify.app/author/betty-h.-c.-cheng/</loc>
     <lastmod>2020-10-19T16:39:44+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/birgit-penzenstadler/</loc>
+    <loc>https://jmbruell.netlify.app/author/birgit-penzenstadler/</loc>
     <lastmod>2020-10-19T16:39:44+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/christoph-becker/</loc>
+    <loc>https://jmbruell.netlify.app/author/christoph-becker/</loc>
     <lastmod>2020-10-19T16:39:44+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/colin-c.-venters/</loc>
+    <loc>https://jmbruell.netlify.app/author/colin-c.-venters/</loc>
     <lastmod>2020-10-19T16:39:44+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/publication/dblp-journalssosym-bruel-cgjklmsv-20/</loc>
+    <loc>https://jmbruell.netlify.app/publication/dblp-journalssosym-bruel-cgjklmsv-20/</loc>
     <lastmod>2020-10-19T16:39:44+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/d.-amyot/</loc>
-    <lastmod>2020-10-20T12:30:07+02:00</lastmod>
+    <loc>https://jmbruell.netlify.app/author/d.-amyot/</loc>
+    <lastmod>2025-03-09T15:49:10+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/e.-batot/</loc>
-    <lastmod>2020-10-20T12:30:07+02:00</lastmod>
+    <loc>https://jmbruell.netlify.app/author/e.-batot/</loc>
+    <lastmod>2025-03-09T15:49:10+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/e.-syriani/</loc>
-    <lastmod>2020-10-20T12:30:07+02:00</lastmod>
+    <loc>https://jmbruell.netlify.app/author/e.-syriani/</loc>
+    <lastmod>2025-03-09T15:49:10+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/esther-guerra/</loc>
+    <loc>https://jmbruell.netlify.app/author/esther-guerra/</loc>
     <lastmod>2020-10-19T16:39:44+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/eugene-syriani/</loc>
+    <loc>https://jmbruell.netlify.app/author/eugene-syriani/</loc>
     <lastmod>2020-10-19T16:39:44+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/g.-engels/</loc>
-    <lastmod>2020-10-20T12:30:07+02:00</lastmod>
+    <loc>https://jmbruell.netlify.app/author/g.-engels/</loc>
+    <lastmod>2025-03-09T15:49:10+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/g.-mussbacher/</loc>
-    <lastmod>2020-10-20T12:30:07+02:00</lastmod>
+    <loc>https://jmbruell.netlify.app/author/g.-mussbacher/</loc>
+    <lastmod>2025-03-09T15:49:10+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/gunter-mussbacher/</loc>
+    <loc>https://jmbruell.netlify.app/author/gunter-mussbacher/</loc>
     <lastmod>2020-10-19T16:39:44+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/h.-ali/</loc>
-    <lastmod>2020-10-20T12:30:07+02:00</lastmod>
+    <loc>https://jmbruell.netlify.app/author/h.-ali/</loc>
+    <lastmod>2025-03-09T15:49:10+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/h.-sahraoui/</loc>
-    <lastmod>2020-10-20T12:30:07+02:00</lastmod>
+    <loc>https://jmbruell.netlify.app/author/h.-sahraoui/</loc>
+    <lastmod>2025-03-09T15:49:10+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/hans-vangheluwe/</loc>
+    <loc>https://jmbruell.netlify.app/author/hans-vangheluwe/</loc>
     <lastmod>2020-10-19T16:39:44+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/j.-a.-kienzle/</loc>
-    <lastmod>2020-10-20T12:30:07+02:00</lastmod>
+    <loc>https://jmbruell.netlify.app/author/j.-a.-kienzle/</loc>
+    <lastmod>2025-03-09T15:49:10+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/j.-cabot/</loc>
-    <lastmod>2020-10-20T12:30:07+02:00</lastmod>
+    <loc>https://jmbruell.netlify.app/author/j.-cabot/</loc>
+    <lastmod>2025-03-09T15:49:10+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/j.-jezequel/</loc>
-    <lastmod>2020-10-20T12:30:07+02:00</lastmod>
+    <loc>https://jmbruell.netlify.app/author/j.-jezequel/</loc>
+    <lastmod>2025-03-09T15:49:10+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/j.-sallou/</loc>
-    <lastmod>2020-10-20T12:30:07+02:00</lastmod>
+    <loc>https://jmbruell.netlify.app/author/j.-sallou/</loc>
+    <lastmod>2025-03-09T15:49:10+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/jean-marc-jezequel/</loc>
+    <loc>https://jmbruell.netlify.app/author/jean-marc-jezequel/</loc>
     <lastmod>2020-10-19T16:39:44+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/jorg-kienzle/</loc>
+    <loc>https://jmbruell.netlify.app/author/jorg-kienzle/</loc>
     <lastmod>2020-10-19T16:39:44+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/juan-de-lara/</loc>
+    <loc>https://jmbruell.netlify.app/author/juan-de-lara/</loc>
     <lastmod>2020-10-19T16:39:44+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/lucy-bastin/</loc>
+    <loc>https://jmbruell.netlify.app/author/lucy-bastin/</loc>
     <lastmod>2020-10-19T16:39:44+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/m.-bagherzadeh/</loc>
-    <lastmod>2020-10-20T12:30:07+02:00</lastmod>
+    <loc>https://jmbruell.netlify.app/author/m.-bagherzadeh/</loc>
+    <lastmod>2025-03-09T15:49:10+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/m.-wimmer/</loc>
-    <lastmod>2020-10-20T12:30:07+02:00</lastmod>
+    <loc>https://jmbruell.netlify.app/author/m.-wimmer/</loc>
+    <lastmod>2025-03-09T15:49:10+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tag/mde/</loc>
-    <lastmod>2020-10-20T12:30:07+02:00</lastmod>
+    <loc>https://jmbruell.netlify.app/tag/mde/</loc>
+    <lastmod>2025-03-09T15:49:10+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/publication/dblp-confsac-baduel-ob-20/</loc>
+    <loc>https://jmbruell.netlify.app/publication/dblp-confsac-baduel-ob-20/</loc>
     <lastmod>2020-10-19T16:39:44+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/n.-bencomo/</loc>
-    <lastmod>2020-10-20T12:30:07+02:00</lastmod>
+    <loc>https://jmbruell.netlify.app/author/n.-bencomo/</loc>
+    <lastmod>2025-03-09T15:49:10+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/nelly-bencomo/</loc>
+    <loc>https://jmbruell.netlify.app/author/nelly-bencomo/</loc>
     <lastmod>2020-10-19T16:39:44+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/norbert-seyff/</loc>
+    <loc>https://jmbruell.netlify.app/author/norbert-seyff/</loc>
     <lastmod>2020-10-19T16:39:44+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/p.-collet/</loc>
-    <lastmod>2020-10-20T12:30:07+02:00</lastmod>
+    <loc>https://jmbruell.netlify.app/author/p.-collet/</loc>
+    <lastmod>2025-03-09T15:49:10+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/publication/papygame-2020/</loc>
+    <loc>https://jmbruell.netlify.app/publication/papygame-2020/</loc>
     <lastmod>2021-07-30T11:18:32+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/r.-heinrich/</loc>
-    <lastmod>2020-10-20T12:30:07+02:00</lastmod>
+    <loc>https://jmbruell.netlify.app/author/r.-heinrich/</loc>
+    <lastmod>2025-03-09T15:49:10+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/r.-reussner/</loc>
-    <lastmod>2020-10-20T12:30:07+02:00</lastmod>
+    <loc>https://jmbruell.netlify.app/author/r.-reussner/</loc>
+    <lastmod>2025-03-09T15:49:10+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/r.-saini/</loc>
-    <lastmod>2020-10-20T12:30:07+02:00</lastmod>
+    <loc>https://jmbruell.netlify.app/author/r.-saini/</loc>
+    <lastmod>2025-03-09T15:49:10+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/richard-f.-paige/</loc>
+    <loc>https://jmbruell.netlify.app/author/richard-f.-paige/</loc>
     <lastmod>2020-10-19T16:39:44+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/ruzanna-chitchyan/</loc>
+    <loc>https://jmbruell.netlify.app/author/ruzanna-chitchyan/</loc>
     <lastmod>2020-10-19T16:39:44+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/s.-mosser/</loc>
-    <lastmod>2020-10-20T12:30:07+02:00</lastmod>
+    <loc>https://jmbruell.netlify.app/author/s.-mosser/</loc>
+    <lastmod>2025-03-09T15:49:10+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/s.-stinckwich/</loc>
-    <lastmod>2020-10-20T12:30:07+02:00</lastmod>
+    <loc>https://jmbruell.netlify.app/author/s.-stinckwich/</loc>
+    <lastmod>2025-03-09T15:49:10+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/sebastien-gerard/</loc>
+    <loc>https://jmbruell.netlify.app/author/sebastien-gerard/</loc>
     <lastmod>2021-07-30T11:18:32+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/sonja-klingert/</loc>
+    <loc>https://jmbruell.netlify.app/author/sonja-klingert/</loc>
     <lastmod>2020-10-19T16:39:44+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/stefanie-betz/</loc>
+    <loc>https://jmbruell.netlify.app/author/stefanie-betz/</loc>
     <lastmod>2020-10-19T16:39:44+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tag/sustainability/</loc>
+    <loc>https://jmbruell.netlify.app/tag/sustainability/</loc>
     <lastmod>2020-10-19T16:39:44+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tag/systems-of-systems/</loc>
+    <loc>https://jmbruell.netlify.app/tag/systems-of-systems/</loc>
     <lastmod>2020-10-19T16:39:44+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/publication/dblp-journalscacm-kienzle-mcbbbbbc-20/</loc>
+    <loc>https://jmbruell.netlify.app/publication/dblp-journalscacm-kienzle-mcbbbbbc-20/</loc>
     <lastmod>2020-10-19T16:39:44+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/talk/20190924-formreq/</loc>
+    <loc>https://jmbruell.netlify.app/talk/20190924-formreq/</loc>
     <lastmod>2020-10-17T23:20:40+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/talk/20190917-devopsmodels/</loc>
+    <loc>https://jmbruell.netlify.app/talk/20190917-devopsmodels/</loc>
     <lastmod>2020-10-17T23:20:40+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tag/ambient-intelligence/</loc>
+    <loc>https://jmbruell.netlify.app/tag/ambient-intelligence/</loc>
     <lastmod>2020-10-19T16:39:44+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/publication/ko-2019-2/</loc>
+    <loc>https://jmbruell.netlify.app/publication/ko-2019-2/</loc>
     <lastmod>2020-10-19T16:39:44+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tag/service-composition/</loc>
+    <loc>https://jmbruell.netlify.app/tag/service-composition/</loc>
     <lastmod>2020-10-19T16:39:44+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/talk/20190508-devops19/</loc>
+    <loc>https://jmbruell.netlify.app/talk/20190508-devops19/</loc>
     <lastmod>2020-10-17T23:20:40+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/publication/na-me-ga-br-ma-eb-2019-1/</loc>
+    <loc>https://jmbruell.netlify.app/publication/na-me-ga-br-ma-eb-2019-1/</loc>
     <lastmod>2020-10-19T19:01:17+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tag/eiffel/</loc>
+    <loc>https://jmbruell.netlify.app/tag/eiffel/</loc>
     <lastmod>2020-10-19T19:01:17+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tag/multirequirements/</loc>
+    <loc>https://jmbruell.netlify.app/tag/multirequirements/</loc>
     <lastmod>2020-10-19T19:01:17+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/daniel-de-carvalho/</loc>
+    <loc>https://jmbruell.netlify.app/author/daniel-de-carvalho/</loc>
     <lastmod>2020-10-19T16:39:44+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/mansur-khazeev/</loc>
+    <loc>https://jmbruell.netlify.app/author/mansur-khazeev/</loc>
     <lastmod>2020-10-19T16:39:44+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/publication/dblp-conffisee-khazeev-acmbb-19/</loc>
+    <loc>https://jmbruell.netlify.app/publication/dblp-conffisee-khazeev-acmbb-19/</loc>
     <lastmod>2020-10-19T16:39:44+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/publication/dblp-conftools-0001-begn-19/</loc>
+    <loc>https://jmbruell.netlify.app/publication/dblp-conftools-0001-begn-19/</loc>
     <lastmod>2020-10-19T16:39:44+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/abel-gomez/</loc>
+    <loc>https://jmbruell.netlify.app/author/abel-gomez/</loc>
     <lastmod>2020-10-19T16:39:44+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/adrian-rutle/</loc>
+    <loc>https://jmbruell.netlify.app/author/adrian-rutle/</loc>
     <lastmod>2020-10-19T16:39:44+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/andreas-kastner/</loc>
+    <loc>https://jmbruell.netlify.app/author/andreas-kastner/</loc>
     <lastmod>2020-10-19T16:39:44+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/hugo-bruneliere/</loc>
+    <loc>https://jmbruell.netlify.app/author/hugo-bruneliere/</loc>
     <lastmod>2020-10-19T16:39:44+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/martin-gogolla/</loc>
+    <loc>https://jmbruell.netlify.app/author/martin-gogolla/</loc>
     <lastmod>2020-10-19T16:39:44+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/publication/staf18/</loc>
+    <loc>https://jmbruell.netlify.app/publication/staf18/</loc>
     <lastmod>2020-10-19T16:39:44+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tag/publications/</loc>
+    <loc>https://jmbruell.netlify.app/tag/publications/</loc>
     <lastmod>2020-10-19T16:39:44+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/romina-eramo/</loc>
+    <loc>https://jmbruell.netlify.app/author/romina-eramo/</loc>
     <lastmod>2020-10-19T16:39:44+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/valentin-besnard/</loc>
+    <loc>https://jmbruell.netlify.app/author/valentin-besnard/</loc>
     <lastmod>2020-10-19T16:39:44+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/christophe-gnaho/</loc>
+    <loc>https://jmbruell.netlify.app/author/christophe-gnaho/</loc>
     <lastmod>2020-10-19T16:39:44+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/david-lugato/</loc>
+    <loc>https://jmbruell.netlify.app/author/david-lugato/</loc>
     <lastmod>2020-10-19T21:18:38+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tag/dsl/</loc>
+    <loc>https://jmbruell.netlify.app/tag/dsl/</loc>
     <lastmod>2020-10-19T16:39:44+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/publication/esof-poster2018/</loc>
+    <loc>https://jmbruell.netlify.app/publication/esof-poster2018/</loc>
     <lastmod>2020-10-19T16:39:44+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/francoise-adreit/</loc>
+    <loc>https://jmbruell.netlify.app/author/francoise-adreit/</loc>
     <lastmod>2020-10-19T16:39:44+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/publication/icse-poster2018/</loc>
+    <loc>https://jmbruell.netlify.app/publication/icse-poster2018/</loc>
     <lastmod>2020-10-19T16:39:44+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tag/hpc/</loc>
+    <loc>https://jmbruell.netlify.app/tag/hpc/</loc>
     <lastmod>2020-10-19T21:18:38+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/ileana-ober/</loc>
+    <loc>https://jmbruell.netlify.app/author/ileana-ober/</loc>
     <lastmod>2020-10-19T21:18:38+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/manzoor-ahmad/</loc>
+    <loc>https://jmbruell.netlify.app/author/manzoor-ahmad/</loc>
     <lastmod>2020-10-19T16:39:44+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/marc-palyart/</loc>
+    <loc>https://jmbruell.netlify.app/author/marc-palyart/</loc>
     <lastmod>2020-10-19T21:18:38+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/publication/sosym2018/</loc>
+    <loc>https://jmbruell.netlify.app/publication/sosym2018/</loc>
     <lastmod>2020-10-19T16:39:44+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tag/recent/</loc>
+    <loc>https://jmbruell.netlify.app/tag/recent/</loc>
     <lastmod>2020-10-19T16:39:44+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/regine-laleau/</loc>
+    <loc>https://jmbruell.netlify.app/author/regine-laleau/</loc>
     <lastmod>2020-10-19T16:39:44+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tag/relax/</loc>
+    <loc>https://jmbruell.netlify.app/tag/relax/</loc>
     <lastmod>2020-10-19T16:39:44+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/walid-younes/</loc>
+    <loc>https://jmbruell.netlify.app/author/walid-younes/</loc>
     <lastmod>2020-10-19T16:39:44+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/publication/iwcfs18/</loc>
+    <loc>https://jmbruell.netlify.app/publication/iwcfs18/</loc>
     <lastmod>2020-10-19T16:39:44+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/publication/ciel18/</loc>
+    <loc>https://jmbruell.netlify.app/publication/ciel18/</loc>
     <lastmod>2020-10-19T16:39:44+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/ronan-baduel/</loc>
+    <loc>https://jmbruell.netlify.app/author/ronan-baduel/</loc>
     <lastmod>2020-10-19T16:39:44+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tag/sysml/</loc>
+    <loc>https://jmbruell.netlify.app/tag/sysml/</loc>
     <lastmod>2020-10-19T16:39:44+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/publication/ecmfa18/</loc>
+    <loc>https://jmbruell.netlify.app/publication/ecmfa18/</loc>
     <lastmod>2020-10-19T16:39:44+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/maroun-koussaifi/</loc>
+    <loc>https://jmbruell.netlify.app/author/maroun-koussaifi/</loc>
     <lastmod>2020-10-19T16:39:44+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/publication/mse18/</loc>
+    <loc>https://jmbruell.netlify.app/publication/mse18/</loc>
     <lastmod>2020-10-19T16:39:44+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/sophie-trouilhet/</loc>
+    <loc>https://jmbruell.netlify.app/author/sophie-trouilhet/</loc>
     <lastmod>2020-10-19T16:39:44+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/talk/20180412-ariut/</loc>
+    <loc>https://jmbruell.netlify.app/talk/20180412-ariut/</loc>
     <lastmod>2020-10-17T23:20:40+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tag/architecture/</loc>
+    <loc>https://jmbruell.netlify.app/tag/architecture/</loc>
     <lastmod>2020-10-19T21:18:38+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/publication/ob-pa-br-lu-2018-1/</loc>
+    <loc>https://jmbruell.netlify.app/publication/ob-pa-br-lu-2018-1/</loc>
     <lastmod>2020-10-19T21:18:38+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/talk/20180119-cerfacs/</loc>
+    <loc>https://jmbruell.netlify.app/talk/20180119-cerfacs/</loc>
     <lastmod>2020-10-17T23:20:40+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/talk/20171119-cafe-irit/</loc>
+    <loc>https://jmbruell.netlify.app/talk/20171119-cafe-irit/</loc>
     <lastmod>2020-10-17T23:20:40+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/project/bombardier/</loc>
+    <loc>https://jmbruell.netlify.app/project/bombardier/</loc>
     <lastmod>2022-10-12T17:15:03+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/marc-pantel/</loc>
+    <loc>https://jmbruell.netlify.app/author/marc-pantel/</loc>
     <lastmod>2020-10-19T16:39:44+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/publication/gemoc2017/</loc>
+    <loc>https://jmbruell.netlify.app/publication/gemoc2017/</loc>
     <lastmod>2020-10-19T16:39:44+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/renan-leroux-beaudout/</loc>
+    <loc>https://jmbruell.netlify.app/author/renan-leroux-beaudout/</loc>
     <lastmod>2020-10-19T16:39:44+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tag/simulation/</loc>
+    <loc>https://jmbruell.netlify.app/tag/simulation/</loc>
     <lastmod>2020-10-19T16:39:44+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/teaching/mobilemodeling/</loc>
+    <loc>https://jmbruell.netlify.app/teaching/mobilemodeling/</loc>
     <lastmod>2020-10-17T15:34:16+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/project/gemoc/</loc>
+    <loc>https://jmbruell.netlify.app/project/gemoc/</loc>
     <lastmod>2020-10-19T20:20:09+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tag/globalization/</loc>
+    <loc>https://jmbruell.netlify.app/tag/globalization/</loc>
     <lastmod>2020-10-19T20:20:09+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tag/language/</loc>
+    <loc>https://jmbruell.netlify.app/tag/language/</loc>
     <lastmod>2020-10-19T20:20:09+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/project/moise/</loc>
+    <loc>https://jmbruell.netlify.app/project/moise/</loc>
     <lastmod>2020-10-19T20:20:09+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tag/past/</loc>
+    <loc>https://jmbruell.netlify.app/tag/past/</loc>
     <lastmod>2022-10-12T17:22:07+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tag/workbench/</loc>
+    <loc>https://jmbruell.netlify.app/tag/workbench/</loc>
     <lastmod>2020-10-19T20:20:09+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/talk/20171012-cs-irit/</loc>
+    <loc>https://jmbruell.netlify.app/talk/20171012-cs-irit/</loc>
     <lastmod>2020-10-17T23:20:40+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/publication/mmbge17/</loc>
+    <loc>https://jmbruell.netlify.app/publication/mmbge17/</loc>
     <lastmod>2020-10-19T16:39:44+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tag/formal-requirements/</loc>
+    <loc>https://jmbruell.netlify.app/tag/formal-requirements/</loc>
     <lastmod>2020-10-19T16:39:44+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tag/education/</loc>
+    <loc>https://jmbruell.netlify.app/tag/education/</loc>
     <lastmod>2020-10-19T16:39:44+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/francis-bordeleau/</loc>
+    <loc>https://jmbruell.netlify.app/author/francis-bordeleau/</loc>
     <lastmod>2020-10-19T16:39:44+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/henry-muccini/</loc>
+    <loc>https://jmbruell.netlify.app/author/henry-muccini/</loc>
     <lastmod>2020-10-19T16:39:44+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/publication/models16/</loc>
+    <loc>https://jmbruell.netlify.app/publication/models16/</loc>
     <lastmod>2020-10-19T16:39:44+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/jurgen-dingel/</loc>
+    <loc>https://jmbruell.netlify.app/author/jurgen-dingel/</loc>
     <lastmod>2020-10-19T16:39:44+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/sebastian-voss/</loc>
+    <loc>https://jmbruell.netlify.app/author/sebastian-voss/</loc>
     <lastmod>2020-10-19T16:39:44+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/sebastien-gerard/</loc>
+    <loc>https://jmbruell.netlify.app/author/sebastien-gerard/</loc>
     <lastmod>2020-10-19T16:39:44+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tag/agile-methods/</loc>
+    <loc>https://jmbruell.netlify.app/tag/agile-methods/</loc>
     <lastmod>2024-05-02T10:53:05+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/teaching/innopolis/</loc>
+    <loc>https://jmbruell.netlify.app/teaching/innopolis/</loc>
     <lastmod>2024-05-02T10:53:05+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/alexandr-naumchev/</loc>
+    <loc>https://jmbruell.netlify.app/author/alexandr-naumchev/</loc>
     <lastmod>2020-10-19T16:39:44+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/anas-motii/</loc>
+    <loc>https://jmbruell.netlify.app/author/anas-motii/</loc>
     <lastmod>2020-12-08T15:22:41+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/benoit-combemale/</loc>
+    <loc>https://jmbruell.netlify.app/author/benoit-combemale/</loc>
     <lastmod>2024-05-02T10:53:05+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/bertrand-meyer/</loc>
+    <loc>https://jmbruell.netlify.app/author/bertrand-meyer/</loc>
     <lastmod>2024-05-02T10:53:05+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://jmbruell.netlify.app/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tag/current/</loc>
-    <lastmod>2024-12-17T17:10:46+01:00</lastmod>
+    <loc>https://jmbruell.netlify.app/author/claude-baron/</loc>
+    <lastmod>2025-03-09T15:49:10+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/florian-galinier/</loc>
+    <loc>https://jmbruell.netlify.app/tag/current/</loc>
+    <lastmod>2025-03-09T15:49:10+01:00</lastmod>
+  </url><url>
+    <loc>https://jmbruell.netlify.app/author/florian-galinier/</loc>
     <lastmod>2022-10-12T17:22:07+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tag/grant/</loc>
+    <loc>https://jmbruell.netlify.app/tag/grant/</loc>
     <lastmod>2022-10-12T17:22:07+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/hamna-aslam/</loc>
+    <loc>https://jmbruell.netlify.app/author/hamna-aslam/</loc>
     <lastmod>2022-10-12T17:06:38+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tag/indus/</loc>
-    <lastmod>2024-12-17T17:10:46+01:00</lastmod>
+    <loc>https://jmbruell.netlify.app/tag/indus/</loc>
+    <lastmod>2025-03-09T15:49:10+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/irfan-javid/</loc>
+    <loc>https://jmbruell.netlify.app/author/irfan-javid/</loc>
+    <lastmod>2025-03-09T15:49:10+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/jacob-geisel/</loc>
+    <loc>https://jmbruell.netlify.app/author/jacob-geisel/</loc>
     <lastmod>2020-10-19T16:39:44+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/jean-michel-bruel/</loc>
+    <loc>https://jmbruell.netlify.app/author/jean-michel-bruel/</loc>
     <lastmod>2025-01-06T18:17:46+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/kim-loubat/</loc>
+    <loc>https://jmbruell.netlify.app/author/kim-loubat/</loc>
     <lastmod>2024-12-17T17:10:46+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/maroun-koussaifi/</loc>
+    <loc>https://jmbruell.netlify.app/author/maroun-koussaifi/</loc>
     <lastmod>2021-07-30T11:10:54+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/mika-pons/</loc>
+    <loc>https://jmbruell.netlify.app/author/mika-pons/</loc>
     <lastmod>2022-10-12T17:22:07+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/mohammad-chami/</loc>
+    <loc>https://jmbruell.netlify.app/author/mohammad-chami/</loc>
     <lastmod>2022-10-12T17:06:38+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/nan-messe/</loc>
-    <lastmod>2024-05-02T10:53:05+02:00</lastmod>
+    <loc>https://jmbruell.netlify.app/author/nan-messe/</loc>
+    <lastmod>2025-03-09T15:49:10+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/nidhal-selmi/</loc>
+    <loc>https://jmbruell.netlify.app/author/nidhal-selmi/</loc>
     <lastmod>2024-12-17T17:10:46+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/nursultan-askarbekuly/</loc>
+    <loc>https://jmbruell.netlify.app/author/nursultan-askarbekuly/</loc>
     <lastmod>2022-10-12T17:22:07+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tag/phd/</loc>
-    <lastmod>2024-12-17T17:10:46+01:00</lastmod>
+    <loc>https://jmbruell.netlify.app/tag/phd/</loc>
+    <lastmod>2025-03-09T15:49:10+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/pierre-jean-charrel/</loc>
-    <lastmod>2024-05-02T10:53:05+02:00</lastmod>
+    <loc>https://jmbruell.netlify.app/author/pierre-jean-charrel/</loc>
+    <lastmod>2025-03-09T15:49:10+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/</loc>
+    <loc>https://jmbruell.netlify.app/post/</loc>
     <lastmod>2020-07-29T20:27:45+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/publication/</loc>
+    <loc>https://jmbruell.netlify.app/publication/</loc>
     <lastmod>2020-07-29T20:27:45+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/talk/</loc>
+    <loc>https://jmbruell.netlify.app/talk/</loc>
     <lastmod>2020-07-29T20:27:45+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/renan-leroux-beaudout/</loc>
+    <loc>https://jmbruell.netlify.app/author/renan-leroux-beaudout/</loc>
     <lastmod>2020-11-12T15:29:05+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/ronan-baduel/</loc>
+    <loc>https://jmbruell.netlify.app/author/ronan-baduel/</loc>
     <lastmod>2020-10-19T16:39:44+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/sophie-ebersold-marcaillou/</loc>
-    <lastmod>2024-05-02T10:53:05+02:00</lastmod>
+    <loc>https://jmbruell.netlify.app/author/sophie-ebersold-marcaillou/</loc>
+    <lastmod>2025-03-09T15:49:10+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/teaching/</loc>
+    <loc>https://jmbruell.netlify.app/teaching/</loc>
     <lastmod>2020-10-17T15:34:16+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/yinling-liu/</loc>
+    <loc>https://jmbruell.netlify.app/author/yinling-liu/</loc>
     <lastmod>2022-10-12T17:06:38+02:00</lastmod>
   </url>
 </urlset>

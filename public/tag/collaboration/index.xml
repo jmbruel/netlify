@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Collaboration | Jean-Michel Bruel</title>
-    <link>http://localhost:1313/tag/collaboration/</link>
-      <atom:link href="http://localhost:1313/tag/collaboration/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jmbruell.netlify.app/tag/collaboration/</link>
+      <atom:link href="https://jmbruell.netlify.app/tag/collaboration/index.xml" rel="self" type="application/rss+xml" />
     <description>Collaboration</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 - ACDC. Last update: March 9th, 2025</copyright><lastBuildDate>Mon, 19 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_1b4bcfdf7d67b990.png</url>
+      <url>https://jmbruell.netlify.app/media/icon_hu_1b4bcfdf7d67b990.png</url>
       <title>Collaboration</title>
-      <link>http://localhost:1313/tag/collaboration/</link>
+      <link>https://jmbruell.netlify.app/tag/collaboration/</link>
     </image>
     
     <item>
       <title>FUN Modeling</title>
-      <link>http://localhost:1313/project/fun/</link>
+      <link>https://jmbruell.netlify.app/project/fun/</link>
       <pubDate>Mon, 19 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/fun/</guid>
+      <guid>https://jmbruell.netlify.app/project/fun/</guid>
       <description>&lt;p&gt;This (internal) project groups all the initiative related to placing the (final) user as the priority target of the models.&lt;/p&gt;
 &lt;p&gt;Here are some examples:&lt;/p&gt;
 &lt;ul&gt;
@@ -29,9 +29,9 @@
     
     <item>
       <title>Moise</title>
-      <link>http://localhost:1313/project/moise/</link>
+      <link>https://jmbruell.netlify.app/project/moise/</link>
       <pubDate>Thu, 19 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/moise/</guid>
+      <guid>https://jmbruell.netlify.app/project/moise/</guid>
       <description></description>
     </item>
     
