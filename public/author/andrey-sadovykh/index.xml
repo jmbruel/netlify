@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Andrey Sadovykh | Jean-Michel Bruel</title>
-    <link>https://jmbruell.netlify.app/author/andrey-sadovykh/</link>
-      <atom:link href="https://jmbruell.netlify.app/author/andrey-sadovykh/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/andrey-sadovykh/</link>
+      <atom:link href="http://localhost:1313/author/andrey-sadovykh/index.xml" rel="self" type="application/rss+xml" />
     <description>Andrey Sadovykh</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 - ACDC. Last update: March 9th, 2025</copyright><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jmbruell.netlify.app/media/icon_hu_1b4bcfdf7d67b990.png</url>
+      <url>http://localhost:1313/media/icon_hu_1b4bcfdf7d67b990.png</url>
       <title>Andrey Sadovykh</title>
-      <link>https://jmbruell.netlify.app/author/andrey-sadovykh/</link>
+      <link>http://localhost:1313/author/andrey-sadovykh/</link>
     </image>
     
     <item>
       <title>RQCODE - Towards Object-Oriented Requirements in the Software Security Domain</title>
-      <link>https://jmbruell.netlify.app/publication/dblp-conficst-nigmatullin-smeb-22/</link>
+      <link>http://localhost:1313/publication/dblp-conficst-nigmatullin-smeb-22/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://jmbruell.netlify.app/publication/dblp-conficst-nigmatullin-smeb-22/</guid>
+      <guid>http://localhost:1313/publication/dblp-conficst-nigmatullin-smeb-22/</guid>
       <description></description>
     </item>
     
