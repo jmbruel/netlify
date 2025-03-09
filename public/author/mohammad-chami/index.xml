@@ -5,26 +5,18 @@
     <link>http://localhost:1313/author/mohammad-chami/</link>
       <atom:link href="http://localhost:1313/author/mohammad-chami/index.xml" rel="self" type="application/rss+xml" />
     <description>Mohammad Chami</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 - ACDC. Last update: March 9th, 2025</copyright><lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 - ACDC. Last update: March 9th, 2025</copyright>
     <image>
-      <url>http://localhost:1313/media/icon_hu_1b4bcfdf7d67b990.png</url>
+      <url>http://localhost:1313/author/mohammad-chami/avatar_hu_e58414757ebbe29d.png</url>
       <title>Mohammad Chami</title>
       <link>http://localhost:1313/author/mohammad-chami/</link>
     </image>
     
     <item>
-      <title>Artificial Intelligence Capabilities for Effective Model‐Based Systems Engineering: A Vision Paper</title>
-      <link>http://localhost:1313/publication/incose-2022/</link>
-      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/incose-2022/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SysML Models Verification and Validation in an Industrial Context: Challenges and Experimentation</title>
-      <link>http://localhost:1313/publication/ecmfa18/</link>
-      <pubDate>Tue, 26 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ecmfa18/</guid>
+      <title>Mohammad Chami</title>
+      <link>http://localhost:1313/author/mohammad-chami/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/author/mohammad-chami/</guid>
       <description></description>
     </item>
     

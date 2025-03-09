@@ -79,7 +79,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups: []
-#- Researchers
+#- Researchers associated to SM@RT
 ---
 
 Jean-Michel Bruel has been head of the {{< smart >}} team of the {{< irit >}} CNRS laboratory until September 2021.

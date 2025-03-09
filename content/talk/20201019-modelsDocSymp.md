@@ -7,7 +7,7 @@ active: true
 
 location: Montreal (virtual)
 
-summary: Feedbacks to Ph.D. students
+summary: Feedbacks to Current SM@RT Ph.D. Students
 abstract: ""
 
 # Talk start and end times.

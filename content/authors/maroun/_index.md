@@ -11,7 +11,7 @@ superuser: false
 
 # Role/position
 # role: Ph.D. student since 10/2017
-role: 18/12/2020 - Consultant at Antipolis
+role: 2020 - Consultant at Antipolis
 
 # Short bio (displayed in user profile at end of posts)
 bio: "Ph.D. thesis on Smart User-Centric Modeling using Opportunistic Artefact Compositions"
@@ -47,7 +47,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Former Ph.D. Students
+- Former SM@RT Ph.D. Students (now Doctors!)
 
 # Tags: can be used for filtering projects.
 #tags = ["past","phd","grant"]

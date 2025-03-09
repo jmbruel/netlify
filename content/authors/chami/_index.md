@@ -11,7 +11,7 @@ superuser: false
 
 # Role/position
 #role: Consultant & Ph.D. student since 01/2015
-role: 2021 - Consultant
+role: 2021 - Consultant, Founder & CEO of SysDice GmbH
 
 # Short bio (displayed in user profile at end of posts)
 bio: Ph.D. thesis on "Evaluation of integrated conceptual models in mechatronic systems"
@@ -47,7 +47,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Former Ph.D. Students
+- Former SM@RT Ph.D. Students (now Doctors!)
 
 # Tags: can be used for filtering projects.
 #tags = ["past","phd","grant"]
