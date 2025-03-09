@@ -46,9 +46,9 @@ Here are some other stuff I'd like to share:
 	<li>My little brother's <a href="https://www.facebook.com/AtomikBandIii/">band</a>
 	(wanna hear? check <a href="https://www.youtube.com/watch?v=ixWsJPMrobU" target=”_blank”>this one</a> or <a href="https://youtu.be/A-UgLgFOxyg" target=”_blank”>this one</a>
 	and enjoy!)</li>
-	<li>Our <a href="https://bit.ly/jjj-ignaux">litle paradize</a>
+	<li>Our <a href="https://bit.ly/jjj-ignaux">litle paradise</a>
 	in the "Pyr&eacute;n&eacute;es"</li>
-	<li>A good friend's <a href="https://chezpoulin.pagesperso-orange.fr/">litle paradize</a>
+	<li>A good friend's <a href="https://chezpoulin.pagesperso-orange.fr/">litle paradise</a>
 	in the "Pyr&eacute;n&eacute;es"</li>
 	</ul>
 </div>
