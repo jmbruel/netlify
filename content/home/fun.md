@@ -48,8 +48,9 @@ Here are some other stuff I'd like to share:
 	and enjoy!)</li>
 	<li>Our <a href="https://bit.ly/jjj-ignaux">litle paradise</a>
 	in the "Pyr&eacute;n&eacute;es"</li>
-	<li>A good friend's <a href="https://chezpoulin.pagesperso-orange.fr/">litle paradise</a>
-	in the "Pyr&eacute;n&eacute;es"</li>
+	<!-- Le gite de Claude n'est plus accessible -->
+	<!-- <li>A good friend's <a href="https://chezpoulin.pagesperso-orange.fr/">litle paradise</a>
+	in the "Pyr&eacute;n&eacute;es"</li> -->
 	</ul>
 </div>
 <div id="tripit-badge">
