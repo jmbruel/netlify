@@ -13,6 +13,14 @@
     </image>
     
     <item>
+      <title>FATES-MLOps</title>
+      <link>http://localhost:1313/talk/2025-explainai/</link>
+      <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talk/2025-explainai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>PEGS Approach Overview</title>
       <link>http://localhost:1313/talk/20240417-innopolis/</link>
       <pubDate>Wed, 17 Apr 2024 13:00:00 +0000</pubDate>
@@ -33,14 +41,6 @@
       <link>http://localhost:1313/talk/20240221-ai-workshop/</link>
       <pubDate>Wed, 21 Feb 2024 14:00:00 +0000</pubDate>
       <guid>http://localhost:1313/talk/20240221-ai-workshop/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>AI Requirements for an Effective Adoption (in an MBSE context)</title>
-      <link>http://localhost:1313/talk/2025-explainai/</link>
-      <pubDate>Wed, 21 Feb 2024 14:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/talk/2025-explainai/</guid>
       <description></description>
     </item>
     

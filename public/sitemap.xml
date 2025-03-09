@@ -2,6 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/authors/</loc>
+    <lastmod>2025-03-09T16:44:51+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/talk/2025-explainai/</loc>
+    <lastmod>2025-03-09T16:44:51+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-03-09T16:44:51+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tag/research/</loc>
+    <lastmod>2025-03-09T16:44:51+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-03-09T16:44:51+01:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tag/ai/</loc>
     <lastmod>2025-01-06T18:17:46+01:00</lastmod>
   </url><url>
@@ -11,20 +26,11 @@
     <loc>http://localhost:1313/project/anr-fates-mlops/</loc>
     <lastmod>2025-01-06T18:17:46+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-03-09T15:49:10+01:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/project/</loc>
     <lastmod>2025-01-06T18:17:46+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tag/requirements/</loc>
     <lastmod>2025-01-06T18:17:46+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-03-09T15:56:30+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/authors/</loc>
-    <lastmod>2025-03-09T15:56:30+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/talk/20240417-innopolis/</loc>
     <lastmod>2024-04-17T10:04:45+02:00</lastmod>
@@ -34,9 +40,6 @@
   </url><url>
     <loc>http://localhost:1313/talk/20240329-scalability/</loc>
     <lastmod>2024-04-17T10:34:32+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tag/research/</loc>
-    <lastmod>2025-03-09T15:49:10+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/talk/20240221-ai-workshop/</loc>
     <lastmod>2024-02-12T18:33:55+01:00</lastmod>
@@ -66,28 +69,28 @@
     <lastmod>2023-11-24T10:30:51+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/author/jean-michel-bruel/</loc>
-    <lastmod>2023-11-24T10:30:51+01:00</lastmod>
+    <lastmod>2025-03-09T16:11:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/author/mika-pons/</loc>
     <lastmod>2023-11-24T10:30:51+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/publication_types/</loc>
-    <lastmod>2025-03-09T15:49:10+01:00</lastmod>
+    <lastmod>2025-03-09T16:11:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/publication/pons-hal-04144980/</loc>
     <lastmod>2023-11-24T10:30:51+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/publication-type/2/</loc>
-    <lastmod>2025-03-09T15:49:10+01:00</lastmod>
+    <lastmod>2025-03-09T16:11:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/author/alexandr-naumchev/</loc>
-    <lastmod>2023-06-14T12:39:13+02:00</lastmod>
+    <lastmod>2025-03-09T16:11:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/author/bertrand-meyer/</loc>
-    <lastmod>2023-06-14T12:39:13+02:00</lastmod>
+    <lastmod>2025-03-09T16:11:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/author/florian-galinier/</loc>
-    <lastmod>2023-06-14T12:39:13+02:00</lastmod>
+    <lastmod>2025-03-09T16:11:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/author/maria-naumcheva/</loc>
     <lastmod>2023-06-14T12:39:13+02:00</lastmod>
@@ -96,7 +99,7 @@
     <lastmod>2023-06-14T12:39:13+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/author/sophie-ebersold/</loc>
-    <lastmod>2023-06-14T12:39:13+02:00</lastmod>
+    <lastmod>2025-03-09T16:11:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tag/states-and-modes-requirements-modeling-and-verification-domain-specific-language-model-checking-states-and-modes-requirements-modeling-and-verification-domain-specific-language-model-checking/</loc>
     <lastmod>2023-11-24T10:30:51+01:00</lastmod>
@@ -138,7 +141,7 @@
     <lastmod>2022-10-12T10:02:48+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/author/manuel-mazzara/</loc>
-    <lastmod>2022-10-12T10:02:48+02:00</lastmod>
+    <lastmod>2025-03-09T16:11:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/author/nan-messe/</loc>
     <lastmod>2022-10-12T10:02:48+02:00</lastmod>
@@ -156,22 +159,22 @@
     <lastmod>2021-05-31T16:00:00+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tag/formal/</loc>
-    <lastmod>2021-06-15T17:10:24+02:00</lastmod>
+    <lastmod>2025-03-09T16:11:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tag/requirement/</loc>
-    <lastmod>2021-06-15T17:10:24+02:00</lastmod>
+    <lastmod>2025-03-09T16:11:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tag/seamless/</loc>
-    <lastmod>2021-06-15T17:10:24+02:00</lastmod>
+    <lastmod>2025-03-09T16:11:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tag/software/</loc>
-    <lastmod>2021-06-15T17:10:24+02:00</lastmod>
+    <lastmod>2025-03-09T16:11:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tag/specification/</loc>
-    <lastmod>2021-06-15T17:10:24+02:00</lastmod>
+    <lastmod>2025-03-09T16:11:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/publication/acm-surveys-2021/</loc>
-    <lastmod>2021-06-15T17:10:24+02:00</lastmod>
+    <lastmod>2025-03-09T16:11:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/publication/dblp-confisdevel-aslam-nbb-21/</loc>
     <lastmod>2022-10-12T10:02:48+02:00</lastmod>
@@ -222,7 +225,7 @@
     <lastmod>2020-10-27T18:10:28+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tag/fun/</loc>
-    <lastmod>2022-10-12T17:06:38+02:00</lastmod>
+    <lastmod>2025-03-09T16:11:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tag/gamification/</loc>
     <lastmod>2020-10-27T18:10:28+01:00</lastmod>
@@ -249,7 +252,7 @@
     <lastmod>2021-07-30T11:18:32+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/talk/20201019-modelsdocsymp/</loc>
-    <lastmod>2020-12-04T16:50:07+01:00</lastmod>
+    <lastmod>2025-03-09T16:11:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tag/collaboration/</loc>
     <lastmod>2020-10-20T12:24:06+02:00</lastmod>
@@ -615,7 +618,7 @@
     <lastmod>2020-10-19T20:20:09+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tag/past/</loc>
-    <lastmod>2022-10-12T17:22:07+02:00</lastmod>
+    <lastmod>2025-03-09T16:11:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tag/workbench/</loc>
     <lastmod>2020-10-19T20:20:09+02:00</lastmod>
@@ -657,72 +660,75 @@
     <lastmod>2024-05-02T10:53:05+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/author/alexandr-naumchev/</loc>
-    <lastmod>2020-10-19T16:39:44+02:00</lastmod>
+    <lastmod>2025-03-09T16:11:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/author/anas-motii/</loc>
-    <lastmod>2020-12-08T15:22:41+01:00</lastmod>
+    <lastmod>2025-03-09T16:11:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/author/benoit-combemale/</loc>
-    <lastmod>2024-05-02T10:53:05+02:00</lastmod>
+    <lastmod>2025-03-09T16:11:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/author/bernard-coulette/</loc>
+    <lastmod>2025-03-09T16:44:51+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/author/bertrand-meyer/</loc>
-    <lastmod>2024-05-02T10:53:05+02:00</lastmod>
+    <lastmod>2025-03-09T16:11:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
     <loc>http://localhost:1313/author/claude-baron/</loc>
-    <lastmod>2025-03-09T15:49:10+01:00</lastmod>
+    <lastmod>2025-03-09T16:11:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tag/current/</loc>
-    <lastmod>2025-03-09T15:56:30+01:00</lastmod>
+    <lastmod>2025-03-09T16:11:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/author/florian-galinier/</loc>
-    <lastmod>2022-10-12T17:22:07+02:00</lastmod>
+    <lastmod>2025-03-09T16:11:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tag/grant/</loc>
-    <lastmod>2022-10-12T17:22:07+02:00</lastmod>
+    <lastmod>2025-03-09T16:11:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/author/hamna-aslam/</loc>
-    <lastmod>2022-10-12T17:06:38+02:00</lastmod>
+    <lastmod>2025-03-09T16:11:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tag/indus/</loc>
-    <lastmod>2025-03-09T15:56:30+01:00</lastmod>
+    <lastmod>2025-03-09T16:11:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/author/irfan-javid/</loc>
-    <lastmod>2025-03-09T15:49:10+01:00</lastmod>
+    <lastmod>2025-03-09T16:11:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/author/jacob-geisel/</loc>
-    <lastmod>2020-10-19T16:39:44+02:00</lastmod>
+    <lastmod>2025-03-09T16:11:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/author/jean-michel-bruel/</loc>
-    <lastmod>2025-01-06T18:17:46+01:00</lastmod>
+    <lastmod>2025-03-09T16:11:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/author/kim-loubat/</loc>
-    <lastmod>2024-12-17T17:10:46+01:00</lastmod>
+    <lastmod>2025-03-09T16:11:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/author/maroun-koussaifi/</loc>
-    <lastmod>2021-07-30T11:10:54+02:00</lastmod>
+    <lastmod>2025-03-09T16:11:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/author/mika-pons/</loc>
-    <lastmod>2022-10-12T17:22:07+02:00</lastmod>
+    <lastmod>2025-03-09T16:11:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/author/mohammad-chami/</loc>
-    <lastmod>2022-10-12T17:06:38+02:00</lastmod>
+    <lastmod>2025-03-09T16:11:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/author/nan-messe/</loc>
-    <lastmod>2025-03-09T15:49:10+01:00</lastmod>
+    <lastmod>2025-03-09T16:11:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/author/nidhal-selmi/</loc>
-    <lastmod>2024-12-17T17:10:46+01:00</lastmod>
+    <lastmod>2025-03-09T16:11:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/author/nursultan-askarbekuly/</loc>
-    <lastmod>2022-10-12T17:22:07+02:00</lastmod>
+    <lastmod>2025-03-09T16:11:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tag/phd/</loc>
-    <lastmod>2025-03-09T15:49:10+01:00</lastmod>
+    <lastmod>2025-03-09T16:11:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/author/pierre-jean-charrel/</loc>
-    <lastmod>2025-03-09T15:49:10+01:00</lastmod>
+    <lastmod>2025-03-09T16:11:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/post/</loc>
     <lastmod>2020-07-29T20:27:45+01:00</lastmod>
@@ -734,19 +740,19 @@
     <lastmod>2020-07-29T20:27:45+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/author/renan-leroux-beaudout/</loc>
-    <lastmod>2020-11-12T15:29:05+01:00</lastmod>
+    <lastmod>2025-03-09T16:11:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/author/ronan-baduel/</loc>
-    <lastmod>2020-10-19T16:39:44+02:00</lastmod>
+    <lastmod>2025-03-09T16:11:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/author/sophie-ebersold-marcaillou/</loc>
-    <lastmod>2025-03-09T15:49:10+01:00</lastmod>
+    <lastmod>2025-03-09T16:11:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/teaching/</loc>
     <lastmod>2020-10-17T15:34:16+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/author/tristan-gouaichault/</loc>
-    <lastmod>2025-03-09T15:56:30+01:00</lastmod>
+    <lastmod>2025-03-09T16:11:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/author/yinling-liu/</loc>
     <lastmod>2022-10-12T17:06:38+02:00</lastmod>
