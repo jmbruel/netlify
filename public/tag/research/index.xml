@@ -5,12 +5,20 @@
     <link>http://localhost:1313/tag/research/</link>
       <atom:link href="http://localhost:1313/tag/research/index.xml" rel="self" type="application/rss+xml" />
     <description>Research</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 - ACDC. Last update: March 9th, 2025</copyright><lastBuildDate>Sun, 31 Mar 2024 17:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 - ACDC. Last update: March 9th, 2025</copyright><lastBuildDate>Tue, 28 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_1b4bcfdf7d67b990.png</url>
       <title>Research</title>
       <link>http://localhost:1313/tag/research/</link>
     </image>
+    
+    <item>
+      <title>FATES-MLOps</title>
+      <link>http://localhost:1313/talk/2025-explainai/</link>
+      <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talk/2025-explainai/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Requirements: Scalability Issues</title>
