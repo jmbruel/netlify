@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jacob Geisel | Jean-Michel Bruel</title>
-    <link>https://jmbruell.netlify.app/author/jacob-geisel/</link>
-      <atom:link href="https://jmbruell.netlify.app/author/jacob-geisel/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/jacob-geisel/</link>
+      <atom:link href="http://localhost:1313/author/jacob-geisel/index.xml" rel="self" type="application/rss+xml" />
     <description>Jacob Geisel</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 - ACDC. Last update: March 9th, 2025</copyright>
     <image>
-      <url>https://jmbruell.netlify.app/author/jacob-geisel/avatar_hu_e23b48ccdad173d9.jpg</url>
+      <url>http://localhost:1313/author/jacob-geisel/avatar_hu_e23b48ccdad173d9.jpg</url>
       <title>Jacob Geisel</title>
-      <link>https://jmbruell.netlify.app/author/jacob-geisel/</link>
+      <link>http://localhost:1313/author/jacob-geisel/</link>
     </image>
     
     <item>
       <title>Jacob Geisel</title>
-      <link>https://jmbruell.netlify.app/author/jacob-geisel/</link>
+      <link>http://localhost:1313/author/jacob-geisel/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://jmbruell.netlify.app/author/jacob-geisel/</guid>
+      <guid>http://localhost:1313/author/jacob-geisel/</guid>
       <description></description>
     </item>
     

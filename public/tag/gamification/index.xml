@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>&#34;Gamification&#34; | Jean-Michel Bruel</title>
-    <link>https://jmbruell.netlify.app/tag/gamification/</link>
-      <atom:link href="https://jmbruell.netlify.app/tag/gamification/index.xml" rel="self" type="application/rss+xml" />
-    <description>&#34;Gamification&#34;</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 - ACDC. Last update: March 9th, 2025</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <title>Gamification | Jean-Michel Bruel</title>
+    <link>http://localhost:1313/tag/gamification/</link>
+      <atom:link href="http://localhost:1313/tag/gamification/index.xml" rel="self" type="application/rss+xml" />
+    <description>Gamification</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 - ACDC. Last update: March 9th, 2025</copyright><lastBuildDate>Wed, 21 Oct 2020 18:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jmbruell.netlify.app/media/icon_hu_1b4bcfdf7d67b990.png</url>
-      <title>&#34;Gamification&#34;</title>
-      <link>https://jmbruell.netlify.app/tag/gamification/</link>
+      <url>http://localhost:1313/media/icon_hu_1b4bcfdf7d67b990.png</url>
+      <title>Gamification</title>
+      <link>http://localhost:1313/tag/gamification/</link>
     </image>
     
     <item>
-      <title>Papyrus for Gamers, Let&#39;s Play Modeling</title>
-      <link>https://jmbruell.netlify.app/publication/papygame-2020/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://jmbruell.netlify.app/publication/papygame-2020/</guid>
+      <title>Papyrus for gamers, let&#39;s play modeling (Best Demo Award!)</title>
+      <link>http://localhost:1313/talk/20201021-modelsdemo/</link>
+      <pubDate>Wed, 21 Oct 2020 18:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talk/20201021-modelsdemo/</guid>
       <description></description>
     </item>
     

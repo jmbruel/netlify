@@ -2,77 +2,77 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>MDE | Jean-Michel Bruel</title>
-    <link>https://jmbruell.netlify.app/tag/mde/</link>
-      <atom:link href="https://jmbruell.netlify.app/tag/mde/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tag/mde/</link>
+      <atom:link href="http://localhost:1313/tag/mde/index.xml" rel="self" type="application/rss+xml" />
     <description>MDE</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 - ACDC. Last update: March 9th, 2025</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jmbruell.netlify.app/media/icon_hu_1b4bcfdf7d67b990.png</url>
+      <url>http://localhost:1313/media/icon_hu_1b4bcfdf7d67b990.png</url>
       <title>MDE</title>
-      <link>https://jmbruell.netlify.app/tag/mde/</link>
+      <link>http://localhost:1313/tag/mde/</link>
     </image>
     
     <item>
       <title>A Hitchhiker’s Guide to Model-Driven Engineering for Data-Centric Systems</title>
-      <link>https://jmbruell.netlify.app/publication/9094197/</link>
+      <link>http://localhost:1313/publication/9094197/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://jmbruell.netlify.app/publication/9094197/</guid>
+      <guid>http://localhost:1313/publication/9094197/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Comparing and classifying model transformation reuse approaches across metamodels</title>
-      <link>https://jmbruell.netlify.app/publication/dblp-journalssosym-bruel-cgjklmsv-20/</link>
+      <link>http://localhost:1313/publication/dblp-journalssosym-bruel-cgjklmsv-20/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://jmbruell.netlify.app/publication/dblp-journalssosym-bruel-cgjklmsv-20/</guid>
+      <guid>http://localhost:1313/publication/dblp-journalssosym-bruel-cgjklmsv-20/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Toward model-driven sustainability evaluation</title>
-      <link>https://jmbruell.netlify.app/publication/dblp-journalscacm-kienzle-mcbbbbbc-20/</link>
+      <link>http://localhost:1313/publication/dblp-journalscacm-kienzle-mcbbbbbc-20/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://jmbruell.netlify.app/publication/dblp-journalscacm-kienzle-mcbbbbbc-20/</guid>
+      <guid>http://localhost:1313/publication/dblp-journalscacm-kienzle-mcbbbbbc-20/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Model-Driven Engineering for Design-Runtime Interaction in Complex Systems: Scientific Challenges and Roadmap</title>
-      <link>https://jmbruell.netlify.app/publication/staf18/</link>
+      <link>http://localhost:1313/publication/staf18/</link>
       <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>https://jmbruell.netlify.app/publication/staf18/</guid>
+      <guid>http://localhost:1313/publication/staf18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On the use of models for high-performance scientific computing applications: an experience report</title>
-      <link>https://jmbruell.netlify.app/publication/sosym2018/</link>
+      <link>http://localhost:1313/publication/sosym2018/</link>
       <pubDate>Fri, 27 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>https://jmbruell.netlify.app/publication/sosym2018/</guid>
+      <guid>http://localhost:1313/publication/sosym2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On the Use of Models for High-Performance Scientific Computing Applications: an Experience Report</title>
-      <link>https://jmbruell.netlify.app/publication/ob-pa-br-lu-2018-1/</link>
+      <link>http://localhost:1313/publication/ob-pa-br-lu-2018-1/</link>
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>https://jmbruell.netlify.app/publication/ob-pa-br-lu-2018-1/</guid>
+      <guid>http://localhost:1313/publication/ob-pa-br-lu-2018-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>GEMOC Initiative</title>
-      <link>https://jmbruell.netlify.app/project/gemoc/</link>
+      <link>http://localhost:1313/project/gemoc/</link>
       <pubDate>Thu, 19 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>https://jmbruell.netlify.app/project/gemoc/</guid>
+      <guid>http://localhost:1313/project/gemoc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Joint Proceedings of the 12th Educators Symposium (EduSymp 2016) and 3rd International Workshop on Open Source Software for Model Driven Engineering (OSS4MDE 2016)</title>
-      <link>https://jmbruell.netlify.app/publication/models16/</link>
+      <link>http://localhost:1313/publication/models16/</link>
       <pubDate>Mon, 03 Oct 2016 00:00:00 +0000</pubDate>
-      <guid>https://jmbruell.netlify.app/publication/models16/</guid>
+      <guid>http://localhost:1313/publication/models16/</guid>
       <description></description>
     </item>
     

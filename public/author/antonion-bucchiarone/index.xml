@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Antonion Bucchiarone | Jean-Michel Bruel</title>
-    <link>https://jmbruell.netlify.app/author/antonion-bucchiarone/</link>
-      <atom:link href="https://jmbruell.netlify.app/author/antonion-bucchiarone/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/antonion-bucchiarone/</link>
+      <atom:link href="http://localhost:1313/author/antonion-bucchiarone/index.xml" rel="self" type="application/rss+xml" />
     <description>Antonion Bucchiarone</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 - ACDC. Last update: March 9th, 2025</copyright><lastBuildDate>Wed, 21 Oct 2020 18:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jmbruell.netlify.app/media/icon_hu_1b4bcfdf7d67b990.png</url>
+      <url>http://localhost:1313/media/icon_hu_1b4bcfdf7d67b990.png</url>
       <title>Antonion Bucchiarone</title>
-      <link>https://jmbruell.netlify.app/author/antonion-bucchiarone/</link>
+      <link>http://localhost:1313/author/antonion-bucchiarone/</link>
     </image>
     
     <item>
       <title>Papyrus for gamers, let&#39;s play modeling (Best Demo Award!)</title>
-      <link>https://jmbruell.netlify.app/talk/20201021-modelsdemo/</link>
+      <link>http://localhost:1313/talk/20201021-modelsdemo/</link>
       <pubDate>Wed, 21 Oct 2020 18:00:00 +0000</pubDate>
-      <guid>https://jmbruell.netlify.app/talk/20201021-modelsdemo/</guid>
+      <guid>http://localhost:1313/talk/20201021-modelsdemo/</guid>
       <description></description>
     </item>
     
