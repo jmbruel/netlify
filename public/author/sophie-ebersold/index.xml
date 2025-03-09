@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sophie Ebersold | Jean-Michel Bruel</title>
-    <link>https://jmbruell.netlify.app/author/sophie-ebersold/</link>
-      <atom:link href="https://jmbruell.netlify.app/author/sophie-ebersold/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/sophie-ebersold/</link>
+      <atom:link href="http://localhost:1313/author/sophie-ebersold/index.xml" rel="self" type="application/rss+xml" />
     <description>Sophie Ebersold</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 - ACDC. Last update: January 6th, 2025</copyright><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 - ACDC. Last update: March 9th, 2025</copyright><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jmbruell.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu_1b4bcfdf7d67b990.png</url>
       <title>Sophie Ebersold</title>
-      <link>https://jmbruell.netlify.app/author/sophie-ebersold/</link>
+      <link>http://localhost:1313/author/sophie-ebersold/</link>
     </image>
     
     <item>
       <title>Object-Oriented Requirements: a Unified Framework for Specifications, Scenarios and Tests</title>
-      <link>https://jmbruell.netlify.app/publication/jot-issue-2023-01-article-3/</link>
+      <link>http://localhost:1313/publication/jot-issue-2023-01-article-3/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://jmbruell.netlify.app/publication/jot-issue-2023-01-article-3/</guid>
+      <guid>http://localhost:1313/publication/jot-issue-2023-01-article-3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>RQCODE - Towards Object-Oriented Requirements in the Software Security Domain</title>
-      <link>https://jmbruell.netlify.app/publication/dblp-conficst-nigmatullin-smeb-22/</link>
+      <link>http://localhost:1313/publication/dblp-conficst-nigmatullin-smeb-22/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://jmbruell.netlify.app/publication/dblp-conficst-nigmatullin-smeb-22/</guid>
+      <guid>http://localhost:1313/publication/dblp-conficst-nigmatullin-smeb-22/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Role of Formalism in System Requirements</title>
-      <link>https://jmbruell.netlify.app/publication/acm-surveys-2021/</link>
+      <link>http://localhost:1313/publication/acm-surveys-2021/</link>
       <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://jmbruell.netlify.app/publication/acm-surveys-2021/</guid>
+      <guid>http://localhost:1313/publication/acm-surveys-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Requirements Specific Modeling Language : un langage formel d&#39;expression d&#39;exigences</title>
-      <link>https://jmbruell.netlify.app/publication/ciel18/</link>
+      <link>http://localhost:1313/publication/ciel18/</link>
       <pubDate>Wed, 27 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>https://jmbruell.netlify.app/publication/ciel18/</guid>
+      <guid>http://localhost:1313/publication/ciel18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A contract-based method to specify stimulus-response requirements</title>
-      <link>https://jmbruell.netlify.app/publication/mmbge17/</link>
+      <link>http://localhost:1313/publication/mmbge17/</link>
       <pubDate>Wed, 07 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>https://jmbruell.netlify.app/publication/mmbge17/</guid>
+      <guid>http://localhost:1313/publication/mmbge17/</guid>
       <description></description>
     </item>
     

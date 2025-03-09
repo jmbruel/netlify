@@ -14,7 +14,7 @@ baseurl = "https://jmbruell.netlify.app/"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
-copyright = "&copy; {year} - ACDC. Last update: January 6th, 2025"
+copyright = "&copy; {year} - ACDC. Last update: March 9th, 2025"
 
 # Your details.
 team = "SM@RT"
@@ -40,7 +40,7 @@ defaultContentLanguageInSubdir = false
 removePathAccents = true  # Workaround for https://github.com/gohugoio/hugo/issues/5687
 
 summaryLength = 30  # Listing summary length in words. Also, see `abstract_length` in `params.toml`.
-paginate = 10  # Number of items per page in paginated lists.
+pagination.pagerSize = 10  # Number of items per page in paginated lists.
 enableEmoji = true
 enableRobotsTXT = true
 footnotereturnlinkcontents = "<sup>^</sup>"

@@ -2,7 +2,7 @@
 # Teaching Activities widget.
 # This widget displays all projects from `content/teaching/`.
 
-date = "2019-02-8T00:00:00"
+date = "2019-09-08"
 draft = false
 
 title = "Curriculum Vitae"

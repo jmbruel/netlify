@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Renan Leroux-Beaudout | Jean-Michel Bruel</title>
-    <link>https://jmbruell.netlify.app/author/renan-leroux-beaudout/</link>
-      <atom:link href="https://jmbruell.netlify.app/author/renan-leroux-beaudout/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/renan-leroux-beaudout/</link>
+      <atom:link href="http://localhost:1313/author/renan-leroux-beaudout/index.xml" rel="self" type="application/rss+xml" />
     <description>Renan Leroux-Beaudout</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 - ACDC. Last update: January 6th, 2025</copyright>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 - ACDC. Last update: March 9th, 2025</copyright>
     <image>
-      <url>https://jmbruell.netlify.app/author/renan-leroux-beaudout/avatar_hu128ff7ac213bd130bd074fda7d252611_1106538_270x270_fill_q90_lanczos_center.jpg</url>
+      <url>http://localhost:1313/author/renan-leroux-beaudout/avatar_hu_f813fed6d74dbd08.jpg</url>
       <title>Renan Leroux-Beaudout</title>
-      <link>https://jmbruell.netlify.app/author/renan-leroux-beaudout/</link>
+      <link>http://localhost:1313/author/renan-leroux-beaudout/</link>
     </image>
     
   </channel>

@@ -12,12 +12,12 @@ abstract: "Presentation of why Software Engineering is important"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2022-06-23T11:00:00Z"
+date: "2022-06-23"
 #date_end: "2020-10-19T20:30:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2022-6-23T11:00:00Z"
+publishDate: "2022-06-23"
 
 authors: 
   - jmb

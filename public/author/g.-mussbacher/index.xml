@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>G. Mussbacher | Jean-Michel Bruel</title>
-    <link>https://jmbruell.netlify.app/author/g.-mussbacher/</link>
-      <atom:link href="https://jmbruell.netlify.app/author/g.-mussbacher/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/g.-mussbacher/</link>
+      <atom:link href="http://localhost:1313/author/g.-mussbacher/index.xml" rel="self" type="application/rss+xml" />
     <description>G. Mussbacher</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 - ACDC. Last update: January 6th, 2025</copyright><lastBuildDate>Tue, 20 Oct 2020 10:20:41 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 - ACDC. Last update: March 9th, 2025</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jmbruell.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu_1b4bcfdf7d67b990.png</url>
       <title>G. Mussbacher</title>
-      <link>https://jmbruell.netlify.app/author/g.-mussbacher/</link>
+      <link>http://localhost:1313/author/g.-mussbacher/</link>
     </image>
     
     <item>
       <title>A Hitchhiker’s Guide to Model-Driven Engineering for Data-Centric Systems</title>
-      <link>https://jmbruell.netlify.app/publication/9094197/</link>
-      <pubDate>Tue, 20 Oct 2020 10:20:41 +0000</pubDate>
-      <guid>https://jmbruell.netlify.app/publication/9094197/</guid>
+      <link>http://localhost:1313/publication/9094197/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/9094197/</guid>
       <description></description>
     </item>
     

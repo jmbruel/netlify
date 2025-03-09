@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Collaboration | Jean-Michel Bruel</title>
-    <link>https://jmbruell.netlify.app/tag/collaboration/</link>
-      <atom:link href="https://jmbruell.netlify.app/tag/collaboration/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tag/collaboration/</link>
+      <atom:link href="http://localhost:1313/tag/collaboration/index.xml" rel="self" type="application/rss+xml" />
     <description>Collaboration</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 - ACDC. Last update: January 6th, 2025</copyright><lastBuildDate>Mon, 19 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 - ACDC. Last update: March 9th, 2025</copyright><lastBuildDate>Mon, 19 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jmbruell.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu_1b4bcfdf7d67b990.png</url>
       <title>Collaboration</title>
-      <link>https://jmbruell.netlify.app/tag/collaboration/</link>
+      <link>http://localhost:1313/tag/collaboration/</link>
     </image>
     
     <item>
       <title>FUN Modeling</title>
-      <link>https://jmbruell.netlify.app/project/fun/</link>
+      <link>http://localhost:1313/project/fun/</link>
       <pubDate>Mon, 19 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://jmbruell.netlify.app/project/fun/</guid>
+      <guid>http://localhost:1313/project/fun/</guid>
       <description>&lt;p&gt;This (internal) project groups all the initiative related to placing the (final) user as the priority target of the models.&lt;/p&gt;
 &lt;p&gt;Here are some examples:&lt;/p&gt;
 &lt;ul&gt;
@@ -29,9 +29,9 @@
     
     <item>
       <title>Moise</title>
-      <link>https://jmbruell.netlify.app/project/moise/</link>
+      <link>http://localhost:1313/project/moise/</link>
       <pubDate>Thu, 19 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>https://jmbruell.netlify.app/project/moise/</guid>
+      <guid>http://localhost:1313/project/moise/</guid>
       <description></description>
     </item>
     

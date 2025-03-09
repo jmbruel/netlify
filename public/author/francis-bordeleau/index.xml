@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Francis Bordeleau | Jean-Michel Bruel</title>
-    <link>https://jmbruell.netlify.app/author/francis-bordeleau/</link>
-      <atom:link href="https://jmbruell.netlify.app/author/francis-bordeleau/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/francis-bordeleau/</link>
+      <atom:link href="http://localhost:1313/author/francis-bordeleau/index.xml" rel="self" type="application/rss+xml" />
     <description>Francis Bordeleau</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 - ACDC. Last update: January 6th, 2025</copyright><lastBuildDate>Mon, 03 Oct 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 - ACDC. Last update: March 9th, 2025</copyright><lastBuildDate>Mon, 03 Oct 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jmbruell.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu_1b4bcfdf7d67b990.png</url>
       <title>Francis Bordeleau</title>
-      <link>https://jmbruell.netlify.app/author/francis-bordeleau/</link>
+      <link>http://localhost:1313/author/francis-bordeleau/</link>
     </image>
     
     <item>
       <title>Joint Proceedings of the 12th Educators Symposium (EduSymp 2016) and 3rd International Workshop on Open Source Software for Model Driven Engineering (OSS4MDE 2016)</title>
-      <link>https://jmbruell.netlify.app/publication/models16/</link>
+      <link>http://localhost:1313/publication/models16/</link>
       <pubDate>Mon, 03 Oct 2016 00:00:00 +0000</pubDate>
-      <guid>https://jmbruell.netlify.app/publication/models16/</guid>
+      <guid>http://localhost:1313/publication/models16/</guid>
       <description></description>
     </item>
     

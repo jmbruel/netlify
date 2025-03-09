@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>RELAX | Jean-Michel Bruel</title>
-    <link>https://jmbruell.netlify.app/tag/relax/</link>
-      <atom:link href="https://jmbruell.netlify.app/tag/relax/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tag/relax/</link>
+      <atom:link href="http://localhost:1313/tag/relax/index.xml" rel="self" type="application/rss+xml" />
     <description>RELAX</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 - ACDC. Last update: January 6th, 2025</copyright><lastBuildDate>Fri, 27 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 - ACDC. Last update: March 9th, 2025</copyright><lastBuildDate>Fri, 27 Jul 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jmbruell.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu_1b4bcfdf7d67b990.png</url>
       <title>RELAX</title>
-      <link>https://jmbruell.netlify.app/tag/relax/</link>
+      <link>http://localhost:1313/tag/relax/</link>
     </image>
     
     <item>
       <title>How to handle environmental uncertainty in goal-based requirements engineering</title>
-      <link>https://jmbruell.netlify.app/publication/icse-poster2018/</link>
+      <link>http://localhost:1313/publication/icse-poster2018/</link>
       <pubDate>Fri, 27 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>https://jmbruell.netlify.app/publication/icse-poster2018/</guid>
+      <guid>http://localhost:1313/publication/icse-poster2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Towards a Requirements Engineering Approach for capturing Uncertainty in Cyber-Physical Systems Environment</title>
-      <link>https://jmbruell.netlify.app/publication/iwcfs18/</link>
+      <link>http://localhost:1313/publication/iwcfs18/</link>
       <pubDate>Tue, 03 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>https://jmbruell.netlify.app/publication/iwcfs18/</guid>
+      <guid>http://localhost:1313/publication/iwcfs18/</guid>
       <description></description>
     </item>
     

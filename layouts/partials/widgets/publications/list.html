@@ -7,7 +7,7 @@
   <div class="article-style">{{ . }}</div>
   {{ end }}
 
-  {{ $paginator := .Paginate .Data.Pages }}
+  {{ $paginator := .pagination.pagerSize .Data.Pages }}
   {{ range $paginator.Pages }}
     {{ $link := .RelPermalink }}
     {{ $target := "" }}

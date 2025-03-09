@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Maroun Koussaifi | Jean-Michel Bruel</title>
-    <link>https://jmbruell.netlify.app/author/maroun-koussaifi/</link>
-      <atom:link href="https://jmbruell.netlify.app/author/maroun-koussaifi/index.xml" rel="self" type="application/rss+xml" />
-    <description>Maroun Koussaifi</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 - ACDC. Last update: January 6th, 2025</copyright>
+    <title> Maroun Koussaifi | Jean-Michel Bruel</title>
+    <link>http://localhost:1313/author/maroun-koussaifi/</link>
+      <atom:link href="http://localhost:1313/author/maroun-koussaifi/index.xml" rel="self" type="application/rss+xml" />
+    <description> Maroun Koussaifi</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 - ACDC. Last update: March 9th, 2025</copyright><lastBuildDate>Mon, 25 Jun 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jmbruell.netlify.app/author/maroun-koussaifi/avatar_hu7d0a7eb2b32b98a3190dbf532c365264_38897_270x270_fill_q90_lanczos_center.jpg</url>
-      <title>Maroun Koussaifi</title>
-      <link>https://jmbruell.netlify.app/author/maroun-koussaifi/</link>
+      <url>http://localhost:1313/media/icon_hu_1b4bcfdf7d67b990.png</url>
+      <title> Maroun Koussaifi</title>
+      <link>http://localhost:1313/author/maroun-koussaifi/</link>
     </image>
     
     <item>
-      <title>Automated user-oriented description of emerging composite ambient applications</title>
-      <link>https://jmbruell.netlify.app/publication/ko-2019-2/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://jmbruell.netlify.app/publication/ko-2019-2/</guid>
+      <title>Ambient Intelligence Users in the Loop: Towards a Model-Driven Approach</title>
+      <link>http://localhost:1313/publication/mse18/</link>
+      <pubDate>Mon, 25 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/mse18/</guid>
       <description></description>
     </item>
     

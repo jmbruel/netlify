@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mansur Khazeev | Jean-Michel Bruel</title>
-    <link>https://jmbruell.netlify.app/author/mansur-khazeev/</link>
-      <atom:link href="https://jmbruell.netlify.app/author/mansur-khazeev/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/mansur-khazeev/</link>
+      <atom:link href="http://localhost:1313/author/mansur-khazeev/index.xml" rel="self" type="application/rss+xml" />
     <description>Mansur Khazeev</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 - ACDC. Last update: January 6th, 2025</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 - ACDC. Last update: March 9th, 2025</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jmbruell.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu_1b4bcfdf7d67b990.png</url>
       <title>Mansur Khazeev</title>
-      <link>https://jmbruell.netlify.app/author/mansur-khazeev/</link>
+      <link>http://localhost:1313/author/mansur-khazeev/</link>
     </image>
     
     <item>
       <title>Reflections on Teaching Formal Methods for Software Development in Higher Education</title>
-      <link>https://jmbruell.netlify.app/publication/dblp-conffisee-khazeev-acmbb-19/</link>
+      <link>http://localhost:1313/publication/dblp-conffisee-khazeev-acmbb-19/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://jmbruell.netlify.app/publication/dblp-conffisee-khazeev-acmbb-19/</guid>
+      <guid>http://localhost:1313/publication/dblp-conffisee-khazeev-acmbb-19/</guid>
       <description></description>
     </item>
     
