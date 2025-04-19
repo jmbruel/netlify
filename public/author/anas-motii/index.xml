@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Anas Motii | Jean-Michel Bruel</title>
-    <link>http://localhost:1313/author/anas-motii/</link>
-      <atom:link href="http://localhost:1313/author/anas-motii/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jmbruell.netlify.app/author/anas-motii/</link>
+      <atom:link href="https://jmbruell.netlify.app/author/anas-motii/index.xml" rel="self" type="application/rss+xml" />
     <description>Anas Motii</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 - ACDC. Last update: March 9th, 2025</copyright>
     <image>
-      <url>http://localhost:1313/author/anas-motii/avatar_hu_e75afb372ff5b0b3.jpg</url>
+      <url>https://jmbruell.netlify.app/author/anas-motii/avatar_hu_e75afb372ff5b0b3.jpg</url>
       <title>Anas Motii</title>
-      <link>http://localhost:1313/author/anas-motii/</link>
+      <link>https://jmbruell.netlify.app/author/anas-motii/</link>
     </image>
     
     <item>
       <title>Anas Motii</title>
-      <link>http://localhost:1313/author/anas-motii/</link>
+      <link>https://jmbruell.netlify.app/author/anas-motii/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/author/anas-motii/</guid>
+      <guid>https://jmbruell.netlify.app/author/anas-motii/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Renan Leroux-Beaudout</title>
-      <link>http://localhost:1313/author/renan-leroux-beaudout/</link>
+      <link>https://jmbruell.netlify.app/author/renan-leroux-beaudout/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/author/renan-leroux-beaudout/</guid>
+      <guid>https://jmbruell.netlify.app/author/renan-leroux-beaudout/</guid>
       <description></description>
     </item>
     

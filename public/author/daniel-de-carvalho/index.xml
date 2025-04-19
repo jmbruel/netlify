@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Daniel De Carvalho | Jean-Michel Bruel</title>
-    <link>http://localhost:1313/author/daniel-de-carvalho/</link>
-      <atom:link href="http://localhost:1313/author/daniel-de-carvalho/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jmbruell.netlify.app/author/daniel-de-carvalho/</link>
+      <atom:link href="https://jmbruell.netlify.app/author/daniel-de-carvalho/index.xml" rel="self" type="application/rss+xml" />
     <description>Daniel De Carvalho</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 - ACDC. Last update: March 9th, 2025</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_1b4bcfdf7d67b990.png</url>
+      <url>https://jmbruell.netlify.app/media/icon_hu_1b4bcfdf7d67b990.png</url>
       <title>Daniel De Carvalho</title>
-      <link>http://localhost:1313/author/daniel-de-carvalho/</link>
+      <link>https://jmbruell.netlify.app/author/daniel-de-carvalho/</link>
     </image>
     
     <item>
       <title>Reflections on Teaching Formal Methods for Software Development in Higher Education</title>
-      <link>http://localhost:1313/publication/dblp-conffisee-khazeev-acmbb-19/</link>
+      <link>https://jmbruell.netlify.app/publication/dblp-conffisee-khazeev-acmbb-19/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dblp-conffisee-khazeev-acmbb-19/</guid>
+      <guid>https://jmbruell.netlify.app/publication/dblp-conffisee-khazeev-acmbb-19/</guid>
       <description></description>
     </item>
     

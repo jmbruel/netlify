@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hugo Bruneliere | Jean-Michel Bruel</title>
-    <link>http://localhost:1313/author/hugo-bruneliere/</link>
-      <atom:link href="http://localhost:1313/author/hugo-bruneliere/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jmbruell.netlify.app/author/hugo-bruneliere/</link>
+      <atom:link href="https://jmbruell.netlify.app/author/hugo-bruneliere/index.xml" rel="self" type="application/rss+xml" />
     <description>Hugo Bruneliere</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 - ACDC. Last update: March 9th, 2025</copyright><lastBuildDate>Wed, 10 Oct 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_1b4bcfdf7d67b990.png</url>
+      <url>https://jmbruell.netlify.app/media/icon_hu_1b4bcfdf7d67b990.png</url>
       <title>Hugo Bruneliere</title>
-      <link>http://localhost:1313/author/hugo-bruneliere/</link>
+      <link>https://jmbruell.netlify.app/author/hugo-bruneliere/</link>
     </image>
     
     <item>
       <title>Model-Driven Engineering for Design-Runtime Interaction in Complex Systems: Scientific Challenges and Roadmap</title>
-      <link>http://localhost:1313/publication/staf18/</link>
+      <link>https://jmbruell.netlify.app/publication/staf18/</link>
       <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/staf18/</guid>
+      <guid>https://jmbruell.netlify.app/publication/staf18/</guid>
       <description></description>
     </item>
     

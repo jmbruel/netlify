@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jean-Paul Arcangeli | Jean-Michel Bruel</title>
-    <link>http://localhost:1313/author/jean-paul-arcangeli/</link>
-      <atom:link href="http://localhost:1313/author/jean-paul-arcangeli/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jmbruell.netlify.app/author/jean-paul-arcangeli/</link>
+      <atom:link href="https://jmbruell.netlify.app/author/jean-paul-arcangeli/index.xml" rel="self" type="application/rss+xml" />
     <description>Jean-Paul Arcangeli</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 - ACDC. Last update: March 9th, 2025</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_1b4bcfdf7d67b990.png</url>
+      <url>https://jmbruell.netlify.app/media/icon_hu_1b4bcfdf7d67b990.png</url>
       <title>Jean-Paul Arcangeli</title>
-      <link>http://localhost:1313/author/jean-paul-arcangeli/</link>
+      <link>https://jmbruell.netlify.app/author/jean-paul-arcangeli/</link>
     </image>
     
     <item>
       <title>Model-Driven Engineering for End-Users in the Loop in Smart Ambient Systems</title>
-      <link>http://localhost:1313/publication/jucs-2021/</link>
+      <link>https://jmbruell.netlify.app/publication/jucs-2021/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/jucs-2021/</guid>
+      <guid>https://jmbruell.netlify.app/publication/jucs-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Automated user-oriented description of emerging composite ambient applications</title>
-      <link>http://localhost:1313/publication/ko-2019-2/</link>
+      <link>https://jmbruell.netlify.app/publication/ko-2019-2/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ko-2019-2/</guid>
+      <guid>https://jmbruell.netlify.app/publication/ko-2019-2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Emergence of Composite Services in Smart Environments</title>
-      <link>http://localhost:1313/publication/esof-poster2018/</link>
+      <link>https://jmbruell.netlify.app/publication/esof-poster2018/</link>
       <pubDate>Fri, 27 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/esof-poster2018/</guid>
+      <guid>https://jmbruell.netlify.app/publication/esof-poster2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ambient Intelligence Users in the Loop: Towards a Model-Driven Approach</title>
-      <link>http://localhost:1313/publication/mse18/</link>
+      <link>https://jmbruell.netlify.app/publication/mse18/</link>
       <pubDate>Mon, 25 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/mse18/</guid>
+      <guid>https://jmbruell.netlify.app/publication/mse18/</guid>
       <description></description>
     </item>
     

@@ -2,197 +2,197 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks | Jean-Michel Bruel</title>
-    <link>http://localhost:1313/talk/</link>
-      <atom:link href="http://localhost:1313/talk/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jmbruell.netlify.app/talk/</link>
+      <atom:link href="https://jmbruell.netlify.app/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 - ACDC. Last update: March 9th, 2025</copyright>
     <image>
-      <url>http://localhost:1313/media/icon_hu_1b4bcfdf7d67b990.png</url>
+      <url>https://jmbruell.netlify.app/media/icon_hu_1b4bcfdf7d67b990.png</url>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>http://localhost:1313/talk/</link>
+      <link>https://jmbruell.netlify.app/talk/</link>
     </image>
     
     <item>
       <title>FATES-MLOps</title>
-      <link>http://localhost:1313/talk/2025-explainai/</link>
+      <link>https://jmbruell.netlify.app/talk/2025-explainai/</link>
       <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/talk/2025-explainai/</guid>
+      <guid>https://jmbruell.netlify.app/talk/2025-explainai/</guid>
       <description></description>
     </item>
     
     <item>
       <title>PEGS Approach Overview</title>
-      <link>http://localhost:1313/talk/20240417-innopolis/</link>
+      <link>https://jmbruell.netlify.app/talk/20240417-innopolis/</link>
       <pubDate>Wed, 17 Apr 2024 13:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/talk/20240417-innopolis/</guid>
+      <guid>https://jmbruell.netlify.app/talk/20240417-innopolis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Requirements: Scalability Issues</title>
-      <link>http://localhost:1313/talk/20240329-scalability/</link>
+      <link>https://jmbruell.netlify.app/talk/20240329-scalability/</link>
       <pubDate>Sun, 31 Mar 2024 17:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/talk/20240329-scalability/</guid>
+      <guid>https://jmbruell.netlify.app/talk/20240329-scalability/</guid>
       <description></description>
     </item>
     
     <item>
       <title>AI Requirements for an Effective Adoption (in an MBSE context)</title>
-      <link>http://localhost:1313/talk/20240221-ai-workshop/</link>
+      <link>https://jmbruell.netlify.app/talk/20240221-ai-workshop/</link>
       <pubDate>Wed, 21 Feb 2024 14:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/talk/20240221-ai-workshop/</guid>
+      <guid>https://jmbruell.netlify.app/talk/20240221-ai-workshop/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Modern Requirements and Business Analysis</title>
-      <link>http://localhost:1313/talk/20230905-re23-tuto/</link>
+      <link>https://jmbruell.netlify.app/talk/20230905-re23-tuto/</link>
       <pubDate>Tue, 05 Sep 2023 14:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/talk/20230905-re23-tuto/</guid>
+      <guid>https://jmbruell.netlify.app/talk/20230905-re23-tuto/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Role of Formalism in System Requirements</title>
-      <link>http://localhost:1313/talk/20230905-re23-first/</link>
+      <link>https://jmbruell.netlify.app/talk/20230905-re23-first/</link>
       <pubDate>Tue, 05 Sep 2023 14:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/talk/20230905-re23-first/</guid>
+      <guid>https://jmbruell.netlify.app/talk/20230905-re23-first/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Early V&amp;V in a Multi-Disciplinary industrial context</title>
-      <link>http://localhost:1313/talk/20230619-mcmaster/</link>
+      <link>https://jmbruell.netlify.app/talk/20230619-mcmaster/</link>
       <pubDate>Sun, 18 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/talk/20230619-mcmaster/</guid>
+      <guid>https://jmbruell.netlify.app/talk/20230619-mcmaster/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Requirements’ Early V&amp;V</title>
-      <link>http://localhost:1313/talk/20230606-gdr-gpl-ie/</link>
+      <link>https://jmbruell.netlify.app/talk/20230606-gdr-gpl-ie/</link>
       <pubDate>Sat, 03 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/talk/20230606-gdr-gpl-ie/</guid>
+      <guid>https://jmbruell.netlify.app/talk/20230606-gdr-gpl-ie/</guid>
       <description></description>
     </item>
     
     <item>
       <title>L&#39;importance du Génie Logiciel</title>
-      <link>http://localhost:1313/talk/20220901-youtube-fsl/</link>
+      <link>https://jmbruell.netlify.app/talk/20220901-youtube-fsl/</link>
       <pubDate>Thu, 23 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/talk/20220901-youtube-fsl/</guid>
+      <guid>https://jmbruell.netlify.app/talk/20220901-youtube-fsl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Data-Informed Instructional Design</title>
-      <link>http://localhost:1313/talk/20220224-diversecoffee/</link>
+      <link>https://jmbruell.netlify.app/talk/20220224-diversecoffee/</link>
       <pubDate>Tue, 22 Feb 2022 11:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/talk/20220224-diversecoffee/</guid>
+      <guid>https://jmbruell.netlify.app/talk/20220224-diversecoffee/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Use of acceptance testing (BDD using Cucumber) in a DevOps</title>
-      <link>http://localhost:1313/talk/20220216-wsse22/</link>
+      <link>https://jmbruell.netlify.app/talk/20220216-wsse22/</link>
       <pubDate>Wed, 16 Feb 2022 11:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/talk/20220216-wsse22/</guid>
+      <guid>https://jmbruell.netlify.app/talk/20220216-wsse22/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CIFRE REX</title>
-      <link>http://localhost:1313/talk/20211130-gt-cifre/</link>
+      <link>https://jmbruell.netlify.app/talk/20211130-gt-cifre/</link>
       <pubDate>Mon, 29 Nov 2021 11:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/talk/20211130-gt-cifre/</guid>
+      <guid>https://jmbruell.netlify.app/talk/20211130-gt-cifre/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Requirements Engineering @ SM@RT</title>
-      <link>http://localhost:1313/talk/20210528-gt-ie/</link>
+      <link>https://jmbruell.netlify.app/talk/20210528-gt-ie/</link>
       <pubDate>Fri, 28 May 2021 11:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/talk/20210528-gt-ie/</guid>
+      <guid>https://jmbruell.netlify.app/talk/20210528-gt-ie/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Le Monde d’après 2020</title>
-      <link>http://localhost:1313/talk/20201204-cusi/</link>
+      <link>https://jmbruell.netlify.app/talk/20201204-cusi/</link>
       <pubDate>Fri, 11 Dec 2020 11:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/talk/20201204-cusi/</guid>
+      <guid>https://jmbruell.netlify.app/talk/20201204-cusi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Papyrus for gamers, let&#39;s play modeling (Best Demo Award!)</title>
-      <link>http://localhost:1313/talk/20201021-modelsdemo/</link>
+      <link>https://jmbruell.netlify.app/talk/20201021-modelsdemo/</link>
       <pubDate>Wed, 21 Oct 2020 18:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/talk/20201021-modelsdemo/</guid>
+      <guid>https://jmbruell.netlify.app/talk/20201021-modelsdemo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Feedbacks to students</title>
-      <link>http://localhost:1313/talk/20201019-modelsdocsymp/</link>
+      <link>https://jmbruell.netlify.app/talk/20201019-modelsdocsymp/</link>
       <pubDate>Mon, 19 Oct 2020 18:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/talk/20201019-modelsdocsymp/</guid>
+      <guid>https://jmbruell.netlify.app/talk/20201019-modelsdocsymp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Formality in Requirements</title>
-      <link>http://localhost:1313/talk/20190924-formreq/</link>
+      <link>https://jmbruell.netlify.app/talk/20190924-formreq/</link>
       <pubDate>Tue, 24 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/talk/20190924-formreq/</guid>
+      <guid>https://jmbruell.netlify.app/talk/20190924-formreq/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Teaching DevOps</title>
-      <link>http://localhost:1313/talk/20190917-devopsmodels/</link>
+      <link>https://jmbruell.netlify.app/talk/20190917-devopsmodels/</link>
       <pubDate>Tue, 17 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/talk/20190917-devopsmodels/</guid>
+      <guid>https://jmbruell.netlify.app/talk/20190917-devopsmodels/</guid>
       <description></description>
     </item>
     
     <item>
       <title>DevOps &amp; Requirements</title>
-      <link>http://localhost:1313/talk/20190508-devops19/</link>
+      <link>https://jmbruell.netlify.app/talk/20190508-devops19/</link>
       <pubDate>Wed, 08 May 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/talk/20190508-devops19/</guid>
+      <guid>https://jmbruell.netlify.app/talk/20190508-devops19/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Quizz Driven Teaching</title>
-      <link>http://localhost:1313/talk/20180412-ariut/</link>
+      <link>https://jmbruell.netlify.app/talk/20180412-ariut/</link>
       <pubDate>Thu, 12 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/talk/20180412-ariut/</guid>
+      <guid>https://jmbruell.netlify.app/talk/20180412-ariut/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ingénierie Dirigée par les Modèles et Domain Specific Languages : application à la simulation numérique haute-performance</title>
-      <link>http://localhost:1313/talk/20180119-cerfacs/</link>
+      <link>https://jmbruell.netlify.app/talk/20180119-cerfacs/</link>
       <pubDate>Fri, 19 Jan 2018 11:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/talk/20180119-cerfacs/</guid>
+      <guid>https://jmbruell.netlify.app/talk/20180119-cerfacs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Défilé de modèles</title>
-      <link>http://localhost:1313/talk/20171119-cafe-irit/</link>
+      <link>https://jmbruell.netlify.app/talk/20171119-cafe-irit/</link>
       <pubDate>Sun, 19 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/talk/20171119-cafe-irit/</guid>
+      <guid>https://jmbruell.netlify.app/talk/20171119-cafe-irit/</guid>
       <description></description>
     </item>
     
     <item>
       <title>New SM@RT team presentation</title>
-      <link>http://localhost:1313/talk/20171012-cs-irit/</link>
+      <link>https://jmbruell.netlify.app/talk/20171012-cs-irit/</link>
       <pubDate>Thu, 12 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/talk/20171012-cs-irit/</guid>
+      <guid>https://jmbruell.netlify.app/talk/20171012-cs-irit/</guid>
       <description></description>
     </item>
     

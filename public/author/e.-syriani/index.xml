@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>E. Syriani | Jean-Michel Bruel</title>
-    <link>http://localhost:1313/author/e.-syriani/</link>
-      <atom:link href="http://localhost:1313/author/e.-syriani/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jmbruell.netlify.app/author/e.-syriani/</link>
+      <atom:link href="https://jmbruell.netlify.app/author/e.-syriani/index.xml" rel="self" type="application/rss+xml" />
     <description>E. Syriani</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 - ACDC. Last update: March 9th, 2025</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_1b4bcfdf7d67b990.png</url>
+      <url>https://jmbruell.netlify.app/media/icon_hu_1b4bcfdf7d67b990.png</url>
       <title>E. Syriani</title>
-      <link>http://localhost:1313/author/e.-syriani/</link>
+      <link>https://jmbruell.netlify.app/author/e.-syriani/</link>
     </image>
     
     <item>
       <title>A Hitchhiker’s Guide to Model-Driven Engineering for Data-Centric Systems</title>
-      <link>http://localhost:1313/publication/9094197/</link>
+      <link>https://jmbruell.netlify.app/publication/9094197/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/9094197/</guid>
+      <guid>https://jmbruell.netlify.app/publication/9094197/</guid>
       <description></description>
     </item>
     

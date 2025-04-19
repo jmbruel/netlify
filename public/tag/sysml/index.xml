@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SysML | Jean-Michel Bruel</title>
-    <link>http://localhost:1313/tag/sysml/</link>
-      <atom:link href="http://localhost:1313/tag/sysml/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jmbruell.netlify.app/tag/sysml/</link>
+      <atom:link href="https://jmbruell.netlify.app/tag/sysml/index.xml" rel="self" type="application/rss+xml" />
     <description>SysML</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 - ACDC. Last update: March 9th, 2025</copyright><lastBuildDate>Tue, 26 Jun 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_1b4bcfdf7d67b990.png</url>
+      <url>https://jmbruell.netlify.app/media/icon_hu_1b4bcfdf7d67b990.png</url>
       <title>SysML</title>
-      <link>http://localhost:1313/tag/sysml/</link>
+      <link>https://jmbruell.netlify.app/tag/sysml/</link>
     </image>
     
     <item>
       <title>SysML Models Verification and Validation in an Industrial Context: Challenges and Experimentation</title>
-      <link>http://localhost:1313/publication/ecmfa18/</link>
+      <link>https://jmbruell.netlify.app/publication/ecmfa18/</link>
       <pubDate>Tue, 26 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ecmfa18/</guid>
+      <guid>https://jmbruell.netlify.app/publication/ecmfa18/</guid>
       <description></description>
     </item>
     

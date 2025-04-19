@@ -2,85 +2,85 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Past | Jean-Michel Bruel</title>
-    <link>http://localhost:1313/tag/past/</link>
-      <atom:link href="http://localhost:1313/tag/past/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jmbruell.netlify.app/tag/past/</link>
+      <atom:link href="https://jmbruell.netlify.app/tag/past/index.xml" rel="self" type="application/rss+xml" />
     <description>Past</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 - ACDC. Last update: March 9th, 2025</copyright><lastBuildDate>Thu, 19 Oct 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_1b4bcfdf7d67b990.png</url>
+      <url>https://jmbruell.netlify.app/media/icon_hu_1b4bcfdf7d67b990.png</url>
       <title>Past</title>
-      <link>http://localhost:1313/tag/past/</link>
+      <link>https://jmbruell.netlify.app/tag/past/</link>
     </image>
     
     <item>
       <title>Moise</title>
-      <link>http://localhost:1313/project/moise/</link>
+      <link>https://jmbruell.netlify.app/project/moise/</link>
       <pubDate>Thu, 19 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/moise/</guid>
+      <guid>https://jmbruell.netlify.app/project/moise/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Alexandr Naumchev</title>
-      <link>http://localhost:1313/author/alexandr-naumchev/</link>
+      <link>https://jmbruell.netlify.app/author/alexandr-naumchev/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/author/alexandr-naumchev/</guid>
+      <guid>https://jmbruell.netlify.app/author/alexandr-naumchev/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Anas Motii</title>
-      <link>http://localhost:1313/author/anas-motii/</link>
+      <link>https://jmbruell.netlify.app/author/anas-motii/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/author/anas-motii/</guid>
+      <guid>https://jmbruell.netlify.app/author/anas-motii/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Florian Galinier</title>
-      <link>http://localhost:1313/author/florian-galinier/</link>
+      <link>https://jmbruell.netlify.app/author/florian-galinier/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/author/florian-galinier/</guid>
+      <guid>https://jmbruell.netlify.app/author/florian-galinier/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hamna Aslam</title>
-      <link>http://localhost:1313/author/hamna-aslam/</link>
+      <link>https://jmbruell.netlify.app/author/hamna-aslam/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/author/hamna-aslam/</guid>
+      <guid>https://jmbruell.netlify.app/author/hamna-aslam/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jacob Geisel</title>
-      <link>http://localhost:1313/author/jacob-geisel/</link>
+      <link>https://jmbruell.netlify.app/author/jacob-geisel/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/author/jacob-geisel/</guid>
+      <guid>https://jmbruell.netlify.app/author/jacob-geisel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Maroun Koussaifi</title>
-      <link>http://localhost:1313/author/maroun-koussaifi/</link>
+      <link>https://jmbruell.netlify.app/author/maroun-koussaifi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/author/maroun-koussaifi/</guid>
+      <guid>https://jmbruell.netlify.app/author/maroun-koussaifi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mohammad Chami</title>
-      <link>http://localhost:1313/author/mohammad-chami/</link>
+      <link>https://jmbruell.netlify.app/author/mohammad-chami/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/author/mohammad-chami/</guid>
+      <guid>https://jmbruell.netlify.app/author/mohammad-chami/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Renan Leroux-Beaudout</title>
-      <link>http://localhost:1313/author/renan-leroux-beaudout/</link>
+      <link>https://jmbruell.netlify.app/author/renan-leroux-beaudout/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/author/renan-leroux-beaudout/</guid>
+      <guid>https://jmbruell.netlify.app/author/renan-leroux-beaudout/</guid>
       <description></description>
     </item>
     

@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Iulian Ober | Jean-Michel Bruel</title>
-    <link>http://localhost:1313/author/iulian-ober/</link>
-      <atom:link href="http://localhost:1313/author/iulian-ober/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jmbruell.netlify.app/author/iulian-ober/</link>
+      <atom:link href="https://jmbruell.netlify.app/author/iulian-ober/index.xml" rel="self" type="application/rss+xml" />
     <description>Iulian Ober</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 - ACDC. Last update: March 9th, 2025</copyright><lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_1b4bcfdf7d67b990.png</url>
+      <url>https://jmbruell.netlify.app/media/icon_hu_1b4bcfdf7d67b990.png</url>
       <title>Iulian Ober</title>
-      <link>http://localhost:1313/author/iulian-ober/</link>
+      <link>https://jmbruell.netlify.app/author/iulian-ober/</link>
     </image>
     
     <item>
       <title>Modeling and verification method for an early evaluation of Systems of Systems interactions</title>
-      <link>http://localhost:1313/publication/ba-ob-br-2020-1/</link>
+      <link>https://jmbruell.netlify.app/publication/ba-ob-br-2020-1/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ba-ob-br-2020-1/</guid>
+      <guid>https://jmbruell.netlify.app/publication/ba-ob-br-2020-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Modeling and verification method for an early evaluation of systems of systems interactions</title>
-      <link>http://localhost:1313/publication/dblp-confsac-baduel-ob-20/</link>
+      <link>https://jmbruell.netlify.app/publication/dblp-confsac-baduel-ob-20/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dblp-confsac-baduel-ob-20/</guid>
+      <guid>https://jmbruell.netlify.app/publication/dblp-confsac-baduel-ob-20/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SysML Models Verification and Validation in an Industrial Context: Challenges and Experimentation</title>
-      <link>http://localhost:1313/publication/ecmfa18/</link>
+      <link>https://jmbruell.netlify.app/publication/ecmfa18/</link>
       <pubDate>Tue, 26 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ecmfa18/</guid>
+      <guid>https://jmbruell.netlify.app/publication/ecmfa18/</guid>
       <description></description>
     </item>
     
