@@ -2,173 +2,173 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>1 | Jean-Michel Bruel</title>
-    <link>http://localhost:1313/publication-type/1/</link>
-      <atom:link href="http://localhost:1313/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jmbruell.netlify.app/publication-type/1/</link>
+      <atom:link href="https://jmbruell.netlify.app/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 - ACDC. Last update: May 2nd, 2025</copyright><lastBuildDate>Thu, 01 Jun 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_1b4bcfdf7d67b990.png</url>
+      <url>https://jmbruell.netlify.app/media/icon_hu_1b4bcfdf7d67b990.png</url>
       <title>1</title>
-      <link>http://localhost:1313/publication-type/1/</link>
+      <link>https://jmbruell.netlify.app/publication-type/1/</link>
     </image>
     
     <item>
       <title>Traçabilité by design : conception d&#39;un système interactif pour améliorer la génération automatique de traces Git pendant une activité d&#39;apprentissage</title>
-      <link>http://localhost:1313/publication/pons-hal-04144980/</link>
+      <link>https://jmbruell.netlify.app/publication/pons-hal-04144980/</link>
       <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/pons-hal-04144980/</guid>
+      <guid>https://jmbruell.netlify.app/publication/pons-hal-04144980/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Modelling and Verification of Natural Language Requirements based on States and Modes</title>
-      <link>http://localhost:1313/publication/liu-hal-03941814/</link>
+      <link>https://jmbruell.netlify.app/publication/liu-hal-03941814/</link>
       <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/liu-hal-03941814/</guid>
+      <guid>https://jmbruell.netlify.app/publication/liu-hal-03941814/</guid>
       <description></description>
     </item>
     
     <item>
       <title>RQCODE - Towards Object-Oriented Requirements in the Software Security Domain</title>
-      <link>http://localhost:1313/publication/dblp-conficst-nigmatullin-smeb-22/</link>
+      <link>https://jmbruell.netlify.app/publication/dblp-conficst-nigmatullin-smeb-22/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dblp-conficst-nigmatullin-smeb-22/</guid>
+      <guid>https://jmbruell.netlify.app/publication/dblp-conficst-nigmatullin-smeb-22/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Examining Requirements Documentation through the Focused Conversation Method</title>
-      <link>http://localhost:1313/publication/dblp-confisdevel-aslam-nbb-21/</link>
+      <link>https://jmbruell.netlify.app/publication/dblp-confisdevel-aslam-nbb-21/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dblp-confisdevel-aslam-nbb-21/</guid>
+      <guid>https://jmbruell.netlify.app/publication/dblp-confisdevel-aslam-nbb-21/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Modeling and verification method for an early evaluation of Systems of Systems interactions</title>
-      <link>http://localhost:1313/publication/ba-ob-br-2020-1/</link>
+      <link>https://jmbruell.netlify.app/publication/ba-ob-br-2020-1/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ba-ob-br-2020-1/</guid>
+      <guid>https://jmbruell.netlify.app/publication/ba-ob-br-2020-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Modeling and verification method for an early evaluation of systems of systems interactions</title>
-      <link>http://localhost:1313/publication/dblp-confsac-baduel-ob-20/</link>
+      <link>https://jmbruell.netlify.app/publication/dblp-confsac-baduel-ob-20/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dblp-confsac-baduel-ob-20/</guid>
+      <guid>https://jmbruell.netlify.app/publication/dblp-confsac-baduel-ob-20/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Papyrus for Gamers, Let&#39;s Play Modeling</title>
-      <link>http://localhost:1313/publication/papygame-2020/</link>
+      <link>https://jmbruell.netlify.app/publication/papygame-2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/papygame-2020/</guid>
+      <guid>https://jmbruell.netlify.app/publication/papygame-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Automated user-oriented description of emerging composite ambient applications</title>
-      <link>http://localhost:1313/publication/ko-2019-2/</link>
+      <link>https://jmbruell.netlify.app/publication/ko-2019-2/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ko-2019-2/</guid>
+      <guid>https://jmbruell.netlify.app/publication/ko-2019-2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reflections on Teaching Formal Methods for Software Development in Higher Education</title>
-      <link>http://localhost:1313/publication/dblp-conffisee-khazeev-acmbb-19/</link>
+      <link>https://jmbruell.netlify.app/publication/dblp-conffisee-khazeev-acmbb-19/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dblp-conffisee-khazeev-acmbb-19/</guid>
+      <guid>https://jmbruell.netlify.app/publication/dblp-conffisee-khazeev-acmbb-19/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Towards an Anatomy of Software Requirements</title>
-      <link>http://localhost:1313/publication/dblp-conftools-0001-begn-19/</link>
+      <link>https://jmbruell.netlify.app/publication/dblp-conftools-0001-begn-19/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dblp-conftools-0001-begn-19/</guid>
+      <guid>https://jmbruell.netlify.app/publication/dblp-conftools-0001-begn-19/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Model-Driven Engineering for Design-Runtime Interaction in Complex Systems: Scientific Challenges and Roadmap</title>
-      <link>http://localhost:1313/publication/staf18/</link>
+      <link>https://jmbruell.netlify.app/publication/staf18/</link>
       <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/staf18/</guid>
+      <guid>https://jmbruell.netlify.app/publication/staf18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Emergence of Composite Services in Smart Environments</title>
-      <link>http://localhost:1313/publication/esof-poster2018/</link>
+      <link>https://jmbruell.netlify.app/publication/esof-poster2018/</link>
       <pubDate>Fri, 27 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/esof-poster2018/</guid>
+      <guid>https://jmbruell.netlify.app/publication/esof-poster2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>How to handle environmental uncertainty in goal-based requirements engineering</title>
-      <link>http://localhost:1313/publication/icse-poster2018/</link>
+      <link>https://jmbruell.netlify.app/publication/icse-poster2018/</link>
       <pubDate>Fri, 27 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/icse-poster2018/</guid>
+      <guid>https://jmbruell.netlify.app/publication/icse-poster2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On the use of models for high-performance scientific computing applications: an experience report</title>
-      <link>http://localhost:1313/publication/sosym2018/</link>
+      <link>https://jmbruell.netlify.app/publication/sosym2018/</link>
       <pubDate>Fri, 27 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/sosym2018/</guid>
+      <guid>https://jmbruell.netlify.app/publication/sosym2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Towards a Requirements Engineering Approach for capturing Uncertainty in Cyber-Physical Systems Environment</title>
-      <link>http://localhost:1313/publication/iwcfs18/</link>
+      <link>https://jmbruell.netlify.app/publication/iwcfs18/</link>
       <pubDate>Tue, 03 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/iwcfs18/</guid>
+      <guid>https://jmbruell.netlify.app/publication/iwcfs18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Requirements Specific Modeling Language : un langage formel d&#39;expression d&#39;exigences</title>
-      <link>http://localhost:1313/publication/ciel18/</link>
+      <link>https://jmbruell.netlify.app/publication/ciel18/</link>
       <pubDate>Wed, 27 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ciel18/</guid>
+      <guid>https://jmbruell.netlify.app/publication/ciel18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SysML Models Verification and Validation in an Industrial Context: Challenges and Experimentation</title>
-      <link>http://localhost:1313/publication/ecmfa18/</link>
+      <link>https://jmbruell.netlify.app/publication/ecmfa18/</link>
       <pubDate>Tue, 26 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ecmfa18/</guid>
+      <guid>https://jmbruell.netlify.app/publication/ecmfa18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ambient Intelligence Users in the Loop: Towards a Model-Driven Approach</title>
-      <link>http://localhost:1313/publication/mse18/</link>
+      <link>https://jmbruell.netlify.app/publication/mse18/</link>
       <pubDate>Mon, 25 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/mse18/</guid>
+      <guid>https://jmbruell.netlify.app/publication/mse18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Modeling Co-simulation: A First Experiment</title>
-      <link>http://localhost:1313/publication/gemoc2017/</link>
+      <link>https://jmbruell.netlify.app/publication/gemoc2017/</link>
       <pubDate>Fri, 27 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/gemoc2017/</guid>
+      <guid>https://jmbruell.netlify.app/publication/gemoc2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Joint Proceedings of the 12th Educators Symposium (EduSymp 2016) and 3rd International Workshop on Open Source Software for Model Driven Engineering (OSS4MDE 2016)</title>
-      <link>http://localhost:1313/publication/models16/</link>
+      <link>https://jmbruell.netlify.app/publication/models16/</link>
       <pubDate>Mon, 03 Oct 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/models16/</guid>
+      <guid>https://jmbruell.netlify.app/publication/models16/</guid>
       <description></description>
     </item>
     

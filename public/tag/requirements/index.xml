@@ -2,77 +2,77 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Requirements | Jean-Michel Bruel</title>
-    <link>http://localhost:1313/tag/requirements/</link>
-      <atom:link href="http://localhost:1313/tag/requirements/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jmbruell.netlify.app/tag/requirements/</link>
+      <atom:link href="https://jmbruell.netlify.app/tag/requirements/index.xml" rel="self" type="application/rss+xml" />
     <description>Requirements</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 - ACDC. Last update: May 2nd, 2025</copyright><lastBuildDate>Mon, 06 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_1b4bcfdf7d67b990.png</url>
+      <url>https://jmbruell.netlify.app/media/icon_hu_1b4bcfdf7d67b990.png</url>
       <title>Requirements</title>
-      <link>http://localhost:1313/tag/requirements/</link>
+      <link>https://jmbruell.netlify.app/tag/requirements/</link>
     </image>
     
     <item>
       <title>FATES-MLOps</title>
-      <link>http://localhost:1313/project/anr-fates-mlops/</link>
+      <link>https://jmbruell.netlify.app/project/anr-fates-mlops/</link>
       <pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/anr-fates-mlops/</guid>
+      <guid>https://jmbruell.netlify.app/project/anr-fates-mlops/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Chaire Industrielle</title>
-      <link>http://localhost:1313/project/airbus/</link>
+      <link>https://jmbruell.netlify.app/project/airbus/</link>
       <pubDate>Fri, 23 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/airbus/</guid>
+      <guid>https://jmbruell.netlify.app/project/airbus/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Formal Requirements</title>
-      <link>http://localhost:1313/project/innopolis/</link>
+      <link>https://jmbruell.netlify.app/project/innopolis/</link>
       <pubDate>Mon, 19 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/innopolis/</guid>
+      <guid>https://jmbruell.netlify.app/project/innopolis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>BASAALT</title>
-      <link>http://localhost:1313/project/basaalt/</link>
+      <link>https://jmbruell.netlify.app/project/basaalt/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/basaalt/</guid>
+      <guid>https://jmbruell.netlify.app/project/basaalt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>How to handle environmental uncertainty in goal-based requirements engineering</title>
-      <link>http://localhost:1313/publication/icse-poster2018/</link>
+      <link>https://jmbruell.netlify.app/publication/icse-poster2018/</link>
       <pubDate>Fri, 27 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/icse-poster2018/</guid>
+      <guid>https://jmbruell.netlify.app/publication/icse-poster2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Towards a Requirements Engineering Approach for capturing Uncertainty in Cyber-Physical Systems Environment</title>
-      <link>http://localhost:1313/publication/iwcfs18/</link>
+      <link>https://jmbruell.netlify.app/publication/iwcfs18/</link>
       <pubDate>Tue, 03 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/iwcfs18/</guid>
+      <guid>https://jmbruell.netlify.app/publication/iwcfs18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Requirements Specific Modeling Language : un langage formel d&#39;expression d&#39;exigences</title>
-      <link>http://localhost:1313/publication/ciel18/</link>
+      <link>https://jmbruell.netlify.app/publication/ciel18/</link>
       <pubDate>Wed, 27 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ciel18/</guid>
+      <guid>https://jmbruell.netlify.app/publication/ciel18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Moise</title>
-      <link>http://localhost:1313/project/moise/</link>
+      <link>https://jmbruell.netlify.app/project/moise/</link>
       <pubDate>Thu, 19 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/moise/</guid>
+      <guid>https://jmbruell.netlify.app/project/moise/</guid>
       <description></description>
     </item>
     

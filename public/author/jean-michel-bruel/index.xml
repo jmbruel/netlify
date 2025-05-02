@@ -2,102 +2,329 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jean-Michel Bruel</title>
-    <link>http://localhost:1313/author/jean-michel-bruel/</link>
-      <atom:link href="http://localhost:1313/author/jean-michel-bruel/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jmbruell.netlify.app/author/jean-michel-bruel/</link>
+      <atom:link href="https://jmbruell.netlify.app/author/jean-michel-bruel/index.xml" rel="self" type="application/rss+xml" />
     <description>Jean-Michel Bruel</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 - ACDC. Last update: May 2nd, 2025</copyright><lastBuildDate>Wed, 10 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 - ACDC. Last update: May 2nd, 2025</copyright>
     <image>
-      <url>http://localhost:1313/media/icon_hu_1b4bcfdf7d67b990.png</url>
+      <url>https://jmbruell.netlify.app/author/jean-michel-bruel/avatar_hu_e83e78eb27a976b5.png</url>
       <title>Jean-Michel Bruel</title>
-      <link>http://localhost:1313/author/jean-michel-bruel/</link>
+      <link>https://jmbruell.netlify.app/author/jean-michel-bruel/</link>
     </image>
     
     <item>
-      <title>Model-Driven Engineering for Design-Runtime Interaction in Complex Systems: Scientific Challenges and Roadmap</title>
-      <link>http://localhost:1313/publication/staf18/</link>
-      <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/staf18/</guid>
+      <title>FATES-MLOps</title>
+      <link>https://jmbruell.netlify.app/talk/2025-explainai/</link>
+      <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://jmbruell.netlify.app/talk/2025-explainai/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Emergence of Composite Services in Smart Environments</title>
-      <link>http://localhost:1313/publication/esof-poster2018/</link>
-      <pubDate>Fri, 27 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/esof-poster2018/</guid>
+      <title>PEGS Approach Overview</title>
+      <link>https://jmbruell.netlify.app/talk/20240417-innopolis/</link>
+      <pubDate>Wed, 17 Apr 2024 13:00:00 +0000</pubDate>
+      <guid>https://jmbruell.netlify.app/talk/20240417-innopolis/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>How to handle environmental uncertainty in goal-based requirements engineering</title>
-      <link>http://localhost:1313/publication/icse-poster2018/</link>
-      <pubDate>Fri, 27 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/icse-poster2018/</guid>
+      <title>Requirements: Scalability Issues</title>
+      <link>https://jmbruell.netlify.app/talk/20240329-scalability/</link>
+      <pubDate>Sun, 31 Mar 2024 17:00:00 +0000</pubDate>
+      <guid>https://jmbruell.netlify.app/talk/20240329-scalability/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>On the use of models for high-performance scientific computing applications: an experience report</title>
-      <link>http://localhost:1313/publication/sosym2018/</link>
-      <pubDate>Fri, 27 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/sosym2018/</guid>
+      <title>Identifying and fixing ambiguities in, and semantically accurate formalisation of, behavioural requirements</title>
+      <link>https://jmbruell.netlify.app/publication/nguyen-hal-04525414/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://jmbruell.netlify.app/publication/nguyen-hal-04525414/</guid>
+      <description>&lt;p&gt;To correctly formalise requirements expressed in natural language, ambiguities must first be identified and then fixed. This paper focuses on behavioural requirements (i.e. requirements related to dynamic aspects and phenomena). Its first objective is to show, based on a practical, public case study, that the disambiguation process cannot be fully automated: even though natural language processing (NLP) tools and machine learning might help in the identification of ambiguities, fixing them often requires a deep, application-specific understanding of the reasons of being of the system of interest, of the characteristics of its environment, of which trade-offs between conflicting objectives are acceptable, and of what is achievable and what is not; it may also require arduous negotiations between stakeholders. Such an understanding and consensus-making ability is not in the reach of current tools and technologies, and will likely remain so for a long while. Beyond ambiguity, requirements are often marred by various other types of defects that could lead to wholly unacceptable consequences. In particular, operational experience shows that requirements inadequacy (whereby, in some of the situations the system could face, what is required is woefully inappropriate or what is necessary is left unspecified) is a significant cause for systems failing to meet expectations. The second objective of this paper is to propose a semantically accurate behavioural requirements formalisation format enabling tool-supported requirements verification, notably with simulation. Such support is necessary for the engineering of large and complex cyber-physical and socio-technical systems to ensure, first, that the specified requirements indeed reflect the true intentions of their authors and second, that they are adequate for all the situations the system could face. To that end, the paper presents an overview of the BASAALT (Behaviour Analysis and Simulation All Along systems Life Time) systems engineering method, and of FORM-L (FOrmal Requirements Modelling Language), its supporting language, which aims at representing as accurately and completely as possible the semantics expressed in the original, natural language behavioural requirements, and is markedly different from languages intended for software code generation. The paper shows that generally, semantically accurate formalisation is not a simple paraphrasing of the original natural language requirements: additional elements are often needed to fully and explicitly reflect all that is implied in natural language. To provide such complements for the case study presented in the paper, we had to follow different formalisation patterns, i.e. sequences of formalisation steps. For this paper, to avoid being skewed by what a particular automatic tool can and cannot do, BASAALT and FORM-L were applied manually. Still, the lessons learned could be used to specify and develop NLP tools that could assist the disambiguation and formalisation processes. However, more studies are needed to determine whether an exhaustive set of formalisation patterns can be identified to fully automate the formalisation process.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AI Requirements for an Effective Adoption (in an MBSE context)</title>
+      <link>https://jmbruell.netlify.app/talk/20240221-ai-workshop/</link>
+      <pubDate>Wed, 21 Feb 2024 14:00:00 +0000</pubDate>
+      <guid>https://jmbruell.netlify.app/talk/20240221-ai-workshop/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Towards a Requirements Engineering Approach for capturing Uncertainty in Cyber-Physical Systems Environment</title>
-      <link>http://localhost:1313/publication/iwcfs18/</link>
-      <pubDate>Tue, 03 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/iwcfs18/</guid>
+      <title>Modern Requirements and Business Analysis</title>
+      <link>https://jmbruell.netlify.app/talk/20230905-re23-tuto/</link>
+      <pubDate>Tue, 05 Sep 2023 14:00:00 +0000</pubDate>
+      <guid>https://jmbruell.netlify.app/talk/20230905-re23-tuto/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Requirements Specific Modeling Language : un langage formel d&#39;expression d&#39;exigences</title>
-      <link>http://localhost:1313/publication/ciel18/</link>
-      <pubDate>Wed, 27 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ciel18/</guid>
+      <title>The Role of Formalism in System Requirements</title>
+      <link>https://jmbruell.netlify.app/talk/20230905-re23-first/</link>
+      <pubDate>Tue, 05 Sep 2023 14:00:00 +0000</pubDate>
+      <guid>https://jmbruell.netlify.app/talk/20230905-re23-first/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>SysML Models Verification and Validation in an Industrial Context: Challenges and Experimentation</title>
-      <link>http://localhost:1313/publication/ecmfa18/</link>
-      <pubDate>Tue, 26 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ecmfa18/</guid>
+      <title>Early V&amp;V in a Multi-Disciplinary industrial context</title>
+      <link>https://jmbruell.netlify.app/talk/20230619-mcmaster/</link>
+      <pubDate>Sun, 18 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://jmbruell.netlify.app/talk/20230619-mcmaster/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Ambient Intelligence Users in the Loop: Towards a Model-Driven Approach</title>
-      <link>http://localhost:1313/publication/mse18/</link>
-      <pubDate>Mon, 25 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/mse18/</guid>
+      <title>Requirements’ Early V&amp;V</title>
+      <link>https://jmbruell.netlify.app/talk/20230606-gdr-gpl-ie/</link>
+      <pubDate>Sat, 03 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://jmbruell.netlify.app/talk/20230606-gdr-gpl-ie/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Modeling Co-simulation: A First Experiment</title>
-      <link>http://localhost:1313/publication/gemoc2017/</link>
-      <pubDate>Fri, 27 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/gemoc2017/</guid>
+      <title>Traçabilité by design : conception d&#39;un système interactif pour améliorer la génération automatique de traces Git pendant une activité d&#39;apprentissage</title>
+      <link>https://jmbruell.netlify.app/publication/pons-hal-04144980/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://jmbruell.netlify.app/publication/pons-hal-04144980/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>A contract-based method to specify stimulus-response requirements</title>
-      <link>http://localhost:1313/publication/mmbge17/</link>
-      <pubDate>Wed, 07 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/mmbge17/</guid>
+      <title>Object-Oriented Requirements: a Unified Framework for Specifications, Scenarios and Tests</title>
+      <link>https://jmbruell.netlify.app/publication/jot-issue-2023-01-article-3/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://jmbruell.netlify.app/publication/jot-issue-2023-01-article-3/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Joint Proceedings of the 12th Educators Symposium (EduSymp 2016) and 3rd International Workshop on Open Source Software for Model Driven Engineering (OSS4MDE 2016)</title>
-      <link>http://localhost:1313/publication/models16/</link>
-      <pubDate>Mon, 03 Oct 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/models16/</guid>
+      <title>Modelling and Verification of Natural Language Requirements based on States and Modes</title>
+      <link>https://jmbruell.netlify.app/publication/liu-hal-03941814/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://jmbruell.netlify.app/publication/liu-hal-03941814/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>L&#39;importance du Génie Logiciel</title>
+      <link>https://jmbruell.netlify.app/talk/20220901-youtube-fsl/</link>
+      <pubDate>Thu, 23 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://jmbruell.netlify.app/talk/20220901-youtube-fsl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data-Informed Instructional Design</title>
+      <link>https://jmbruell.netlify.app/talk/20220224-diversecoffee/</link>
+      <pubDate>Tue, 22 Feb 2022 11:00:00 +0000</pubDate>
+      <guid>https://jmbruell.netlify.app/talk/20220224-diversecoffee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Use of acceptance testing (BDD using Cucumber) in a DevOps</title>
+      <link>https://jmbruell.netlify.app/talk/20220216-wsse22/</link>
+      <pubDate>Wed, 16 Feb 2022 11:00:00 +0000</pubDate>
+      <guid>https://jmbruell.netlify.app/talk/20220216-wsse22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RQCODE - Towards Object-Oriented Requirements in the Software Security Domain</title>
+      <link>https://jmbruell.netlify.app/publication/dblp-conficst-nigmatullin-smeb-22/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://jmbruell.netlify.app/publication/dblp-conficst-nigmatullin-smeb-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Special Issue on New Paradigms of Software Production and Deployment</title>
+      <link>https://jmbruell.netlify.app/publication/dblp-journalssncs-capozucca-bmm-22/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://jmbruell.netlify.app/publication/dblp-journalssncs-capozucca-bmm-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CIFRE REX</title>
+      <link>https://jmbruell.netlify.app/talk/20211130-gt-cifre/</link>
+      <pubDate>Mon, 29 Nov 2021 11:00:00 +0000</pubDate>
+      <guid>https://jmbruell.netlify.app/talk/20211130-gt-cifre/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Requirements Engineering @ SM@RT</title>
+      <link>https://jmbruell.netlify.app/talk/20210528-gt-ie/</link>
+      <pubDate>Fri, 28 May 2021 11:00:00 +0000</pubDate>
+      <guid>https://jmbruell.netlify.app/talk/20210528-gt-ie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Role of Formalism in System Requirements</title>
+      <link>https://jmbruell.netlify.app/publication/acm-surveys-2021/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://jmbruell.netlify.app/publication/acm-surveys-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Examining Requirements Documentation through the Focused Conversation Method</title>
+      <link>https://jmbruell.netlify.app/publication/dblp-confisdevel-aslam-nbb-21/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://jmbruell.netlify.app/publication/dblp-confisdevel-aslam-nbb-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Model-Driven Engineering for End-Users in the Loop in Smart Ambient Systems</title>
+      <link>https://jmbruell.netlify.app/publication/jucs-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://jmbruell.netlify.app/publication/jucs-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Le Monde d’après 2020</title>
+      <link>https://jmbruell.netlify.app/talk/20201204-cusi/</link>
+      <pubDate>Fri, 11 Dec 2020 11:00:00 +0000</pubDate>
+      <guid>https://jmbruell.netlify.app/talk/20201204-cusi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Papyrus for gamers, let&#39;s play modeling (Best Demo Award!)</title>
+      <link>https://jmbruell.netlify.app/talk/20201021-modelsdemo/</link>
+      <pubDate>Wed, 21 Oct 2020 18:00:00 +0000</pubDate>
+      <guid>https://jmbruell.netlify.app/talk/20201021-modelsdemo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feedbacks to students</title>
+      <link>https://jmbruell.netlify.app/talk/20201019-modelsdocsymp/</link>
+      <pubDate>Mon, 19 Oct 2020 18:00:00 +0000</pubDate>
+      <guid>https://jmbruell.netlify.app/talk/20201019-modelsdocsymp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling and verification method for an early evaluation of Systems of Systems interactions</title>
+      <link>https://jmbruell.netlify.app/publication/ba-ob-br-2020-1/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://jmbruell.netlify.app/publication/ba-ob-br-2020-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Hitchhiker’s Guide to Model-Driven Engineering for Data-Centric Systems</title>
+      <link>https://jmbruell.netlify.app/publication/9094197/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://jmbruell.netlify.app/publication/9094197/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparing and classifying model transformation reuse approaches across metamodels</title>
+      <link>https://jmbruell.netlify.app/publication/dblp-journalssosym-bruel-cgjklmsv-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://jmbruell.netlify.app/publication/dblp-journalssosym-bruel-cgjklmsv-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling and verification method for an early evaluation of systems of systems interactions</title>
+      <link>https://jmbruell.netlify.app/publication/dblp-confsac-baduel-ob-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://jmbruell.netlify.app/publication/dblp-confsac-baduel-ob-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Papyrus for Gamers, Let&#39;s Play Modeling</title>
+      <link>https://jmbruell.netlify.app/publication/papygame-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://jmbruell.netlify.app/publication/papygame-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toward model-driven sustainability evaluation</title>
+      <link>https://jmbruell.netlify.app/publication/dblp-journalscacm-kienzle-mcbbbbbc-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://jmbruell.netlify.app/publication/dblp-journalscacm-kienzle-mcbbbbbc-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automated user-oriented description of emerging composite ambient applications</title>
+      <link>https://jmbruell.netlify.app/publication/ko-2019-2/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://jmbruell.netlify.app/publication/ko-2019-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AutoReq: expressing and verifying requirements for control systems</title>
+      <link>https://jmbruell.netlify.app/publication/na-me-ga-br-ma-eb-2019-1/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://jmbruell.netlify.app/publication/na-me-ga-br-ma-eb-2019-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reflections on Teaching Formal Methods for Software Development in Higher Education</title>
+      <link>https://jmbruell.netlify.app/publication/dblp-conffisee-khazeev-acmbb-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://jmbruell.netlify.app/publication/dblp-conffisee-khazeev-acmbb-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards an Anatomy of Software Requirements</title>
+      <link>https://jmbruell.netlify.app/publication/dblp-conftools-0001-begn-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://jmbruell.netlify.app/publication/dblp-conftools-0001-begn-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Use of Models for High-Performance Scientific Computing Applications: an Experience Report</title>
+      <link>https://jmbruell.netlify.app/publication/ob-pa-br-lu-2018-1/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://jmbruell.netlify.app/publication/ob-pa-br-lu-2018-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jean-Michel Bruel</title>
+      <link>https://jmbruell.netlify.app/author/jean-michel-bruel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jmbruell.netlify.app/author/jean-michel-bruel/</guid>
+      <description>&lt;p&gt;Jean-Michel Bruel has been head of the &lt;a href=&#34;https://smart-researchteam.github.io/&#34;&gt;SM@RT&lt;/a&gt;
+ team of the &lt;a href=&#34;https://www.irit.fr/&#34;&gt;IRIT&lt;/a&gt;
+ CNRS laboratory until September 2021.
+His research areas include the development of software-intensive Cyber-Physical Systems, and methods/model/language integration, with a focus on Requirements and Model-Based Systems Engineering.
+He defended his &amp;ldquo;&lt;em&gt;Habilitation à Diriger des Recherches&lt;/em&gt;&amp;rdquo; in December 2006 and obtained in 2008 a full professor position at the &lt;a href=&#34;https://en.univ-toulouse.fr/&#34;&gt;University of Toulouse&lt;/a&gt;
+.
+He has been Laboratory Representative for the &lt;a href=&#34;http://www.univ-tlse2.fr&#34;&gt;Toulouse 2 Jean Jaurès University&lt;/a&gt;
+ from 2016 to 2020.
+He has been head of the Computer Science department of the &lt;a href=&#34;https://www.iut-blagnac.fr/&#34;&gt;Technical Institute of Blagnac&lt;/a&gt;
+ in 2009-2012 and 2021-2023
+and has been a member of the Strategic Research Committee of the &lt;a href=&#34;https://www.irit.fr/&#34;&gt;IRIT&lt;/a&gt;
+ CNRS laboratory since 2021.
+He is the holder of the Chair of Model-Driven Systems Engineering between &lt;a href=&#34;https://www.airbus.com/&#34;&gt;AIRBUS&lt;/a&gt;
+ and &lt;a href=&#34;http://www.univ-tlse2.fr&#34;&gt;Toulouse 2 Jean Jaurès University&lt;/a&gt;
+ since 2022, joined the&lt;a href=&#34;https://ipal.cnrs.fr/&#34;&gt;International Research Laboratory in AI&lt;/a&gt;
+ in 2023 and is the leader of the &lt;a href=&#34;https://anr.fr/&#34;&gt;ANR&lt;/a&gt;
+ project &lt;a href=&#34;http://fates-mlops.org/&#34;&gt;FATES-MLOps&lt;/a&gt;
+.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
