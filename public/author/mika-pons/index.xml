@@ -5,16 +5,24 @@
     <link>https://jmbruell.netlify.app/author/mika-pons/</link>
       <atom:link href="https://jmbruell.netlify.app/author/mika-pons/index.xml" rel="self" type="application/rss+xml" />
     <description>Mika Pons</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 - ACDC. Last update: March 9th, 2025</copyright><lastBuildDate>Thu, 01 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 - ACDC. Last update: March 9th, 2025</copyright>
     <image>
-      <url>https://jmbruell.netlify.app/media/icon_hu_1b4bcfdf7d67b990.png</url>
+      <url>https://jmbruell.netlify.app/author/mika-pons/avatar_hu_189189ff231dff6c.jpeg</url>
       <title>Mika Pons</title>
       <link>https://jmbruell.netlify.app/author/mika-pons/</link>
     </image>
     
     <item>
-      <title>Traçabilité by design : conception d&#39;un système interactif pour améliorer la génération automatique de traces Git pendant une activité d&#39;apprentissage</title>
-      <link>https://jmbruell.netlify.app/publication/pons-hal-04144980/</link>
+      <title>Mika Pons</title>
+      <link>https://jmbruell.netlify.app/author/mika-pons/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jmbruell.netlify.app/author/mika-pons/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
+s-hal-04144980/</link>
       <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
       <guid>https://jmbruell.netlify.app/publication/pons-hal-04144980/</guid>
       <description></description>
