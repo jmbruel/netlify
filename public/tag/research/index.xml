@@ -2,101 +2,101 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Research | Jean-Michel Bruel</title>
-    <link>https://jmbruell.netlify.app/tag/research/</link>
-      <atom:link href="https://jmbruell.netlify.app/tag/research/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tag/research/</link>
+      <atom:link href="http://localhost:1313/tag/research/index.xml" rel="self" type="application/rss+xml" />
     <description>Research</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 - ACDC. Last update: May 2nd, 2025</copyright><lastBuildDate>Tue, 28 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jmbruell.netlify.app/media/icon_hu_1b4bcfdf7d67b990.png</url>
+      <url>http://localhost:1313/media/icon_hu_1b4bcfdf7d67b990.png</url>
       <title>Research</title>
-      <link>https://jmbruell.netlify.app/tag/research/</link>
+      <link>http://localhost:1313/tag/research/</link>
     </image>
     
     <item>
       <title>FATES-MLOps</title>
-      <link>https://jmbruell.netlify.app/talk/2025-explainai/</link>
+      <link>http://localhost:1313/talk/2025-explainai/</link>
       <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://jmbruell.netlify.app/talk/2025-explainai/</guid>
+      <guid>http://localhost:1313/talk/2025-explainai/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Requirements: Scalability Issues</title>
-      <link>https://jmbruell.netlify.app/talk/20240329-scalability/</link>
+      <link>http://localhost:1313/talk/20240329-scalability/</link>
       <pubDate>Sun, 31 Mar 2024 17:00:00 +0000</pubDate>
-      <guid>https://jmbruell.netlify.app/talk/20240329-scalability/</guid>
+      <guid>http://localhost:1313/talk/20240329-scalability/</guid>
       <description></description>
     </item>
     
     <item>
       <title>AI Requirements for an Effective Adoption (in an MBSE context)</title>
-      <link>https://jmbruell.netlify.app/talk/20240221-ai-workshop/</link>
+      <link>http://localhost:1313/talk/20240221-ai-workshop/</link>
       <pubDate>Wed, 21 Feb 2024 14:00:00 +0000</pubDate>
-      <guid>https://jmbruell.netlify.app/talk/20240221-ai-workshop/</guid>
+      <guid>http://localhost:1313/talk/20240221-ai-workshop/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Modern Requirements and Business Analysis</title>
-      <link>https://jmbruell.netlify.app/talk/20230905-re23-tuto/</link>
+      <link>http://localhost:1313/talk/20230905-re23-tuto/</link>
       <pubDate>Tue, 05 Sep 2023 14:00:00 +0000</pubDate>
-      <guid>https://jmbruell.netlify.app/talk/20230905-re23-tuto/</guid>
+      <guid>http://localhost:1313/talk/20230905-re23-tuto/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Role of Formalism in System Requirements</title>
-      <link>https://jmbruell.netlify.app/talk/20230905-re23-first/</link>
+      <link>http://localhost:1313/talk/20230905-re23-first/</link>
       <pubDate>Tue, 05 Sep 2023 14:00:00 +0000</pubDate>
-      <guid>https://jmbruell.netlify.app/talk/20230905-re23-first/</guid>
+      <guid>http://localhost:1313/talk/20230905-re23-first/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Early V&amp;V in a Multi-Disciplinary industrial context</title>
-      <link>https://jmbruell.netlify.app/talk/20230619-mcmaster/</link>
+      <link>http://localhost:1313/talk/20230619-mcmaster/</link>
       <pubDate>Sun, 18 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://jmbruell.netlify.app/talk/20230619-mcmaster/</guid>
+      <guid>http://localhost:1313/talk/20230619-mcmaster/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Requirements’ Early V&amp;V</title>
-      <link>https://jmbruell.netlify.app/talk/20230606-gdr-gpl-ie/</link>
+      <link>http://localhost:1313/talk/20230606-gdr-gpl-ie/</link>
       <pubDate>Sat, 03 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://jmbruell.netlify.app/talk/20230606-gdr-gpl-ie/</guid>
+      <guid>http://localhost:1313/talk/20230606-gdr-gpl-ie/</guid>
       <description></description>
     </item>
     
     <item>
       <title>L&#39;importance du Génie Logiciel</title>
-      <link>https://jmbruell.netlify.app/talk/20220901-youtube-fsl/</link>
+      <link>http://localhost:1313/talk/20220901-youtube-fsl/</link>
       <pubDate>Thu, 23 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://jmbruell.netlify.app/talk/20220901-youtube-fsl/</guid>
+      <guid>http://localhost:1313/talk/20220901-youtube-fsl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Data-Informed Instructional Design</title>
-      <link>https://jmbruell.netlify.app/talk/20220224-diversecoffee/</link>
+      <link>http://localhost:1313/talk/20220224-diversecoffee/</link>
       <pubDate>Tue, 22 Feb 2022 11:00:00 +0000</pubDate>
-      <guid>https://jmbruell.netlify.app/talk/20220224-diversecoffee/</guid>
+      <guid>http://localhost:1313/talk/20220224-diversecoffee/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CIFRE REX</title>
-      <link>https://jmbruell.netlify.app/talk/20211130-gt-cifre/</link>
+      <link>http://localhost:1313/talk/20211130-gt-cifre/</link>
       <pubDate>Mon, 29 Nov 2021 11:00:00 +0000</pubDate>
-      <guid>https://jmbruell.netlify.app/talk/20211130-gt-cifre/</guid>
+      <guid>http://localhost:1313/talk/20211130-gt-cifre/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Requirements Engineering @ SM@RT</title>
-      <link>https://jmbruell.netlify.app/talk/20210528-gt-ie/</link>
+      <link>http://localhost:1313/talk/20210528-gt-ie/</link>
       <pubDate>Fri, 28 May 2021 11:00:00 +0000</pubDate>
-      <guid>https://jmbruell.netlify.app/talk/20210528-gt-ie/</guid>
+      <guid>http://localhost:1313/talk/20210528-gt-ie/</guid>
       <description></description>
     </item>
     

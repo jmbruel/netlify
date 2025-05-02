@@ -35,7 +35,7 @@ social:
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "benoit.combemale@irisa.fr"
+email: "claude.baron@insa.fr"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false

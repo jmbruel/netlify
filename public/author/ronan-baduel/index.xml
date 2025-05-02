@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ronan Baduel | Jean-Michel Bruel</title>
-    <link>https://jmbruell.netlify.app/author/ronan-baduel/</link>
-      <atom:link href="https://jmbruell.netlify.app/author/ronan-baduel/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/ronan-baduel/</link>
+      <atom:link href="http://localhost:1313/author/ronan-baduel/index.xml" rel="self" type="application/rss+xml" />
     <description>Ronan Baduel</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 - ACDC. Last update: May 2nd, 2025</copyright><lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 - ACDC. Last update: May 2nd, 2025</copyright>
     <image>
-      <url>https://jmbruell.netlify.app/media/icon_hu_1b4bcfdf7d67b990.png</url>
+      <url>http://localhost:1313/author/ronan-baduel/avatar_hu_61c14a531da8fc62.jpeg</url>
       <title>Ronan Baduel</title>
-      <link>https://jmbruell.netlify.app/author/ronan-baduel/</link>
+      <link>http://localhost:1313/author/ronan-baduel/</link>
     </image>
     
     <item>
-      <title>Modeling and verification method for an early evaluation of Systems of Systems interactions</title>
-      <link>https://jmbruell.netlify.app/publication/ba-ob-br-2020-1/</link>
-      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://jmbruell.netlify.app/publication/ba-ob-br-2020-1/</guid>
+      <title>Modeling and verification method for an early evaluation of systems of systems interactions</title>
+      <link>http://localhost:1313/publication/dblp-confsac-baduel-ob-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dblp-confsac-baduel-ob-20/</guid>
       <description></description>
     </item>
     
-  </channel>
-</rss>
-      <link>https://jmbruell.netlify.app/author/ronan-baduel/</link>
+    <item>
+      <title>Ronan Baduel</title>
+      <link>http://localhost:1313/author/ronan-baduel/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://jmbruell.netlify.app/author/ronan-baduel/</guid>
+      <guid>http://localhost:1313/author/ronan-baduel/</guid>
       <description></description>
     </item>
     

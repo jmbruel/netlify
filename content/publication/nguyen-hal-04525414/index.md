@@ -7,7 +7,7 @@ title: Identifying and fixing ambiguities in, and semantically accurate formalis
 # If you created a profile for a user (e.g. the default `admin` user at `content/authors/admin/`), 
 # write the username (folder name) here, and it will be replaced with their full name and linked to their profile.
 authors:
-- Thuy Nguyen
+- thuy
 - Imen Sayar
 - sophie
 - jmb
@@ -70,7 +70,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects: ['internal-project']` links to `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects: [basaalt]
 links:
 - name: URL
   url: https://hal.science/hal-04525414

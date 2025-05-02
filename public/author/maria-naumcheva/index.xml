@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Maria Naumcheva | Jean-Michel Bruel</title>
-    <link>https://jmbruell.netlify.app/author/maria-naumcheva/</link>
-      <atom:link href="https://jmbruell.netlify.app/author/maria-naumcheva/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/maria-naumcheva/</link>
+      <atom:link href="http://localhost:1313/author/maria-naumcheva/index.xml" rel="self" type="application/rss+xml" />
     <description>Maria Naumcheva</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 - ACDC. Last update: May 2nd, 2025</copyright><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jmbruell.netlify.app/media/icon_hu_1b4bcfdf7d67b990.png</url>
+      <url>http://localhost:1313/media/icon_hu_1b4bcfdf7d67b990.png</url>
       <title>Maria Naumcheva</title>
-      <link>https://jmbruell.netlify.app/author/maria-naumcheva/</link>
+      <link>http://localhost:1313/author/maria-naumcheva/</link>
     </image>
     
     <item>
       <title>Object-Oriented Requirements: a Unified Framework for Specifications, Scenarios and Tests</title>
-      <link>https://jmbruell.netlify.app/publication/jot-issue-2023-01-article-3/</link>
+      <link>http://localhost:1313/publication/jot-issue-2023-01-article-3/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://jmbruell.netlify.app/publication/jot-issue-2023-01-article-3/</guid>
+      <guid>http://localhost:1313/publication/jot-issue-2023-01-article-3/</guid>
       <description></description>
     </item>
     
