@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lean | Jean-Michel Bruel</title>
-    <link>https://jmbruell.netlify.app/tag/lean/</link>
-      <atom:link href="https://jmbruell.netlify.app/tag/lean/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tag/lean/</link>
+      <atom:link href="http://localhost:1313/tag/lean/index.xml" rel="self" type="application/rss+xml" />
     <description>Lean</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 - ACDC. Last update: May 2nd, 2025</copyright><lastBuildDate>Fri, 23 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jmbruell.netlify.app/media/icon_hu_1b4bcfdf7d67b990.png</url>
+      <url>http://localhost:1313/media/icon_hu_1b4bcfdf7d67b990.png</url>
       <title>Lean</title>
-      <link>https://jmbruell.netlify.app/tag/lean/</link>
+      <link>http://localhost:1313/tag/lean/</link>
     </image>
     
     <item>
       <title>Chaire Industrielle</title>
-      <link>https://jmbruell.netlify.app/project/airbus/</link>
+      <link>http://localhost:1313/project/airbus/</link>
       <pubDate>Fri, 23 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://jmbruell.netlify.app/project/airbus/</guid>
+      <guid>http://localhost:1313/project/airbus/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Formal Requirements</title>
-      <link>https://jmbruell.netlify.app/project/innopolis/</link>
+      <link>http://localhost:1313/project/innopolis/</link>
       <pubDate>Mon, 19 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://jmbruell.netlify.app/project/innopolis/</guid>
+      <guid>http://localhost:1313/project/innopolis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>AutoReq: expressing and verifying requirements for control systems</title>
-      <link>https://jmbruell.netlify.app/publication/na-me-ga-br-ma-eb-2019-1/</link>
+      <link>http://localhost:1313/publication/na-me-ga-br-ma-eb-2019-1/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://jmbruell.netlify.app/publication/na-me-ga-br-ma-eb-2019-1/</guid>
+      <guid>http://localhost:1313/publication/na-me-ga-br-ma-eb-2019-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MBSE &amp; Early Validation</title>
-      <link>https://jmbruell.netlify.app/project/bombardier/</link>
+      <link>http://localhost:1313/project/bombardier/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>https://jmbruell.netlify.app/project/bombardier/</guid>
+      <guid>http://localhost:1313/project/bombardier/</guid>
       <description></description>
     </item>
     

@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Language | Jean-Michel Bruel</title>
-    <link>https://jmbruell.netlify.app/tag/language/</link>
-      <atom:link href="https://jmbruell.netlify.app/tag/language/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tag/language/</link>
+      <atom:link href="http://localhost:1313/tag/language/index.xml" rel="self" type="application/rss+xml" />
     <description>Language</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 - ACDC. Last update: May 2nd, 2025</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jmbruell.netlify.app/media/icon_hu_1b4bcfdf7d67b990.png</url>
+      <url>http://localhost:1313/media/icon_hu_1b4bcfdf7d67b990.png</url>
       <title>Language</title>
-      <link>https://jmbruell.netlify.app/tag/language/</link>
+      <link>http://localhost:1313/tag/language/</link>
     </image>
     
     <item>
       <title>BASAALT</title>
-      <link>https://jmbruell.netlify.app/project/basaalt/</link>
+      <link>http://localhost:1313/project/basaalt/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://jmbruell.netlify.app/project/basaalt/</guid>
+      <guid>http://localhost:1313/project/basaalt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>GEMOC Initiative</title>
-      <link>https://jmbruell.netlify.app/project/gemoc/</link>
+      <link>http://localhost:1313/project/gemoc/</link>
       <pubDate>Thu, 19 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>https://jmbruell.netlify.app/project/gemoc/</guid>
+      <guid>http://localhost:1313/project/gemoc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Moise</title>
-      <link>https://jmbruell.netlify.app/project/moise/</link>
+      <link>http://localhost:1313/project/moise/</link>
       <pubDate>Thu, 19 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>https://jmbruell.netlify.app/project/moise/</guid>
+      <guid>http://localhost:1313/project/moise/</guid>
       <description></description>
     </item>
     
