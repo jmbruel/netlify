@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hans Vangheluwe | Jean-Michel Bruel</title>
-    <link>http://localhost:1313/author/hans-vangheluwe/</link>
-      <atom:link href="http://localhost:1313/author/hans-vangheluwe/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jmbruell.netlify.app/author/hans-vangheluwe/</link>
+      <atom:link href="https://jmbruell.netlify.app/author/hans-vangheluwe/index.xml" rel="self" type="application/rss+xml" />
     <description>Hans Vangheluwe</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 - ACDC. Last update: May 2nd, 2025</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_1b4bcfdf7d67b990.png</url>
+      <url>https://jmbruell.netlify.app/media/icon_hu_1b4bcfdf7d67b990.png</url>
       <title>Hans Vangheluwe</title>
-      <link>http://localhost:1313/author/hans-vangheluwe/</link>
+      <link>https://jmbruell.netlify.app/author/hans-vangheluwe/</link>
     </image>
     
     <item>
       <title>Comparing and classifying model transformation reuse approaches across metamodels</title>
-      <link>http://localhost:1313/publication/dblp-journalssosym-bruel-cgjklmsv-20/</link>
+      <link>https://jmbruell.netlify.app/publication/dblp-journalssosym-bruel-cgjklmsv-20/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dblp-journalssosym-bruel-cgjklmsv-20/</guid>
+      <guid>https://jmbruell.netlify.app/publication/dblp-journalssosym-bruel-cgjklmsv-20/</guid>
       <description></description>
     </item>
     

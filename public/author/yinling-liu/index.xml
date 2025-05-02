@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yinling Liu | Jean-Michel Bruel</title>
-    <link>http://localhost:1313/author/yinling-liu/</link>
-      <atom:link href="http://localhost:1313/author/yinling-liu/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jmbruell.netlify.app/author/yinling-liu/</link>
+      <atom:link href="https://jmbruell.netlify.app/author/yinling-liu/index.xml" rel="self" type="application/rss+xml" />
     <description>Yinling Liu</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 - ACDC. Last update: May 2nd, 2025</copyright><lastBuildDate>Mon, 01 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 - ACDC. Last update: May 2nd, 2025</copyright>
     <image>
-      <url>http://localhost:1313/media/icon_hu_1b4bcfdf7d67b990.png</url>
+      <url>https://jmbruell.netlify.app/author/yinling-liu/avatar_hu_9a9eb21c2f1e8dd9.jpg</url>
       <title>Yinling Liu</title>
-      <link>http://localhost:1313/author/yinling-liu/</link>
+      <link>https://jmbruell.netlify.app/author/yinling-liu/</link>
     </image>
     
     <item>
-      <title>Modelling and Verification of Natural Language Requirements based on States and Modes</title>
-      <link>http://localhost:1313/publication/liu-hal-03941814/</link>
-      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/liu-hal-03941814/</guid>
+      <title>Yinling Liu</title>
+      <link>https://jmbruell.netlify.app/author/yinling-liu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jmbruell.netlify.app/author/yinling-liu/</guid>
       <description></description>
     </item>
     

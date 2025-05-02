@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Teaching | Jean-Michel Bruel</title>
-    <link>http://localhost:1313/tag/teaching/</link>
-      <atom:link href="http://localhost:1313/tag/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jmbruell.netlify.app/tag/teaching/</link>
+      <atom:link href="https://jmbruell.netlify.app/tag/teaching/index.xml" rel="self" type="application/rss+xml" />
     <description>Teaching</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 - ACDC. Last update: May 2nd, 2025</copyright><lastBuildDate>Wed, 17 Apr 2024 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_1b4bcfdf7d67b990.png</url>
+      <url>https://jmbruell.netlify.app/media/icon_hu_1b4bcfdf7d67b990.png</url>
       <title>Teaching</title>
-      <link>http://localhost:1313/tag/teaching/</link>
+      <link>https://jmbruell.netlify.app/tag/teaching/</link>
     </image>
     
     <item>
       <title>PEGS Approach Overview</title>
-      <link>http://localhost:1313/talk/20240417-innopolis/</link>
+      <link>https://jmbruell.netlify.app/talk/20240417-innopolis/</link>
       <pubDate>Wed, 17 Apr 2024 13:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/talk/20240417-innopolis/</guid>
+      <guid>https://jmbruell.netlify.app/talk/20240417-innopolis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Use of acceptance testing (BDD using Cucumber) in a DevOps</title>
-      <link>http://localhost:1313/talk/20220216-wsse22/</link>
+      <link>https://jmbruell.netlify.app/talk/20220216-wsse22/</link>
       <pubDate>Wed, 16 Feb 2022 11:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/talk/20220216-wsse22/</guid>
+      <guid>https://jmbruell.netlify.app/talk/20220216-wsse22/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Le Monde d’après 2020</title>
-      <link>http://localhost:1313/talk/20201204-cusi/</link>
+      <link>https://jmbruell.netlify.app/talk/20201204-cusi/</link>
       <pubDate>Fri, 11 Dec 2020 11:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/talk/20201204-cusi/</guid>
+      <guid>https://jmbruell.netlify.app/talk/20201204-cusi/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Globalization | Jean-Michel Bruel</title>
-    <link>http://localhost:1313/tag/globalization/</link>
-      <atom:link href="http://localhost:1313/tag/globalization/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jmbruell.netlify.app/tag/globalization/</link>
+      <atom:link href="https://jmbruell.netlify.app/tag/globalization/index.xml" rel="self" type="application/rss+xml" />
     <description>Globalization</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 - ACDC. Last update: May 2nd, 2025</copyright><lastBuildDate>Thu, 19 Oct 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_1b4bcfdf7d67b990.png</url>
+      <url>https://jmbruell.netlify.app/media/icon_hu_1b4bcfdf7d67b990.png</url>
       <title>Globalization</title>
-      <link>http://localhost:1313/tag/globalization/</link>
+      <link>https://jmbruell.netlify.app/tag/globalization/</link>
     </image>
     
     <item>
       <title>GEMOC Initiative</title>
-      <link>http://localhost:1313/project/gemoc/</link>
+      <link>https://jmbruell.netlify.app/project/gemoc/</link>
       <pubDate>Thu, 19 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/gemoc/</guid>
+      <guid>https://jmbruell.netlify.app/project/gemoc/</guid>
       <description></description>
     </item>
     

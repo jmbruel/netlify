@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Maroun Koussaifi | Jean-Michel Bruel</title>
-    <link>http://localhost:1313/author/maroun-koussaifi/</link>
-      <atom:link href="http://localhost:1313/author/maroun-koussaifi/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jmbruell.netlify.app/author/maroun-koussaifi/</link>
+      <atom:link href="https://jmbruell.netlify.app/author/maroun-koussaifi/index.xml" rel="self" type="application/rss+xml" />
     <description>Maroun Koussaifi</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 - ACDC. Last update: May 2nd, 2025</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_1b4bcfdf7d67b990.png</url>
+      <url>https://jmbruell.netlify.app/media/icon_hu_1b4bcfdf7d67b990.png</url>
       <title>Maroun Koussaifi</title>
-      <link>http://localhost:1313/author/maroun-koussaifi/</link>
+      <link>https://jmbruell.netlify.app/author/maroun-koussaifi/</link>
     </image>
     
     <item>
       <title>Model-Driven Engineering for End-Users in the Loop in Smart Ambient Systems</title>
-      <link>http://localhost:1313/publication/jucs-2021/</link>
+      <link>https://jmbruell.netlify.app/publication/jucs-2021/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/jucs-2021/</guid>
+      <guid>https://jmbruell.netlify.app/publication/jucs-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Emergence of Composite Services in Smart Environments</title>
-      <link>http://localhost:1313/publication/esof-poster2018/</link>
+      <link>https://jmbruell.netlify.app/publication/esof-poster2018/</link>
       <pubDate>Fri, 27 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/esof-poster2018/</guid>
+      <guid>https://jmbruell.netlify.app/publication/esof-poster2018/</guid>
       <description></description>
     </item>
     

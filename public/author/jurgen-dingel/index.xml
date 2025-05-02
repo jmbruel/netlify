@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jürgen Dingel | Jean-Michel Bruel</title>
-    <link>http://localhost:1313/author/jurgen-dingel/</link>
-      <atom:link href="http://localhost:1313/author/jurgen-dingel/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jmbruell.netlify.app/author/jurgen-dingel/</link>
+      <atom:link href="https://jmbruell.netlify.app/author/jurgen-dingel/index.xml" rel="self" type="application/rss+xml" />
     <description>Jürgen Dingel</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 - ACDC. Last update: May 2nd, 2025</copyright><lastBuildDate>Mon, 03 Oct 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_1b4bcfdf7d67b990.png</url>
+      <url>https://jmbruell.netlify.app/media/icon_hu_1b4bcfdf7d67b990.png</url>
       <title>Jürgen Dingel</title>
-      <link>http://localhost:1313/author/jurgen-dingel/</link>
+      <link>https://jmbruell.netlify.app/author/jurgen-dingel/</link>
     </image>
     
     <item>
       <title>Joint Proceedings of the 12th Educators Symposium (EduSymp 2016) and 3rd International Workshop on Open Source Software for Model Driven Engineering (OSS4MDE 2016)</title>
-      <link>http://localhost:1313/publication/models16/</link>
+      <link>https://jmbruell.netlify.app/publication/models16/</link>
       <pubDate>Mon, 03 Oct 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/models16/</guid>
+      <guid>https://jmbruell.netlify.app/publication/models16/</guid>
       <description></description>
     </item>
     

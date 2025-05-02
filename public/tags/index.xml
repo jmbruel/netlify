@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags | Jean-Michel Bruel</title>
-    <link>http://localhost:1313/tags/</link>
-      <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jmbruell.netlify.app/tags/</link>
+      <atom:link href="https://jmbruell.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 - ACDC. Last update: May 2nd, 2025</copyright><lastBuildDate>Thu, 17 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_1b4bcfdf7d67b990.png</url>
+      <url>https://jmbruell.netlify.app/media/icon_hu_1b4bcfdf7d67b990.png</url>
       <title>Tags</title>
-      <link>http://localhost:1313/tags/</link>
+      <link>https://jmbruell.netlify.app/tags/</link>
     </image>
     
   </channel>

@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Benoît Combemale | Jean-Michel Bruel</title>
-    <link>http://localhost:1313/author/benoit-combemale/</link>
-      <atom:link href="http://localhost:1313/author/benoit-combemale/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jmbruell.netlify.app/author/benoit-combemale/</link>
+      <atom:link href="https://jmbruell.netlify.app/author/benoit-combemale/index.xml" rel="self" type="application/rss+xml" />
     <description>Benoît Combemale</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 - ACDC. Last update: May 2nd, 2025</copyright>
     <image>
-      <url>http://localhost:1313/author/benoit-combemale/avatar_hu_e4e5bf511728b5e7.jpg</url>
+      <url>https://jmbruell.netlify.app/author/benoit-combemale/avatar_hu_e4e5bf511728b5e7.jpg</url>
       <title>Benoît Combemale</title>
-      <link>http://localhost:1313/author/benoit-combemale/</link>
+      <link>https://jmbruell.netlify.app/author/benoit-combemale/</link>
     </image>
     
     <item>
       <title>A Hitchhiker’s Guide to Model-Driven Engineering for Data-Centric Systems</title>
-      <link>http://localhost:1313/publication/9094197/</link>
+      <link>https://jmbruell.netlify.app/publication/9094197/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/9094197/</guid>
+      <guid>https://jmbruell.netlify.app/publication/9094197/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Comparing and classifying model transformation reuse approaches across metamodels</title>
-      <link>http://localhost:1313/publication/dblp-journalssosym-bruel-cgjklmsv-20/</link>
+      <link>https://jmbruell.netlify.app/publication/dblp-journalssosym-bruel-cgjklmsv-20/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dblp-journalssosym-bruel-cgjklmsv-20/</guid>
+      <guid>https://jmbruell.netlify.app/publication/dblp-journalssosym-bruel-cgjklmsv-20/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Toward model-driven sustainability evaluation</title>
-      <link>http://localhost:1313/publication/dblp-journalscacm-kienzle-mcbbbbbc-20/</link>
+      <link>https://jmbruell.netlify.app/publication/dblp-journalscacm-kienzle-mcbbbbbc-20/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dblp-journalscacm-kienzle-mcbbbbbc-20/</guid>
+      <guid>https://jmbruell.netlify.app/publication/dblp-journalscacm-kienzle-mcbbbbbc-20/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Benoît Combemale</title>
-      <link>http://localhost:1313/author/benoit-combemale/</link>
+      <link>https://jmbruell.netlify.app/author/benoit-combemale/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/author/benoit-combemale/</guid>
+      <guid>https://jmbruell.netlify.app/author/benoit-combemale/</guid>
       <description></description>
     </item>
     
