@@ -2,13 +2,14 @@
 # Some usefull instructions...
 #
 BIBLIO=biblio.bib
+PUBLIS=content/publication
 #-----------------------------------------------------
 
 # Generate articles from Bibtex entries. 
 # pip3 install -U academic
 biblio: 
 	@echo '==> Generating publication entries'
-	academic import --bibtex $(BIBLIO) -v 
+	academic import --bibtex -v $(BIBLIO) $(PUBLIS) 
 
 codecov:
 	@echo '==> Uploading code coverage reports'
