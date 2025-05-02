@@ -9,8 +9,8 @@ title: Identifying and fixing ambiguities in, and semantically accurate formalis
 authors:
 - Thuy Nguyen
 - Imen Sayar
-- Sophie Ebersold
-- Jean-Michel Bruel
+- sophie
+- jmb
 
 # Author notes (such as 'Equal Contribution')
 # A YAML list of notes for each author in the above `authors` list
@@ -38,13 +38,13 @@ abstract: ''
 summary: ''
 
 tags:
-- Requirements ; Formalisation ; k3 case study ; Models ; Disambiguation
+- Requirements ; Formalization ; k3 case study ; Models ; Disambiguation
 
 # Display this page in a list of Featured pages?
 featured: false
 
 # Links
-url_pdf: ''
+url_pdf: 'sosym2024-preprint.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''

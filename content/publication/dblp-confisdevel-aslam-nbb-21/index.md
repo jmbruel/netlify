@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Hamna Aslam
 - Alexandr Naumchev
-- Jean-Michel Bruel
+- jmb
 - Joseph Alexander Brown
 tags: []
 categories: []

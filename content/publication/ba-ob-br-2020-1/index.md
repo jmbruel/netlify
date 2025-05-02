@@ -8,7 +8,7 @@ summary: ''
 authors:
 - Ronan Baduel
 - Iulian Ober
-- Jean-Michel Bruel
+- jmb
 tags: []
 categories: []
 date: '2020-03-01'

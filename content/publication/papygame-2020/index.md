@@ -8,7 +8,7 @@ authors:
 - Antonio Bucchiarone
 - Maxime Savary-Leblanc
 - Xavier Le Pallec
-- Jean-Michel Bruel
+- jmb
 - Antonio Cicchetti
 - Jordi Cabot
 - Sebastien Gerard

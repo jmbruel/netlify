@@ -9,7 +9,7 @@ authors:
 - Andrey Sadovykh
 - Nan Messe
 - Sophie Ebersold
-- Jean-Michel Bruel
+- jmb
 tags: []
 categories: []
 date: '2022-01-01'

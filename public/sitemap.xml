@@ -59,16 +59,10 @@
     <loc>https://jmbruell.netlify.app/author/imen-sayar/</loc>
     <lastmod>2025-05-02T09:31:23+02:00</lastmod>
   </url><url>
-    <loc>https://jmbruell.netlify.app/author/jean-michel-bruel/</loc>
-    <lastmod>2025-05-02T09:31:23+02:00</lastmod>
-  </url><url>
     <loc>https://jmbruell.netlify.app/publication_types/</loc>
     <lastmod>2025-05-02T09:31:23+02:00</lastmod>
   </url><url>
-    <loc>https://jmbruell.netlify.app/tag/requirements-formalisation-k3-case-study-models-disambiguation/</loc>
-    <lastmod>2025-05-02T09:31:23+02:00</lastmod>
-  </url><url>
-    <loc>https://jmbruell.netlify.app/author/sophie-ebersold/</loc>
+    <loc>https://jmbruell.netlify.app/tag/requirements-formalization-k3-case-study-models-disambiguation/</loc>
     <lastmod>2025-05-02T09:31:23+02:00</lastmod>
   </url><url>
     <loc>https://jmbruell.netlify.app/author/thuy-nguyen/</loc>
@@ -121,6 +115,9 @@
   </url><url>
     <loc>https://jmbruell.netlify.app/publication/jot-issue-2023-01-article-3/</loc>
     <lastmod>2023-06-14T12:39:13+02:00</lastmod>
+  </url><url>
+    <loc>https://jmbruell.netlify.app/author/sophie-ebersold/</loc>
+    <lastmod>2025-03-09T16:11:00+01:00</lastmod>
   </url><url>
     <loc>https://jmbruell.netlify.app/tag/states-and-modes-requirements-modeling-and-verification-domain-specific-language-model-checking-states-and-modes-requirements-modeling-and-verification-domain-specific-language-model-checking/</loc>
     <lastmod>2023-11-24T10:30:51+01:00</lastmod>
@@ -507,6 +504,9 @@
     <lastmod>2020-10-19T16:39:44+02:00</lastmod>
   </url><url>
     <loc>https://jmbruell.netlify.app/author/hugo-bruneliere/</loc>
+    <lastmod>2020-10-19T16:39:44+02:00</lastmod>
+  </url><url>
+    <loc>https://jmbruell.netlify.app/author/jean-michel-bruel/</loc>
     <lastmod>2020-10-19T16:39:44+02:00</lastmod>
   </url><url>
     <loc>https://jmbruell.netlify.app/author/martin-gogolla/</loc>

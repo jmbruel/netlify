@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Alfredo Capozucca
-- Jean-Michel Bruel
+- jmb
 - Manuel Mazzara
 - Bertrand Meyer
 tags: []

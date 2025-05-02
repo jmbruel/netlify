@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Yinling Liu
-- Jean-Michel Bruel
+- jmb
 tags:
 - '"States and Modes Requirements Modeling and Verification Domain Specific Language
   Model checking ; States and Modes ; Requirements Modeling and Verification ; Domain

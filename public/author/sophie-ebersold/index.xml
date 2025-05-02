@@ -5,21 +5,12 @@
     <link>https://jmbruell.netlify.app/author/sophie-ebersold/</link>
       <atom:link href="https://jmbruell.netlify.app/author/sophie-ebersold/index.xml" rel="self" type="application/rss+xml" />
     <description>Sophie Ebersold</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 - ACDC. Last update: March 9th, 2025</copyright><lastBuildDate>Fri, 01 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 - ACDC. Last update: March 9th, 2025</copyright><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jmbruell.netlify.app/media/icon_hu_1b4bcfdf7d67b990.png</url>
       <title>Sophie Ebersold</title>
       <link>https://jmbruell.netlify.app/author/sophie-ebersold/</link>
     </image>
-    
-    <item>
-      <title>Identifying and fixing ambiguities in, and semantically accurate formalisation of, behavioural requirements</title>
-      <link>https://jmbruell.netlify.app/publication/nguyen-hal-04525414/</link>
-      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://jmbruell.netlify.app/publication/nguyen-hal-04525414/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>Object-Oriented Requirements: a Unified Framework for Specifications, Scenarios and Tests</title>

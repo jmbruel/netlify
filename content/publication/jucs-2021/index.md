@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Sylvie Trouilhet
 - Jean-Paul Arcangeli
-- Jean-Michel Bruel
+- jmb
 - Maroun Koussaifi
 tags: []
 categories: []

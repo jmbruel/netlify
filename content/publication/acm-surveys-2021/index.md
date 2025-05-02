@@ -5,7 +5,7 @@ title: The Role of Formalism in System Requirements
 subtitle: ''
 summary: ''
 authors:
-- Jean-Michel Bruel
+- jmb
 - Sophie Ebersold
 - Florian Galinier
 - Manuel Mazzara

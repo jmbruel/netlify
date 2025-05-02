@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Mika Pons
-- Jean-Michel Bruel
+- jmb
 - Jean-Baptiste Raclet
 - Franck Silvestre
 tags:

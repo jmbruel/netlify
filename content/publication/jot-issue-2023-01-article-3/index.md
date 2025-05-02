@@ -9,7 +9,7 @@ authors:
 - Maria Naumcheva
 - Sophie Ebersold
 - Alexandr Naumchev
-- Jean-Michel Bruel
+- jmb
 - Florian Galinier
 - Bertrand Meyer
 tags: []

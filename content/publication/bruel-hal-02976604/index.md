@@ -5,7 +5,7 @@ date: '2019-01-01'
 draft: true
 publishDate: '2020-12-18T15:21:58.030688Z'
 authors:
-- Jean-Michel Bruel
+- jmb
 - Manuel Mazzara
 - Bertrand Meyer
 publication_types:
