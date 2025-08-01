@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Multirequirements | Jean-Michel Bruel</title>
-    <link>https://jmbruell.netlify.app/tag/multirequirements/</link>
-      <atom:link href="https://jmbruell.netlify.app/tag/multirequirements/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tag/multirequirements/</link>
+      <atom:link href="http://localhost:1313/tag/multirequirements/index.xml" rel="self" type="application/rss+xml" />
     <description>Multirequirements</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 - ACDC. Last update: May 2nd, 2025</copyright><lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jmbruell.netlify.app/media/icon_hu_1b4bcfdf7d67b990.png</url>
+      <url>http://localhost:1313/media/icon_hu_1b4bcfdf7d67b990.png</url>
       <title>Multirequirements</title>
-      <link>https://jmbruell.netlify.app/tag/multirequirements/</link>
+      <link>http://localhost:1313/tag/multirequirements/</link>
     </image>
     
     <item>
       <title>AutoReq: expressing and verifying requirements for control systems</title>
-      <link>https://jmbruell.netlify.app/publication/na-me-ga-br-ma-eb-2019-1/</link>
+      <link>http://localhost:1313/publication/na-me-ga-br-ma-eb-2019-1/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://jmbruell.netlify.app/publication/na-me-ga-br-ma-eb-2019-1/</guid>
+      <guid>http://localhost:1313/publication/na-me-ga-br-ma-eb-2019-1/</guid>
       <description></description>
     </item>
     

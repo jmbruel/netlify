@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>FUN | Jean-Michel Bruel</title>
-    <link>https://jmbruell.netlify.app/tag/fun/</link>
-      <atom:link href="https://jmbruell.netlify.app/tag/fun/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tag/fun/</link>
+      <atom:link href="http://localhost:1313/tag/fun/index.xml" rel="self" type="application/rss+xml" />
     <description>FUN</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 - ACDC. Last update: May 2nd, 2025</copyright><lastBuildDate>Wed, 21 Oct 2020 18:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jmbruell.netlify.app/media/icon_hu_1b4bcfdf7d67b990.png</url>
+      <url>http://localhost:1313/media/icon_hu_1b4bcfdf7d67b990.png</url>
       <title>FUN</title>
-      <link>https://jmbruell.netlify.app/tag/fun/</link>
+      <link>http://localhost:1313/tag/fun/</link>
     </image>
     
     <item>
       <title>Papyrus for gamers, let&#39;s play modeling (Best Demo Award!)</title>
-      <link>https://jmbruell.netlify.app/talk/20201021-modelsdemo/</link>
+      <link>http://localhost:1313/talk/20201021-modelsdemo/</link>
       <pubDate>Wed, 21 Oct 2020 18:00:00 +0000</pubDate>
-      <guid>https://jmbruell.netlify.app/talk/20201021-modelsdemo/</guid>
+      <guid>http://localhost:1313/talk/20201021-modelsdemo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>FUN Modeling</title>
-      <link>https://jmbruell.netlify.app/project/fun/</link>
+      <link>http://localhost:1313/project/fun/</link>
       <pubDate>Mon, 19 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://jmbruell.netlify.app/project/fun/</guid>
+      <guid>http://localhost:1313/project/fun/</guid>
       <description>&lt;p&gt;This (internal) project groups all the initiative related to placing the (final) user as the priority target of the models.&lt;/p&gt;
 &lt;p&gt;Here are some examples:&lt;/p&gt;
 &lt;ul&gt;
@@ -37,33 +37,33 @@
     
     <item>
       <title>Automated user-oriented description of emerging composite ambient applications</title>
-      <link>https://jmbruell.netlify.app/publication/ko-2019-2/</link>
+      <link>http://localhost:1313/publication/ko-2019-2/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://jmbruell.netlify.app/publication/ko-2019-2/</guid>
+      <guid>http://localhost:1313/publication/ko-2019-2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>GEMOC Initiative</title>
-      <link>https://jmbruell.netlify.app/project/gemoc/</link>
+      <link>http://localhost:1313/project/gemoc/</link>
       <pubDate>Thu, 19 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>https://jmbruell.netlify.app/project/gemoc/</guid>
+      <guid>http://localhost:1313/project/gemoc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hamna Aslam</title>
-      <link>https://jmbruell.netlify.app/author/hamna-aslam/</link>
+      <link>http://localhost:1313/author/hamna-aslam/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://jmbruell.netlify.app/author/hamna-aslam/</guid>
+      <guid>http://localhost:1313/author/hamna-aslam/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Maroun Koussaifi</title>
-      <link>https://jmbruell.netlify.app/author/maroun-koussaifi/</link>
+      <link>http://localhost:1313/author/maroun-koussaifi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://jmbruell.netlify.app/author/maroun-koussaifi/</guid>
+      <guid>http://localhost:1313/author/maroun-koussaifi/</guid>
       <description></description>
     </item>
     

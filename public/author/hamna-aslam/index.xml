@@ -2,37 +2,43 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hamna Aslam | Jean-Michel Bruel</title>
-    <link>https://jmbruell.netlify.app/author/hamna-aslam/</link>
-      <atom:link href="https://jmbruell.netlify.app/author/hamna-aslam/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/hamna-aslam/</link>
+      <atom:link href="http://localhost:1313/author/hamna-aslam/index.xml" rel="self" type="application/rss+xml" />
     <description>Hamna Aslam</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 - ACDC. Last update: May 2nd, 2025</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 - ACDC. Last update: May 2nd, 2025</copyright>
     <image>
-      <url>https://jmbruell.netlify.app/media/icon_hu_1b4bcfdf7d67b990.png</url>
+      <url>http://localhost:1313/author/hamna-aslam/avatar_hu_4b8625938d1d3f5b.png</url>
       <title>Hamna Aslam</title>
-      <link>https://jmbruell.netlify.app/author/hamna-aslam/</link>
+      <link>http://localhost:1313/author/hamna-aslam/</link>
     </image>
     
     <item>
-      <title>Examining Requirements Documentation through the Focused Conversation Method</title>
-      <link>https://jmbruell.netlify.app/publication/dblp-confisdevel-aslam-nbb-21/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://jmbruell.netlify.app/publication/dblp-confisdevel-aslam-nbb-21/</guid>
+      <title>Reflections on Teaching Formal Methods for Software Development in Higher Education</title>
+      <link>http://localhost:1313/publication/dblp-conffisee-khazeev-acmbb-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dblp-conffisee-khazeev-acmbb-19/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Papyrus for gamers, let&#39;s play modeling (Best Demo Award!)</title>
-      <link>https://jmbruell.netlify.app/talk/20201021-modelsdemo/</link>
-      <pubDate>Wed, 21 Oct 2020 18:00:00 +0000</pubDate>
-      <guid>https://jmbruell.netlify.app/talk/20201021-modelsdemo/</guid>
+      <title>Hamna Aslam</title>
+      <link>http://localhost:1313/author/hamna-aslam/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/author/hamna-aslam/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
+20201021-modelsdemo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Papyrus for Gamers, Let&#39;s Play Modeling</title>
-      <link>https://jmbruell.netlify.app/publication/papygame-2020/</link>
+      <link>http://localhost:1313/publication/papygame-2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://jmbruell.netlify.app/publication/papygame-2020/</guid>
+      <guid>http://localhost:1313/publication/papygame-2020/</guid>
       <description></description>
     </item>
     

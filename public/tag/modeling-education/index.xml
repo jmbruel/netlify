@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>&#34;Modeling Education&#34; | Jean-Michel Bruel</title>
-    <link>https://jmbruell.netlify.app/tag/modeling-education/</link>
-      <atom:link href="https://jmbruell.netlify.app/tag/modeling-education/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tag/modeling-education/</link>
+      <atom:link href="http://localhost:1313/tag/modeling-education/index.xml" rel="self" type="application/rss+xml" />
     <description>&#34;Modeling Education&#34;</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 - ACDC. Last update: May 2nd, 2025</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jmbruell.netlify.app/media/icon_hu_1b4bcfdf7d67b990.png</url>
+      <url>http://localhost:1313/media/icon_hu_1b4bcfdf7d67b990.png</url>
       <title>&#34;Modeling Education&#34;</title>
-      <link>https://jmbruell.netlify.app/tag/modeling-education/</link>
+      <link>http://localhost:1313/tag/modeling-education/</link>
     </image>
     
     <item>
       <title>Papyrus for Gamers, Let&#39;s Play Modeling</title>
-      <link>https://jmbruell.netlify.app/publication/papygame-2020/</link>
+      <link>http://localhost:1313/publication/papygame-2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://jmbruell.netlify.app/publication/papygame-2020/</guid>
+      <guid>http://localhost:1313/publication/papygame-2020/</guid>
       <description></description>
     </item>
     
