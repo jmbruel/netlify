@@ -20,16 +20,16 @@ all_day: false
 publishDate: "2020-10-22T00:00:00Z"
 
 authors: 
-  - Antonion Bucchiarone
-  - Maxime Savary-Leblanc
-  - Xavier Le Pallec
+  - "Antonion Bucchiarone"
+  - "Maxime Savary-Leblanc"
+  - "Xavier Le Pallec"
   - jmb
-  - Antonio Cicchetti
-  - Jordi Cabot
-  - Sebastien Gérard
-  - Hamna Aslam
-  - Annapaola Marconi
-  - Mirko Perillo
+  - "Antonio Cicchetti"
+  - "Jordi Cabot"
+  - "Sebastien Gérard"
+  - hamna
+  - "Annapaola Marconi"
+  - "Mirko Perillo"
 
 tags: [FUN, Papyrus, Gamification]
 

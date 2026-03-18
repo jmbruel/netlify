@@ -6,30 +6,30 @@ subtitle: ''
 summary: ''
 authors:
 - benoit
-- J. A. Kienzle
-- G. Mussbacher
-- H. Ali
-- D. Amyot
-- M. Bagherzadeh
-- E. Batot
-- N. Bencomo
-- B. Benni
+- "J. A. Kienzle"
+- "G. Mussbacher"
+- "H. Ali"
+- "D. Amyot"
+- "M. Bagherzadeh"
+- "E. Batot"
+- "N. Bencomo"
+- "B. Benni"
 - jmb
-- J. Cabot
-- B. H. C. Cheng
-- P. Collet
-- G. Engels
-- R. Heinrich
-- J. Jezequel
-- A. Koziolek
-- S. Mosser
-- R. Reussner
-- H. Sahraoui
-- R. Saini
-- J. Sallou
-- S. Stinckwich
-- E. Syriani
-- M. Wimmer
+- "J. Cabot"
+- "B. H. C. Cheng"
+- "P. Collet"
+- "G. Engels"
+- "R. Heinrich"
+- "J.-M. Jezequel"
+- "A. Koziolek"
+- "S. Mosser"
+- "R. Reussner"
+- "H. Sahraoui"
+- "R. Saini"
+- "J. Sallou"
+- "S. Stinckwich"
+- "E. Syriani"
+- "M. Wimmer" 
 tags:
 - 'MDE'
 categories: []

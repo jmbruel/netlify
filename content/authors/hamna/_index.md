@@ -25,7 +25,7 @@ note: "Co-directed with Dr. Joseph Brown."
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Co-directed with Dr. Joseph Brown.
+#bio: Co-directed with Dr. Joseph Brown.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

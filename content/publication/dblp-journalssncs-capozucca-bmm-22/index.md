@@ -5,10 +5,10 @@ title: Special Issue on New Paradigms of Software Production and Deployment
 subtitle: ''
 summary: ''
 authors:
-- Alfredo Capozucca
+- "Alfredo Capozucca"
 - jmb
-- Manuel Mazzara
-- Bertrand Meyer
+- "Manuel Mazzara"
+- bertrand
 tags: []
 categories: []
 date: '2022-01-01'

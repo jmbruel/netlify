@@ -5,10 +5,10 @@ title: RQCODE - Towards Object-Oriented Requirements in the Software Security Do
 subtitle: ''
 summary: ''
 authors:
-- Ildar Nigmatullin
-- Andrey Sadovykh
-- Nan Messe
-- Sophie Ebersold
+- "Ildar Nigmatullin"
+- "Andrey Sadovykh"
+- nan
+- sophie
 - jmb
 tags: []
 categories: []

@@ -6,8 +6,8 @@ title: Modeling and verification method for an early evaluation of Systems of Sy
 subtitle: ''
 summary: ''
 authors:
-- Ronan Baduel
-- Iulian Ober
+- ronan
+- "Iulian Ober"
 - jmb
 tags: []
 categories: []

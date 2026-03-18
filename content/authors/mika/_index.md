@@ -22,7 +22,7 @@ bio: Ph.D. thesis on "Technology Enhanced Learning"
 #   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Co-directed with Franck Silvestre and Jean-Baptiste Raclet.
+#bio: Co-directed with Franck Silvestre and Jean-Baptiste Raclet.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

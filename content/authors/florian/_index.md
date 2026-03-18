@@ -26,7 +26,7 @@ organizations:
   url: "https://spilen.fr/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Co-directed with Bertrand Meyer and Sophie Ebersold
+#bio: Co-directed with Bertrand Meyer and Sophie Ebersold
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

@@ -25,7 +25,7 @@ external_link: "https://www.researchgate.net/profile/Yinling-Liu"
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Ph.D. thesis on Aircraft maintenance information system design and verification
+# bio: Ph.D. thesis on Aircraft maintenance information system design and verification
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

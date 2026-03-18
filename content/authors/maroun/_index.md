@@ -27,7 +27,7 @@ external_link: ""
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Co-directed with Jean-Paul Archangeli and Sylvie Trouilhet.
+#bio: Co-directed with Jean-Paul Archangeli and Sylvie Trouilhet.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
