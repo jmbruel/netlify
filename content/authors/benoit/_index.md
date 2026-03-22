@@ -17,7 +17,7 @@ organizations:
 - name: Université Rennes 1
   url: "https://international.univ-rennes1.fr/en"
 # Short bio (displayed in user profile at end of posts)
-bio: 
+#bio: 
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

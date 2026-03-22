@@ -20,7 +20,7 @@ all_day: false
 publishDate: "2020-10-22T00:00:00Z"
 
 authors: 
-  - "Antonion Bucchiarone"
+  - "Antonio Bucchiarone"
   - "Maxime Savary-Leblanc"
   - "Xavier Le Pallec"
   - jmb

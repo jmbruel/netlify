@@ -67,7 +67,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-You can also access to:
+You can also access:
 
 - the <a href="http://www.irit.fr/-Publications-?code=528&amp;nom=Bruel%20Jean-Michel">official list</a> from my lab (up to date, but only related to it)
 - <a href="https://dblp.org/pid/51/3120.html">DBLP</a> Server (24 journals, 84 conference papers referenced, with 188 different co-authors, on 2025/11/18)
