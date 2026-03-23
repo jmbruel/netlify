@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>V&amp;V | Jean-Michel Bruel</title>
-    <link>/tag/vv/</link>
-      <atom:link href="/tag/vv/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:1313/tag/vv/</link>
+      <atom:link href="//localhost:1313/tag/vv/index.xml" rel="self" type="application/rss+xml" />
     <description>V&amp;V</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 23 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/media/icon_hu_3405813888f6bb95.png</url>
+      <url>//localhost:1313/media/icon_hu_3405813888f6bb95.png</url>
       <title>V&amp;V</title>
-      <link>/tag/vv/</link>
+      <link>//localhost:1313/tag/vv/</link>
     </image>
     
     <item>
       <title>Chaire Industrielle</title>
-      <link>/project/airbus/</link>
+      <link>//localhost:1313/project/airbus/</link>
       <pubDate>Fri, 23 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>/project/airbus/</guid>
+      <guid>//localhost:1313/project/airbus/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Modeling and verification method for an early evaluation of systems of systems interactions</title>
-      <link>/publication/dblp-confsac-baduel-ob-20/</link>
+      <link>//localhost:1313/publication/dblp-confsac-baduel-ob-20/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/dblp-confsac-baduel-ob-20/</guid>
+      <guid>//localhost:1313/publication/dblp-confsac-baduel-ob-20/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SysML Models Verification and Validation in an Industrial Context: Challenges and Experimentation</title>
-      <link>/publication/ecmfa18/</link>
+      <link>//localhost:1313/publication/ecmfa18/</link>
       <pubDate>Tue, 26 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/ecmfa18/</guid>
+      <guid>//localhost:1313/publication/ecmfa18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MBSE &amp; Early Validation</title>
-      <link>/project/bombardier/</link>
+      <link>//localhost:1313/project/bombardier/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>/project/bombardier/</guid>
+      <guid>//localhost:1313/project/bombardier/</guid>
       <description></description>
     </item>
     

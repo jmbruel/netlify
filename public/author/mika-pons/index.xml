@@ -2,9 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mika Pons | Jean-Michel Bruel</title>
-    <link>/author/mika-pons/</link>
-      <atom:link href="/author/mika-pons/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:1313/author/mika-pons/</link>
+      <atom:link href="//localhost:1313/author/mika-pons/index.xml" rel="self" type="application/rss+xml" />
     <description>Mika Pons</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Traçabilité by design : conception d&#39;un système interactif pour améliorer la génération automatique de traces Git pendant une activité d&#39;apprentissage</title>
+      <link>//localhost:1313/publication/pons-hal-04144980/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/pons-hal-04144980/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

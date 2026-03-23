@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jacob Geisel | Jean-Michel Bruel</title>
-    <link>/author/jacob-geisel/</link>
-      <atom:link href="/author/jacob-geisel/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:1313/author/jacob-geisel/</link>
+      <atom:link href="//localhost:1313/author/jacob-geisel/index.xml" rel="self" type="application/rss+xml" />
     <description>Jacob Geisel</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
   </channel>

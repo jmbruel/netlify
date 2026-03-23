@@ -1,38 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>FUN | Jean-Michel Bruel</title>
-    <link>/tag/fun/</link>
-      <atom:link href="/tag/fun/index.xml" rel="self" type="application/rss+xml" />
-    <description>FUN</description>
+    <title>Fun | Jean-Michel Bruel</title>
+    <link>//localhost:1313/tag/fun/</link>
+      <atom:link href="//localhost:1313/tag/fun/index.xml" rel="self" type="application/rss+xml" />
+    <description>Fun</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 21 Oct 2020 18:00:00 +0000</lastBuildDate>
     <image>
-      <url>/media/icon_hu_3405813888f6bb95.png</url>
-      <title>FUN</title>
-      <link>/tag/fun/</link>
+      <url>//localhost:1313/media/icon_hu_3405813888f6bb95.png</url>
+      <title>Fun</title>
+      <link>//localhost:1313/tag/fun/</link>
     </image>
     
     <item>
       <title>Hamna Aslam</title>
-      <link>/author/hamna-aslam/</link>
+      <link>//localhost:1313/author/hamna-aslam/</link>
       <pubDate>Wed, 21 Oct 2020 18:00:00 +0000</pubDate>
-      <guid>/author/hamna-aslam/</guid>
+      <guid>//localhost:1313/author/hamna-aslam/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Papyrus for gamers, let&#39;s play modeling (Best Demo Award!)</title>
-      <link>/talk/20201021-modelsdemo/</link>
+      <link>//localhost:1313/talk/20201021-modelsdemo/</link>
       <pubDate>Wed, 21 Oct 2020 18:00:00 +0000</pubDate>
-      <guid>/talk/20201021-modelsdemo/</guid>
+      <guid>//localhost:1313/talk/20201021-modelsdemo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>FUN Modeling</title>
-      <link>/project/fun/</link>
+      <link>//localhost:1313/project/fun/</link>
       <pubDate>Mon, 19 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>/project/fun/</guid>
+      <guid>//localhost:1313/project/fun/</guid>
       <description>&lt;p&gt;This (internal) project groups all the initiative related to placing the (final) user as the priority target of the models.&lt;/p&gt;
 &lt;p&gt;Here are some examples:&lt;/p&gt;
 &lt;ul&gt;
@@ -45,25 +45,25 @@
     
     <item>
       <title>Automated user-oriented description of emerging composite ambient applications</title>
-      <link>/publication/ko-2019-2/</link>
+      <link>//localhost:1313/publication/ko-2019-2/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/ko-2019-2/</guid>
+      <guid>//localhost:1313/publication/ko-2019-2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Maroun Koussaifi</title>
-      <link>/author/maroun-koussaifi/</link>
+      <link>//localhost:1313/author/maroun-koussaifi/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>/author/maroun-koussaifi/</guid>
+      <guid>//localhost:1313/author/maroun-koussaifi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>GEMOC Initiative</title>
-      <link>/project/gemoc/</link>
+      <link>//localhost:1313/project/gemoc/</link>
       <pubDate>Thu, 19 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>/project/gemoc/</guid>
+      <guid>//localhost:1313/project/gemoc/</guid>
       <description></description>
     </item>
     

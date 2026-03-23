@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ontology | Jean-Michel Bruel</title>
-    <link>/tag/ontology/</link>
-      <atom:link href="/tag/ontology/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:1313/tag/ontology/</link>
+      <atom:link href="//localhost:1313/tag/ontology/index.xml" rel="self" type="application/rss+xml" />
     <description>Ontology</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 23 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/media/icon_hu_3405813888f6bb95.png</url>
+      <url>//localhost:1313/media/icon_hu_3405813888f6bb95.png</url>
       <title>Ontology</title>
-      <link>/tag/ontology/</link>
+      <link>//localhost:1313/tag/ontology/</link>
     </image>
     
     <item>
       <title>Chaire Industrielle</title>
-      <link>/project/airbus/</link>
+      <link>//localhost:1313/project/airbus/</link>
       <pubDate>Fri, 23 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>/project/airbus/</guid>
+      <guid>//localhost:1313/project/airbus/</guid>
       <description></description>
     </item>
     
