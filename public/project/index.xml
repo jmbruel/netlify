@@ -1,7 +1,90 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Projects | Jean-Michel Bruel</title><link>/project/</link><atom:link href="/project/index.xml" rel="self" type="application/rss+xml"/><description>Projects</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 17 Apr 2025 00:00:00 +0000</lastBuildDate><item><title>SEAN</title><link>/project/sean/</link><pubDate>Thu, 17 Apr 2025 00:00:00 +0000</pubDate><guid>/project/sean/</guid><description>&lt;p&gt;The Software Engineering Awareness Network is an international network funded for 5 years (2025-2030) by CNRS Informatics under the International Research Network program.&lt;/p&gt;</description></item><item><title>FATES-MLOps</title><link>/project/anr-fates-mlops/</link><pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate><guid>/project/anr-fates-mlops/</guid><description/></item><item><title>Chaire Industrielle</title><link>/project/airbus/</link><pubDate>Fri, 23 Oct 2020 00:00:00 +0000</pubDate><guid>/project/airbus/</guid><description/></item><item><title>Formal Requirements</title><link>/project/innopolis/</link><pubDate>Mon, 19 Oct 2020 00:00:00 +0000</pubDate><guid>/project/innopolis/</guid><description/></item><item><title>FUN Modeling</title><link>/project/fun/</link><pubDate>Mon, 19 Oct 2020 00:00:00 +0000</pubDate><guid>/project/fun/</guid><description>&lt;p&gt;This (internal) project groups all the initiative related to placing the (final) user as the priority target of the models.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Jean-Michel Bruel</title>
+    <link>/project/</link>
+      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 17 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>SEAN</title>
+      <link>/project/sean/</link>
+      <pubDate>Thu, 17 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>/project/sean/</guid>
+      <description>&lt;p&gt;The Software Engineering Awareness Network is an international network funded for 5 years (2025-2030) by CNRS Informatics under the International Research Network program.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>FATES-MLOps</title>
+      <link>/project/anr-fates-mlops/</link>
+      <pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/project/anr-fates-mlops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chaire Industrielle</title>
+      <link>/project/airbus/</link>
+      <pubDate>Fri, 23 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/project/airbus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Formal Requirements</title>
+      <link>/project/innopolis/</link>
+      <pubDate>Mon, 19 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/project/innopolis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FUN Modeling</title>
+      <link>/project/fun/</link>
+      <pubDate>Mon, 19 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/project/fun/</guid>
+      <description>&lt;p&gt;This (internal) project groups all the initiative related to placing the (final) user as the priority target of the models.&lt;/p&gt;
 &lt;p&gt;Here are some examples:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Maroun&amp;rsquo;s PhD thesis: Interactive Control Environment: &lt;a href="https://github.com/marounkoussaifi/ICE" target="_blank" rel="noopener"&gt;https://github.com/marounkoussaifi/ICE&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Git4School: &lt;a href="https://gitlab.com/jeroli.co/git-supervisor" target="_blank" rel="noopener"&gt;https://gitlab.com/jeroli.co/git-supervisor&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Git Supervisor: &lt;a href="https://github.com/git4school/git4school-visu" target="_blank" rel="noopener"&gt;https://github.com/git4school/git4school-visu&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description></item><item><title>BASAALT</title><link>/project/basaalt/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>/project/basaalt/</guid><description/></item><item><title>MBSE &amp; Early Validation</title><link>/project/bombardier/</link><pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate><guid>/project/bombardier/</guid><description/></item><item><title>GEMOC Initiative</title><link>/project/gemoc/</link><pubDate>Thu, 19 Oct 2017 00:00:00 +0000</pubDate><guid>/project/gemoc/</guid><description/></item><item><title>Moise</title><link>/project/moise/</link><pubDate>Thu, 19 Oct 2017 00:00:00 +0000</pubDate><guid>/project/moise/</guid><description/></item></channel></rss>
+&lt;li&gt;Maroun&amp;rsquo;s PhD thesis: Interactive Control Environment: &lt;a href=&#34;https://github.com/marounkoussaifi/ICE&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/marounkoussaifi/ICE&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Git4School: &lt;a href=&#34;https://gitlab.com/jeroli.co/git-supervisor&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://gitlab.com/jeroli.co/git-supervisor&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Git Supervisor: &lt;a href=&#34;https://github.com/git4school/git4school-visu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/git4school/git4school-visu&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>BASAALT</title>
+      <link>/project/basaalt/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/project/basaalt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MBSE &amp; Early Validation</title>
+      <link>/project/bombardier/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>/project/bombardier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GEMOC Initiative</title>
+      <link>/project/gemoc/</link>
+      <pubDate>Thu, 19 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>/project/gemoc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Moise</title>
+      <link>/project/moise/</link>
+      <pubDate>Thu, 19 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>/project/moise/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

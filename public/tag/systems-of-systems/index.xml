@@ -1,1 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Systems of Systems | Jean-Michel Bruel</title><link>/tag/systems-of-systems/</link><atom:link href="/tag/systems-of-systems/index.xml" rel="self" type="application/rss+xml"/><description>Systems of Systems</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate><item><title>Modeling and verification method for an early evaluation of systems of systems interactions</title><link>/publication/dblp-confsac-baduel-ob-20/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>/publication/dblp-confsac-baduel-ob-20/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Systems of Systems | Jean-Michel Bruel</title>
+    <link>/tag/systems-of-systems/</link>
+      <atom:link href="/tag/systems-of-systems/index.xml" rel="self" type="application/rss+xml" />
+    <description>Systems of Systems</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Modeling and verification method for an early evaluation of systems of systems interactions</title>
+      <link>/publication/dblp-confsac-baduel-ob-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/dblp-confsac-baduel-ob-20/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

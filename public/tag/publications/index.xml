@@ -1,8 +1,90 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Publications | Jean-Michel Bruel</title><link>/tag/publications/</link><atom:link href="/tag/publications/index.xml" rel="self" type="application/rss+xml"/><description>Publications</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 10 Oct 2018 00:00:00 +0000</lastBuildDate><item><title>Model-Driven Engineering for Design-Runtime Interaction in Complex Systems: Scientific Challenges and Roadmap</title><link>/publication/staf18/</link><pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate><guid>/publication/staf18/</guid><description>&lt;!-- authors = ["Hugo Bruneliere",
-"Romina Eramo",
-"Abel Gomez",
-"Valentin Besnard",
-"Jean-Michel Bruel",
-"Martin Gogolla",
-"Andreas Kästner",
-"Adrian Rutle"] --&gt;</description></item><item><title>Emergence of Composite Services in Smart Environments</title><link>/publication/esof-poster2018/</link><pubDate>Fri, 27 Jul 2018 00:00:00 +0000</pubDate><guid>/publication/esof-poster2018/</guid><description/></item><item><title>How to handle environmental uncertainty in goal-based requirements engineering</title><link>/publication/icse-poster2018/</link><pubDate>Fri, 27 Jul 2018 00:00:00 +0000</pubDate><guid>/publication/icse-poster2018/</guid><description/></item><item><title>Towards a Requirements Engineering Approach for capturing Uncertainty in Cyber-Physical Systems Environment</title><link>/publication/iwcfs18/</link><pubDate>Tue, 03 Jul 2018 00:00:00 +0000</pubDate><guid>/publication/iwcfs18/</guid><description/></item><item><title>Requirements Specific Modeling Language : un langage formel d'expression d'exigences</title><link>/publication/ciel18/</link><pubDate>Wed, 27 Jun 2018 00:00:00 +0000</pubDate><guid>/publication/ciel18/</guid><description/></item><item><title>SysML Models Verification and Validation in an Industrial Context: Challenges and Experimentation</title><link>/publication/ecmfa18/</link><pubDate>Tue, 26 Jun 2018 00:00:00 +0000</pubDate><guid>/publication/ecmfa18/</guid><description/></item><item><title>Ambient Intelligence Users in the Loop: Towards a Model-Driven Approach</title><link>/publication/mse18/</link><pubDate>Mon, 25 Jun 2018 00:00:00 +0000</pubDate><guid>/publication/mse18/</guid><description/></item><item><title>Modeling Co-simulation: A First Experiment</title><link>/publication/gemoc2017/</link><pubDate>Fri, 27 Oct 2017 00:00:00 +0000</pubDate><guid>/publication/gemoc2017/</guid><description/></item><item><title>Joint Proceedings of the 12th Educators Symposium (EduSymp 2016) and 3rd International Workshop on Open Source Software for Model Driven Engineering (OSS4MDE 2016)</title><link>/publication/models16/</link><pubDate>Mon, 03 Oct 2016 00:00:00 +0000</pubDate><guid>/publication/models16/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Jean-Michel Bruel</title>
+    <link>/tag/publications/</link>
+      <atom:link href="/tag/publications/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 10 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Model-Driven Engineering for Design-Runtime Interaction in Complex Systems: Scientific Challenges and Roadmap</title>
+      <link>/publication/staf18/</link>
+      <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/staf18/</guid>
+      <description>&lt;!-- authors = [&#34;Hugo Bruneliere&#34;,
+            &#34;Romina Eramo&#34;,
+            &#34;Abel Gomez&#34;,
+            &#34;Valentin Besnard&#34;,
+            &#34;Jean-Michel Bruel&#34;,
+            &#34;Martin Gogolla&#34;,
+            &#34;Andreas Kästner&#34;,
+            &#34;Adrian Rutle&#34;] --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Emergence of Composite Services in Smart Environments</title>
+      <link>/publication/esof-poster2018/</link>
+      <pubDate>Fri, 27 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/esof-poster2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to handle environmental uncertainty in goal-based requirements engineering</title>
+      <link>/publication/icse-poster2018/</link>
+      <pubDate>Fri, 27 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/icse-poster2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards a Requirements Engineering Approach for capturing Uncertainty in Cyber-Physical Systems Environment</title>
+      <link>/publication/iwcfs18/</link>
+      <pubDate>Tue, 03 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/iwcfs18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Requirements Specific Modeling Language : un langage formel d&#39;expression d&#39;exigences</title>
+      <link>/publication/ciel18/</link>
+      <pubDate>Wed, 27 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/ciel18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SysML Models Verification and Validation in an Industrial Context: Challenges and Experimentation</title>
+      <link>/publication/ecmfa18/</link>
+      <pubDate>Tue, 26 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/ecmfa18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ambient Intelligence Users in the Loop: Towards a Model-Driven Approach</title>
+      <link>/publication/mse18/</link>
+      <pubDate>Mon, 25 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/mse18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling Co-simulation: A First Experiment</title>
+      <link>/publication/gemoc2017/</link>
+      <pubDate>Fri, 27 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/gemoc2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint Proceedings of the 12th Educators Symposium (EduSymp 2016) and 3rd International Workshop on Open Source Software for Model Driven Engineering (OSS4MDE 2016)</title>
+      <link>/publication/models16/</link>
+      <pubDate>Mon, 03 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/models16/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

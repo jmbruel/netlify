@@ -1,1 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Workbench | Jean-Michel Bruel</title><link>/tag/workbench/</link><atom:link href="/tag/workbench/index.xml" rel="self" type="application/rss+xml"/><description>Workbench</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 19 Oct 2017 00:00:00 +0000</lastBuildDate><item><title>GEMOC Initiative</title><link>/project/gemoc/</link><pubDate>Thu, 19 Oct 2017 00:00:00 +0000</pubDate><guid>/project/gemoc/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Workbench | Jean-Michel Bruel</title>
+    <link>/tag/workbench/</link>
+      <atom:link href="/tag/workbench/index.xml" rel="self" type="application/rss+xml" />
+    <description>Workbench</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 19 Oct 2017 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>GEMOC Initiative</title>
+      <link>/project/gemoc/</link>
+      <pubDate>Thu, 19 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>/project/gemoc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

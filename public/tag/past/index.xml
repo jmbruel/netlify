@@ -1,1 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Past | Jean-Michel Bruel</title><link>/tag/past/</link><atom:link href="/tag/past/index.xml" rel="self" type="application/rss+xml"/><description>Past</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 21 Oct 2020 18:00:00 +0000</lastBuildDate><item><title>Moise</title><link>/project/moise/</link><pubDate>Thu, 19 Oct 2017 00:00:00 +0000</pubDate><guid>/project/moise/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Past | Jean-Michel Bruel</title>
+    <link>/tag/past/</link>
+      <atom:link href="/tag/past/index.xml" rel="self" type="application/rss+xml" />
+    <description>Past</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 21 Oct 2020 18:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Moise</title>
+      <link>/project/moise/</link>
+      <pubDate>Thu, 19 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>/project/moise/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
