@@ -1,18 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>&#34;Specification&#34; | Jean-Michel Bruel</title>
-    <link>/tag/specification/</link>
-      <atom:link href="/tag/specification/index.xml" rel="self" type="application/rss+xml" />
-    <description>&#34;Specification&#34;</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 May 2021 00:00:00 +0000</lastBuildDate>
-    <item>
-      <title>The Role of Formalism in System Requirements</title>
-      <link>/publication/acm-surveys-2021/</link>
-      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/acm-surveys-2021/</guid>
-      <description></description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>"Specification" | Jean-Michel Bruel</title><link>/tag/specification/</link><atom:link href="/tag/specification/index.xml" rel="self" type="application/rss+xml"/><description>"Specification"</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 May 2021 00:00:00 +0000</lastBuildDate><item><title>The Role of Formalism in System Requirements</title><link>/publication/acm-surveys-2021/</link><pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate><guid>/publication/acm-surveys-2021/</guid><description/></item></channel></rss>

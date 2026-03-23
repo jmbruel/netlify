@@ -1,18 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>&#34;Modeling Education&#34; | Jean-Michel Bruel</title>
-    <link>/tag/modeling-education/</link>
-      <atom:link href="/tag/modeling-education/index.xml" rel="self" type="application/rss+xml" />
-    <description>&#34;Modeling Education&#34;</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
-    <item>
-      <title>Papyrus for Gamers, Let&#39;s Play Modeling</title>
-      <link>/publication/papygame-2020/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/papygame-2020/</guid>
-      <description></description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>"Modeling Education" | Jean-Michel Bruel</title><link>/tag/modeling-education/</link><atom:link href="/tag/modeling-education/index.xml" rel="self" type="application/rss+xml"/><description>"Modeling Education"</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate><item><title>Papyrus for Gamers, Let's Play Modeling</title><link>/publication/papygame-2020/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>/publication/papygame-2020/</guid><description/></item></channel></rss>
