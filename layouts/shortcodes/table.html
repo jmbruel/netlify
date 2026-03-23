@@ -1,0 +1,39 @@
+{{- $csv := "" -}}
+{{- if .Get "file" -}}
+  {{- $path := .Get "file" -}}
+  {{- $resource := resources.Get $path -}}
+  {{- if $resource -}}
+    {{- $csv = $resource.Content -}}
+  {{- end -}}
+{{- else -}}
+  {{- $csv = .Inner -}}
+{{- end -}}
+
+{{- if $csv -}}
+  {{- $rows := split $csv "\n" -}}
+  {{- $firstRow := index $rows 0 -}}
+  {{- $headers := split $firstRow "," -}}
+  
+  <table class="table table-sm table-hover">
+    <thead>
+      <tr>
+        {{- range $headers -}}
+          <th>{{ . }}</th>
+        {{- end -}}
+      </tr>
+    </thead>
+    <tbody>
+      {{- range after 1 $rows -}}
+        {{- $row := . -}}
+        {{- if ne $row "" -}}
+          {{- $cells := split $row "," -}}
+          <tr>
+            {{- range $cells -}}
+              <td>{{ . }}</td>
+            {{- end -}}
+          </tr>
+        {{- end -}}
+      {{- end -}}
+    </tbody>
+  </table>
+{{- end -}}
