@@ -3,7 +3,8 @@
   publish = "public"
 
 [build.environment]
-  HUGO_VERSION = "0.92.6"
+  HUGO_VERSION = "0.158.0"
+  # HUGO_VERSION = "0.92.6"
   HUGO_ENABLEGITINFO = "true"
 
 [context.production.environment]

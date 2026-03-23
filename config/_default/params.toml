@@ -280,6 +280,9 @@ plugins_js  = []
 # Google Analytics for Wowchemy compatibility
 GoogleAnalytics = ""
 
+[services.googleAnalytics]
+id = 'JMB'
+
 ############################
 ## Content Management System
 ############################

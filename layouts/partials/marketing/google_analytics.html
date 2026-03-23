@@ -1,8 +1,8 @@
 {{- $gaID := "" -}}
 {{- if isset .Site "GoogleAnalytics" -}}
-  {{- $gaID = .Site.GoogleAnalytics -}}
+  {{- $gaID = .Site.Config.Services.GoogleAnalytics.ID -}}
 {{- else if isset .Site.Params "GoogleAnalytics" -}}
-  {{- $gaID = .Site.Params.GoogleAnalytics -}}
+  {{- $gaID = .Site.Config.Services.GoogleAnalytics.ID -}}
 {{- else if isset .Site.Params.marketing "google_analytics" -}}
   {{- $gaID = .Site.Params.marketing.google_analytics -}}
 {{- end -}}
