@@ -6,6 +6,12 @@
       <atom:link href="/tag/lean/index.xml" rel="self" type="application/rss+xml" />
     <description>Lean</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 23 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu_3405813888f6bb95.png</url>
+      <title>Lean</title>
+      <link>/tag/lean/</link>
+    </image>
+    
     <item>
       <title>Chaire Industrielle</title>
       <link>/project/airbus/</link>

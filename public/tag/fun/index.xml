@@ -1,11 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Fun | Jean-Michel Bruel</title>
+    <title>FUN | Jean-Michel Bruel</title>
     <link>/tag/fun/</link>
       <atom:link href="/tag/fun/index.xml" rel="self" type="application/rss+xml" />
-    <description>Fun</description>
+    <description>FUN</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 21 Oct 2020 18:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu_3405813888f6bb95.png</url>
+      <title>FUN</title>
+      <link>/tag/fun/</link>
+    </image>
+    
+    <item>
+      <title>Hamna Aslam</title>
+      <link>/author/hamna-aslam/</link>
+      <pubDate>Wed, 21 Oct 2020 18:00:00 +0000</pubDate>
+      <guid>/author/hamna-aslam/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Papyrus for gamers, let&#39;s play modeling (Best Demo Award!)</title>
       <link>/talk/20201021-modelsdemo/</link>
@@ -34,6 +48,14 @@
       <link>/publication/ko-2019-2/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
       <guid>/publication/ko-2019-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maroun Koussaifi</title>
+      <link>/author/maroun-koussaifi/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/author/maroun-koussaifi/</guid>
       <description></description>
     </item>
     

@@ -6,6 +6,12 @@
       <atom:link href="/tag/sysml/index.xml" rel="self" type="application/rss+xml" />
     <description>SysML</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 26 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu_3405813888f6bb95.png</url>
+      <title>SysML</title>
+      <link>/tag/sysml/</link>
+    </image>
+    
     <item>
       <title>SysML Models Verification and Validation in an Industrial Context: Challenges and Experimentation</title>
       <link>/publication/ecmfa18/</link>

@@ -6,6 +6,12 @@
       <atom:link href="/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu_3405813888f6bb95.png</url>
+      <title>1</title>
+      <link>/publication-type/1/</link>
+    </image>
+    
     <item>
       <title>Traçabilité by design : conception d&#39;un système interactif pour améliorer la génération automatique de traces Git pendant une activité d&#39;apprentissage</title>
       <link>/publication/pons-hal-04144980/</link>

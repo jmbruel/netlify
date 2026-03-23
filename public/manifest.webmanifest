@@ -2,8 +2,8 @@
   "name": "Jean-Michel Bruel",
   "short_name": "Jean-Michel Bruel",
   "lang": "en-us",
-  "theme_color": "<no value>",
-  "background_color": "<no value>",
+  "theme_color": "#004d7f",
+  "background_color": "#004d7f",
   "icons": [{
     "src": "/media/icon_hu_d2f49c88e7a74fa2.png",
     "sizes": "192x192",

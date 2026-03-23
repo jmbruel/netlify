@@ -6,5 +6,11 @@
       <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>/media/icon_hu_3405813888f6bb95.png</url>
+      <title>Posts</title>
+      <link>/post/</link>
+    </image>
+    
   </channel>
 </rss>

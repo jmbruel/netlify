@@ -6,6 +6,12 @@
       <atom:link href="/tag/requirements/index.xml" rel="self" type="application/rss+xml" />
     <description>Requirements</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 06 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu_3405813888f6bb95.png</url>
+      <title>Requirements</title>
+      <link>/tag/requirements/</link>
+    </image>
+    
     <item>
       <title>FATES-MLOps</title>
       <link>/project/anr-fates-mlops/</link>
