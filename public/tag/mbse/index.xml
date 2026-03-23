@@ -2,53 +2,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>MBSE | Jean-Michel Bruel</title>
-    <link>http://localhost:1313/tag/mbse/</link>
-      <atom:link href="http://localhost:1313/tag/mbse/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tag/mbse/</link>
+      <atom:link href="/tag/mbse/index.xml" rel="self" type="application/rss+xml" />
     <description>MBSE</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 - ACDC. Last update: May 2nd, 2025</copyright><lastBuildDate>Fri, 23 Oct 2020 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>http://localhost:1313/media/icon_hu_1b4bcfdf7d67b990.png</url>
-      <title>MBSE</title>
-      <link>http://localhost:1313/tag/mbse/</link>
-    </image>
-    
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 23 Oct 2020 00:00:00 +0000</lastBuildDate>
     <item>
       <title>Chaire Industrielle</title>
-      <link>http://localhost:1313/project/airbus/</link>
+      <link>/project/airbus/</link>
       <pubDate>Fri, 23 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/airbus/</guid>
+      <guid>/project/airbus/</guid>
       <description></description>
     </item>
     
     <item>
       <title>BASAALT</title>
-      <link>http://localhost:1313/project/basaalt/</link>
+      <link>/project/basaalt/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/basaalt/</guid>
+      <guid>/project/basaalt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MBSE &amp; Early Validation</title>
-      <link>http://localhost:1313/project/bombardier/</link>
+      <link>/project/bombardier/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/bombardier/</guid>
+      <guid>/project/bombardier/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Modeling Co-simulation: A First Experiment</title>
-      <link>http://localhost:1313/publication/gemoc2017/</link>
+      <link>/publication/gemoc2017/</link>
       <pubDate>Fri, 27 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/gemoc2017/</guid>
+      <guid>/publication/gemoc2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Moise</title>
-      <link>http://localhost:1313/project/moise/</link>
+      <link>/project/moise/</link>
       <pubDate>Thu, 19 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/moise/</guid>
+      <guid>/project/moise/</guid>
       <description></description>
     </item>
     

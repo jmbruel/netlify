@@ -11,6 +11,10 @@ title = "Jean-Michel Bruel"
 # Google Analytics
 GoogleAnalytics = ""
 
+# Params section for Wowchemy
+[params]
+  GoogleAnalytics = ""
+
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
 baseurl = "https://jmbruell.netlify.app/"

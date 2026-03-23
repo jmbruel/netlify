@@ -1,0 +1,6 @@
+{{- $uniqueID := "" -}}
+{{- if .File -}}
+  {{- $uniqueID = .File.UniqueID -}}
+{{- else -}}
+  {{- $uniqueID = .Permalink -}}
+{{- end -}}

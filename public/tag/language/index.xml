@@ -2,37 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Language | Jean-Michel Bruel</title>
-    <link>http://localhost:1313/tag/language/</link>
-      <atom:link href="http://localhost:1313/tag/language/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tag/language/</link>
+      <atom:link href="/tag/language/index.xml" rel="self" type="application/rss+xml" />
     <description>Language</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 - ACDC. Last update: May 2nd, 2025</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>http://localhost:1313/media/icon_hu_1b4bcfdf7d67b990.png</url>
-      <title>Language</title>
-      <link>http://localhost:1313/tag/language/</link>
-    </image>
-    
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <item>
       <title>BASAALT</title>
-      <link>http://localhost:1313/project/basaalt/</link>
+      <link>/project/basaalt/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/basaalt/</guid>
+      <guid>/project/basaalt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>GEMOC Initiative</title>
-      <link>http://localhost:1313/project/gemoc/</link>
+      <link>/project/gemoc/</link>
       <pubDate>Thu, 19 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/gemoc/</guid>
+      <guid>/project/gemoc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Moise</title>
-      <link>http://localhost:1313/project/moise/</link>
+      <link>/project/moise/</link>
       <pubDate>Thu, 19 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/moise/</guid>
+      <guid>/project/moise/</guid>
       <description></description>
     </item>
     

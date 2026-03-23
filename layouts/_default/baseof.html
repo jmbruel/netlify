@@ -1,0 +1,10 @@
+{{- define "main" -}}
+{{/* Custom base template to handle File.UniqueID issues */}}
+{{- $uniqueID := "" -}}
+{{- if .File -}}
+  {{- $uniqueID = .File.UniqueID -}}
+{{- else -}}
+  {{- $uniqueID = .Permalink -}}
+{{- end -}}
+{{- block "main" . }}{{ end }}
+{{- end -}}

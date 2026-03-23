@@ -277,6 +277,9 @@ plugins_js  = []
   google_analytics = ""
   google_tag_manager = ""
 
+# Google Analytics for Wowchemy compatibility
+GoogleAnalytics = ""
+
 ############################
 ## Content Management System
 ############################

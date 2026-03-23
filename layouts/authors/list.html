@@ -1,0 +1,8 @@
+{{- $uniqueID := "" -}}
+{{- if .File -}}
+  {{- $uniqueID = .File.UniqueID -}}
+{{- else -}}
+  {{- $uniqueID = .Permalink -}}
+{{- end -}}
+
+{{/* The rest of the template would go here, but let's first see if this fixes the File issue */}}
