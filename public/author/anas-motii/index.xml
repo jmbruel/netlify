@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Anas Motii | Jean-Michel Bruel</title>
-    <link>//localhost:1313/author/anas-motii/</link>
-      <atom:link href="//localhost:1313/author/anas-motii/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/anas-motii/</link>
+      <atom:link href="/author/anas-motii/index.xml" rel="self" type="application/rss+xml" />
     <description>Anas Motii</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
   </channel>

@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Walid Younes | Jean-Michel Bruel</title>
-    <link>//localhost:1313/author/walid-younes/</link>
-      <atom:link href="//localhost:1313/author/walid-younes/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/walid-younes/</link>
+      <atom:link href="/author/walid-younes/index.xml" rel="self" type="application/rss+xml" />
     <description>Walid Younes</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 27 Jul 2018 00:00:00 +0000</lastBuildDate>
     <item>
       <title>Emergence of Composite Services in Smart Environments</title>
-      <link>//localhost:1313/publication/esof-poster2018/</link>
+      <link>/publication/esof-poster2018/</link>
       <pubDate>Fri, 27 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/esof-poster2018/</guid>
+      <guid>/publication/esof-poster2018/</guid>
       <description></description>
     </item>
     

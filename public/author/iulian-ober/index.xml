@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Iulian Ober | Jean-Michel Bruel</title>
-    <link>//localhost:1313/author/iulian-ober/</link>
-      <atom:link href="//localhost:1313/author/iulian-ober/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/iulian-ober/</link>
+      <atom:link href="/author/iulian-ober/index.xml" rel="self" type="application/rss+xml" />
     <description>Iulian Ober</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
     <item>
       <title>Modeling and verification method for an early evaluation of Systems of Systems interactions</title>
-      <link>//localhost:1313/publication/ba-ob-br-2020-1/</link>
+      <link>/publication/ba-ob-br-2020-1/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/ba-ob-br-2020-1/</guid>
+      <guid>/publication/ba-ob-br-2020-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Modeling and verification method for an early evaluation of systems of systems interactions</title>
-      <link>//localhost:1313/publication/dblp-confsac-baduel-ob-20/</link>
+      <link>/publication/dblp-confsac-baduel-ob-20/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/dblp-confsac-baduel-ob-20/</guid>
+      <guid>/publication/dblp-confsac-baduel-ob-20/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SysML Models Verification and Validation in an Industrial Context: Challenges and Experimentation</title>
-      <link>//localhost:1313/publication/ecmfa18/</link>
+      <link>/publication/ecmfa18/</link>
       <pubDate>Tue, 26 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/ecmfa18/</guid>
+      <guid>/publication/ecmfa18/</guid>
       <description></description>
     </item>
     

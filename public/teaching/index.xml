@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Teachings | Jean-Michel Bruel</title>
-    <link>//localhost:1313/teaching/</link>
-      <atom:link href="//localhost:1313/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <link>/teaching/</link>
+      <atom:link href="/teaching/index.xml" rel="self" type="application/rss+xml" />
     <description>Teachings</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 20 Oct 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>//localhost:1313/media/icon_hu_3405813888f6bb95.png</url>
+      <url>/media/icon_hu_3405813888f6bb95.png</url>
       <title>Teachings</title>
-      <link>//localhost:1313/teaching/</link>
+      <link>/teaching/</link>
     </image>
     
     <item>
       <title>Mobile Application Modeling</title>
-      <link>//localhost:1313/teaching/mobilemodeling/</link>
+      <link>/teaching/mobilemodeling/</link>
       <pubDate>Fri, 20 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/teaching/mobilemodeling/</guid>
+      <guid>/teaching/mobilemodeling/</guid>
       <description>&lt;p&gt;In this course, I am teaching specifics of Mobile Applications in terms of modeling activities.&lt;/p&gt;
 &lt;p&gt;This course is taugh since 2015.&lt;/p&gt;
 </description>
@@ -24,9 +24,9 @@
     
     <item>
       <title>Innopolis University</title>
-      <link>//localhost:1313/teaching/innopolis/</link>
+      <link>/teaching/innopolis/</link>
       <pubDate>Sat, 28 Feb 2015 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/teaching/innopolis/</guid>
+      <guid>/teaching/innopolis/</guid>
       <description></description>
     </item>
     
