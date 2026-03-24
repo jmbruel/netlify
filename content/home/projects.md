@@ -34,8 +34,12 @@ subtitle = ""
    tag = "MBSE, MDE"
 
 [[content.filter_button]]
-   name = "Requirements"
-   tag = "Requirements, Lean"
+   name = "Software Engineering"
+   tag = "Requirements, Lean, SciLog"
+
+[[content.filter_button]]
+   name = "Digital Twins"
+   tag = "EDT"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
