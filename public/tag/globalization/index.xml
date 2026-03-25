@@ -1,1 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Globalization | Jean-Michel Bruel</title><link>/tag/globalization/</link><atom:link href="/tag/globalization/index.xml" rel="self" type="application/rss+xml"/><description>Globalization</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en</language><lastBuildDate>Thu, 19 Oct 2017 00:00:00 +0000</lastBuildDate><image><url>/media/icon_hu_1b4bcfdf7d67b990.png</url><title>Globalization</title><link>/tag/globalization/</link></image><item><title>GEMOC Initiative</title><link>/project/gemoc/</link><pubDate>Thu, 19 Oct 2017 00:00:00 +0000</pubDate><guid>/project/gemoc/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Globalization | Jean-Michel Bruel</title>
+    <link>/tag/globalization/</link>
+      <atom:link href="/tag/globalization/index.xml" rel="self" type="application/rss+xml" />
+    <description>Globalization</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en</language><lastBuildDate>Thu, 19 Oct 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu_1b4bcfdf7d67b990.png</url>
+      <title>Globalization</title>
+      <link>/tag/globalization/</link>
+    </image>
+    
+    <item>
+      <title>GEMOC Initiative</title>
+      <link>/project/gemoc/</link>
+      <pubDate>Thu, 19 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>/project/gemoc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,1 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Franck Silvestre | Jean-Michel Bruel</title><link>/author/franck-silvestre/</link><atom:link href="/author/franck-silvestre/index.xml" rel="self" type="application/rss+xml"/><description>Franck Silvestre</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en</language><lastBuildDate>Thu, 01 Jun 2023 00:00:00 +0000</lastBuildDate><image><url>/media/icon_hu_1b4bcfdf7d67b990.png</url><title>Franck Silvestre</title><link>/author/franck-silvestre/</link></image><item><title>Traçabilité by design : conception d'un système interactif pour améliorer la génération automatique de traces Git pendant une activité d'apprentissage</title><link>/publication/pons-hal-04144980/</link><pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate><guid>/publication/pons-hal-04144980/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Franck Silvestre | Jean-Michel Bruel</title>
+    <link>/author/franck-silvestre/</link>
+      <atom:link href="/author/franck-silvestre/index.xml" rel="self" type="application/rss+xml" />
+    <description>Franck Silvestre</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en</language><lastBuildDate>Thu, 01 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu_1b4bcfdf7d67b990.png</url>
+      <title>Franck Silvestre</title>
+      <link>/author/franck-silvestre/</link>
+    </image>
+    
+    <item>
+      <title>Traçabilité by design : conception d&#39;un système interactif pour améliorer la génération automatique de traces Git pendant une activité d&#39;apprentissage</title>
+      <link>/publication/pons-hal-04144980/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/pons-hal-04144980/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

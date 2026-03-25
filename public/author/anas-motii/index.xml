@@ -1,1 +1,32 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Anas Motii | Jean-Michel Bruel</title><link>/author/anas-motii/</link><atom:link href="/author/anas-motii/index.xml" rel="self" type="application/rss+xml"/><description>Anas Motii</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en</language><image><url>/author/anas-motii/avatar_hu_e75afb372ff5b0b3.jpg</url><title>Anas Motii</title><link>/author/anas-motii/</link></image><item><title>Anas Motii</title><link>/author/anas-motii/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/author/anas-motii/</guid><description/></item><item><title>Renan Leroux-Beaudout</title><link>/author/renan-leroux-beaudout/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/author/renan-leroux-beaudout/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anas Motii | Jean-Michel Bruel</title>
+    <link>/author/anas-motii/</link>
+      <atom:link href="/author/anas-motii/index.xml" rel="self" type="application/rss+xml" />
+    <description>Anas Motii</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en</language>
+    <image>
+      <url>/author/anas-motii/avatar_hu_e75afb372ff5b0b3.jpg</url>
+      <title>Anas Motii</title>
+      <link>/author/anas-motii/</link>
+    </image>
+    
+    <item>
+      <title>Anas Motii</title>
+      <link>/author/anas-motii/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/author/anas-motii/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Renan Leroux-Beaudout</title>
+      <link>/author/renan-leroux-beaudout/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/author/renan-leroux-beaudout/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

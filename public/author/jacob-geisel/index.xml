@@ -1,1 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Jacob Geisel | Jean-Michel Bruel</title><link>/author/jacob-geisel/</link><atom:link href="/author/jacob-geisel/index.xml" rel="self" type="application/rss+xml"/><description>Jacob Geisel</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en</language><image><url>/author/jacob-geisel/avatar_hu_e23b48ccdad173d9.jpg</url><title>Jacob Geisel</title><link>/author/jacob-geisel/</link></image><item><title>Jacob Geisel</title><link>/author/jacob-geisel/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/author/jacob-geisel/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jacob Geisel | Jean-Michel Bruel</title>
+    <link>/author/jacob-geisel/</link>
+      <atom:link href="/author/jacob-geisel/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jacob Geisel</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en</language>
+    <image>
+      <url>/author/jacob-geisel/avatar_hu_e23b48ccdad173d9.jpg</url>
+      <title>Jacob Geisel</title>
+      <link>/author/jacob-geisel/</link>
+    </image>
+    
+    <item>
+      <title>Jacob Geisel</title>
+      <link>/author/jacob-geisel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/author/jacob-geisel/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

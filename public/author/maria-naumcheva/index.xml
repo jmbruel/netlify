@@ -1,1 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Maria Naumcheva | Jean-Michel Bruel</title><link>/author/maria-naumcheva/</link><atom:link href="/author/maria-naumcheva/index.xml" rel="self" type="application/rss+xml"/><description>Maria Naumcheva</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate><image><url>/media/icon_hu_1b4bcfdf7d67b990.png</url><title>Maria Naumcheva</title><link>/author/maria-naumcheva/</link></image><item><title>Object-Oriented Requirements: a Unified Framework for Specifications, Scenarios and Tests</title><link>/publication/jot-issue-2023-01-article-3/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>/publication/jot-issue-2023-01-article-3/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Maria Naumcheva | Jean-Michel Bruel</title>
+    <link>/author/maria-naumcheva/</link>
+      <atom:link href="/author/maria-naumcheva/index.xml" rel="self" type="application/rss+xml" />
+    <description>Maria Naumcheva</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu_1b4bcfdf7d67b990.png</url>
+      <title>Maria Naumcheva</title>
+      <link>/author/maria-naumcheva/</link>
+    </image>
+    
+    <item>
+      <title>Object-Oriented Requirements: a Unified Framework for Specifications, Scenarios and Tests</title>
+      <link>/publication/jot-issue-2023-01-article-3/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/jot-issue-2023-01-article-3/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
