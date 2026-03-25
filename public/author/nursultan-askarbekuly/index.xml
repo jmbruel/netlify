@@ -1,10 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Nursultan Askarbekuly | Jean-Michel Bruel</title>
-    <link>//localhost:1313/author/nursultan-askarbekuly/</link>
-      <atom:link href="//localhost:1313/author/nursultan-askarbekuly/index.xml" rel="self" type="application/rss+xml" />
-    <description>Nursultan Askarbekuly</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en</language>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Nursultan Askarbekuly | Jean-Michel Bruel</title><link>/author/nursultan-askarbekuly/</link><atom:link href="/author/nursultan-askarbekuly/index.xml" rel="self" type="application/rss+xml"/><description>Nursultan Askarbekuly</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en</language><image><url>/author/nursultan-askarbekuly/avatar_hu_85cb04a7e737e911.jpg</url><title>Nursultan Askarbekuly</title><link>/author/nursultan-askarbekuly/</link></image><item><title>Nursultan Askarbekuly</title><link>/author/nursultan-askarbekuly/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/author/nursultan-askarbekuly/</guid><description/></item></channel></rss>

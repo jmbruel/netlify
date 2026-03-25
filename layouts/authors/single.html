@@ -1,0 +1,90 @@
+{{- define "main" -}}
+
+{{ partial "page_header.html" . }}
+
+<div class="universal-wrapper">
+  <div class="article-container">
+
+    <section id="profile" class="home-section wg-about">
+      <div class="home-section-bg"></div>
+      <div class="container">
+
+        <div class="row">
+          <div class="col-12 col-lg-4">
+            <div id="profile">
+
+              <div class="portrait-title">
+                <h2>{{ .Title }}</h2>
+                <h3>{{ .Params.role }}</h3>
+              </div>
+
+              {{ with .Resources.GetMatch "avatar*" }}
+              <div class="portrait-title">
+                <img class="avatar avatar-circle" src="{{ .RelPermalink }}" alt="{{ .Title }}">
+              </div>
+              {{ end }}
+
+              {{ with .Params.bio }}
+              <div class="portrait-title">
+                <p>{{ . }}</p>
+              </div>
+              {{ end }}
+
+              {{ with .Params.interests }}
+              <div class="portrait-title">
+                <h3>Interests</h3>
+                <ul>
+                  {{ range . }}
+                  <li>{{ . }}</li>
+                  {{ end }}
+                </ul>
+              </div>
+              {{ end }}
+
+              {{ with .Params.education }}
+              <div class="portrait-title">
+                <h3>Education</h3>
+                <ul>
+                  {{ range .courses }}
+                  <li>
+                    <strong>{{ .course }}</strong> - {{ .institution }} ({{ .year }})
+                  </li>
+                  {{ end }}
+                </ul>
+              </div>
+              {{ end }}
+
+              {{ with .Params.social }}
+              <div class="portrait-title">
+                <h3>Contact</h3>
+                <ul class="network-icon" aria-hidden="true">
+                  {{ range . }}
+                  <li>
+                    <a href="{{ .link }}" {{ if eq .icon "envelope" }}{{ else if eq .icon "cv" }}{{ else }}target="_blank" rel="noopener"{{ end }}>
+                      <i class="{{ .icon_pack }} {{ .icon }}"></i>
+                    </a>
+                  </li>
+                  {{ end }}
+                </ul>
+              </div>
+              {{ end }}
+
+            </div>
+          </div>
+
+          <div class="col-12 col-lg-8">
+            {{ with .Content }}
+            <div class="article-style">
+              {{ . }}
+            </div>
+            {{ end }}
+          </div>
+        </div>
+
+      </div>
+    </section>
+
+  </div>
+</div>
+
+{{- end -}}

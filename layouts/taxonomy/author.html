@@ -1,0 +1,26 @@
+{{- define "main" -}}
+
+{{ partial "page_header.html" . }}
+
+<div class="universal-wrapper">
+  <div class="article-container">
+
+    {{ $paginator := .Paginate .Data.Pages }}
+    {{ range $paginator.Pages }}
+      <div>
+        <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+        {{ with .Params.role }}
+        <p>{{ . }}</p>
+        {{ end }}
+        {{ with .Params.bio }}
+        <p>{{ . }}</p>
+        {{ end }}
+      </div>
+    {{ end }}
+
+    {{ partial "pagination" . }}
+
+  </div>
+</div>
+
+{{- end -}}

@@ -1,18 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Nan Messe | Jean-Michel Bruel</title>
-    <link>//localhost:1313/author/nan-messe/</link>
-      <atom:link href="//localhost:1313/author/nan-messe/index.xml" rel="self" type="application/rss+xml" />
-    <description>Nan Messe</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
-    <item>
-      <title>RQCODE - Towards Object-Oriented Requirements in the Software Security Domain</title>
-      <link>//localhost:1313/publication/dblp-conficst-nigmatullin-smeb-22/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/dblp-conficst-nigmatullin-smeb-22/</guid>
-      <description></description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Nan Messe | Jean-Michel Bruel</title><link>/author/nan-messe/</link><atom:link href="/author/nan-messe/index.xml" rel="self" type="application/rss+xml"/><description>Nan Messe</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate><image><url>/author/nan-messe/avatar_hu_48ae86cf5cbd869c.jpg</url><title>Nan Messe</title><link>/author/nan-messe/</link></image><item><title>Nan Messe</title><link>/author/nan-messe/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>/author/nan-messe/</guid><description/></item><item><title>RQCODE - Towards Object-Oriented Requirements in the Software Security Domain</title><link>/publication/dblp-conficst-nigmatullin-smeb-22/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>/publication/dblp-conficst-nigmatullin-smeb-22/</guid><description/></item></channel></rss>

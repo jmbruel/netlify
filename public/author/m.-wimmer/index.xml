@@ -1,18 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>M. Wimmer | Jean-Michel Bruel</title>
-    <link>//localhost:1313/author/m.-wimmer/</link>
-      <atom:link href="//localhost:1313/author/m.-wimmer/index.xml" rel="self" type="application/rss+xml" />
-    <description>M. Wimmer</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
-    <item>
-      <title>A Hitchhiker’s Guide to Model-Driven Engineering for Data-Centric Systems</title>
-      <link>//localhost:1313/publication/9094197/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/9094197/</guid>
-      <description></description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>M. Wimmer | Jean-Michel Bruel</title><link>/author/m.-wimmer/</link><atom:link href="/author/m.-wimmer/index.xml" rel="self" type="application/rss+xml"/><description>M. Wimmer</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate><image><url>/media/icon_hu_1b4bcfdf7d67b990.png</url><title>M. Wimmer</title><link>/author/m.-wimmer/</link></image><item><title>A Hitchhiker’s Guide to Model-Driven Engineering for Data-Centric Systems</title><link>/publication/9094197/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>/publication/9094197/</guid><description/></item></channel></rss>
