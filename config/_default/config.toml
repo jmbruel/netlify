@@ -19,10 +19,10 @@ GoogleAnalytics = ""
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
 # baseurl = "https://jmbruell.netlify.app/"
 baseurl = "/"
-xxxurl = "https://jmbruell.netlify.app/"
+# baseurl = "https://jmbruell.netlify.app/"
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
-copyright = "&copy; {year} - ACDC. Last update: March 23rd, 2026"
+copyright = "&copy; {year} - ACDC. Last update: March 25rd, 2026"
 
 # Your details.
 team = "SM@RT"
