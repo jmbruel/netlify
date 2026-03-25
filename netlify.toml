@@ -26,7 +26,4 @@
   [headers.values]
     Content-Type = "application/rss+xml"
 
-[build]
-  command = "hugo --gc --minify -b $URL"
-
 
