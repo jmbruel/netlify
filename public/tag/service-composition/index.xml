@@ -1,1 +1,40 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Service Composition | Jean-Michel Bruel</title><link>/tag/service-composition/</link><atom:link href="/tag/service-composition/index.xml" rel="self" type="application/rss+xml"/><description>Service Composition</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en</language><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate><item><title>Automated user-oriented description of emerging composite ambient applications</title><link>/publication/ko-2019-2/</link><pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate><guid>/publication/ko-2019-2/</guid><description/></item><item><title>Emergence of Composite Services in Smart Environments</title><link>/publication/esof-poster2018/</link><pubDate>Fri, 27 Jul 2018 00:00:00 +0000</pubDate><guid>/publication/esof-poster2018/</guid><description/></item><item><title>Ambient Intelligence Users in the Loop: Towards a Model-Driven Approach</title><link>/publication/mse18/</link><pubDate>Mon, 25 Jun 2018 00:00:00 +0000</pubDate><guid>/publication/mse18/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Service Composition | Jean-Michel Bruel</title>
+    <link>/tag/service-composition/</link>
+      <atom:link href="/tag/service-composition/index.xml" rel="self" type="application/rss+xml" />
+    <description>Service Composition</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en</language><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu_1b4bcfdf7d67b990.png</url>
+      <title>Service Composition</title>
+      <link>/tag/service-composition/</link>
+    </image>
+    
+    <item>
+      <title>Automated user-oriented description of emerging composite ambient applications</title>
+      <link>/publication/ko-2019-2/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/ko-2019-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emergence of Composite Services in Smart Environments</title>
+      <link>/publication/esof-poster2018/</link>
+      <pubDate>Fri, 27 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/esof-poster2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ambient Intelligence Users in the Loop: Towards a Model-Driven Approach</title>
+      <link>/publication/mse18/</link>
+      <pubDate>Mon, 25 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/mse18/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

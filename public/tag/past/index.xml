@@ -1,1 +1,88 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Past | Jean-Michel Bruel</title><link>/tag/past/</link><atom:link href="/tag/past/index.xml" rel="self" type="application/rss+xml"/><description>Past</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en</language><lastBuildDate>Wed, 21 Oct 2020 18:00:00 +0000</lastBuildDate><item><title>Hamna Aslam</title><link>/author/hamna-aslam/</link><pubDate>Wed, 21 Oct 2020 18:00:00 +0000</pubDate><guid>/author/hamna-aslam/</guid><description/></item><item><title>Maroun Koussaifi</title><link>/author/maroun-koussaifi/</link><pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate><guid>/author/maroun-koussaifi/</guid><description/></item><item><title>Alexandr Naumchev</title><link>/author/alexandr-naumchev/</link><pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate><guid>/author/alexandr-naumchev/</guid><description/></item><item><title>Florian Galinier</title><link>/author/florian-galinier/</link><pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate><guid>/author/florian-galinier/</guid><description/></item><item><title>Moise</title><link>/project/moise/</link><pubDate>Thu, 19 Oct 2017 00:00:00 +0000</pubDate><guid>/project/moise/</guid><description/></item><item><title>Anas Motii</title><link>/author/anas-motii/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/author/anas-motii/</guid><description/></item><item><title>Jacob Geisel</title><link>/author/jacob-geisel/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/author/jacob-geisel/</guid><description/></item><item><title>Mohammad Chami</title><link>/author/mohammad-chami/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/author/mohammad-chami/</guid><description/></item><item><title>Renan Leroux-Beaudout</title><link>/author/renan-leroux-beaudout/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/author/renan-leroux-beaudout/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Past | Jean-Michel Bruel</title>
+    <link>/tag/past/</link>
+      <atom:link href="/tag/past/index.xml" rel="self" type="application/rss+xml" />
+    <description>Past</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en</language><lastBuildDate>Wed, 21 Oct 2020 18:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu_1b4bcfdf7d67b990.png</url>
+      <title>Past</title>
+      <link>/tag/past/</link>
+    </image>
+    
+    <item>
+      <title>Hamna Aslam</title>
+      <link>/author/hamna-aslam/</link>
+      <pubDate>Wed, 21 Oct 2020 18:00:00 +0000</pubDate>
+      <guid>/author/hamna-aslam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maroun Koussaifi</title>
+      <link>/author/maroun-koussaifi/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/author/maroun-koussaifi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alexandr Naumchev</title>
+      <link>/author/alexandr-naumchev/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/author/alexandr-naumchev/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Florian Galinier</title>
+      <link>/author/florian-galinier/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/author/florian-galinier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Moise</title>
+      <link>/project/moise/</link>
+      <pubDate>Thu, 19 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>/project/moise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anas Motii</title>
+      <link>/author/anas-motii/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/author/anas-motii/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jacob Geisel</title>
+      <link>/author/jacob-geisel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/author/jacob-geisel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mohammad Chami</title>
+      <link>/author/mohammad-chami/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/author/mohammad-chami/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Renan Leroux-Beaudout</title>
+      <link>/author/renan-leroux-beaudout/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/author/renan-leroux-beaudout/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

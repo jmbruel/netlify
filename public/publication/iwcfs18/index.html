@@ -1,19 +1,389 @@
 <!DOCTYPE html>
 <html lang="en">
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=63399&amp;path=livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Towards a Requirements Engineering Approach for capturing Uncertainty in Cyber-Physical Systems Environment - Jean-Michel Bruel</title>
   
   
-  <link rel="stylesheet" href="CSS/wowchemy.css">
+  <link rel="stylesheet" href="css/wowchemy.css">
   
   
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
   
+  <head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   
+  
+  
+    <meta name="generator" content="Wowchemy 5.2.0 for Hugo" />
+  
+
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Jean-Michel Bruel" />
+
+  
+  
+  
+    
+  
+  <meta name="description" content="By nature, Cyber-physical systems are very often submitted to uncertainty events that can occur in their environment. This paper presents the first results of our work on how to deal with environment uncertainty in goal-based requirements engineering. This work is motivated by the fact that current goal-based approaches do not natively allow for unanticipated adaptations. To do so, we explore the introduction of RELAX concepts into SysMLKaos. RELAX is a Requirements Engineering language for Dynamically Adaptive Systems that include explicit constructs to handle the inherent uncertainty in these systems. On the other hand, SysMLKaos is a Goal Based Requirements Engineering approach that takes into account Non-Functional Requirements at the same level of abstraction as Functional Requirements and models the impact of Non-Functional Requirements on Functional Requirements. We use an extract of a Landing Gear System case study to illustrate the proposed approach." />
+
+  
+  <link rel="alternate" hreflang="en" href="/publication/iwcfs18/" />
+
+  
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+  
+  
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  
+
+  
+  
+  
+    <meta name="theme-color" content="#004d7f" />
+  
+
+  
+  
+    
+    <script src="/js/mathjax-config.js"></script>
+  
+
+  
+  
+  
+  
+    
+    
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.0/css/academicons.min.css" integrity="sha512-W4yqoT1+8NLkinBLBZko+dFB2ZbHsYLDdr50VElllRcNt2Q4/GSs6u71UHKxB7S6JEMCp5Ve4xjh3eGQl/HRvg==" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" integrity="sha256-FMvZuGapsJLjouA6k7Eo2lusoAX9i0ShlWFG6qt7SLc=" crossorigin="anonymous" media="print" onload="this.media='all'">
+
+    
+    
+    
+    
+      
+      
+    
+    
+    
+
+    
+    
+    
+      
+    
+    
+      
+      
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/github.min.css" crossorigin="anonymous" title="hl-light" media="print" onload="this.media='all'">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/github.min.css" crossorigin="anonymous" title="hl-dark" media="print" onload="this.media='all'" disabled>
+      
+    
+
+    
+    
+    
+
+    
+
+    
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+  
+
+  
+  
+  
+    
+      
+      <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Yanone+Kaffeesatz:wght@300;400;700&family=Roboto:wght@300;400;500&family=Roboto+Mono:wght@400;500&display=swap&display=swap">
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Yanone+Kaffeesatz:wght@300;400;700&family=Roboto:wght@300;400;500&family=Roboto+Mono:wght@400;500&display=swap&display=swap" media="print" onload="this.media='all'">
+    
+  
+
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/wowchemy.3343d503ed94b53ab2251d51fe596eee.css" />
+
+  
+  
+
+  
+
+  
+
+
+
+
+  
+  
+  
+
+  
+
+  
+    <link rel="manifest" href="/index.webmanifest" />
+  
+
+  <link rel="icon" type="image/png" href="/media/icon_hu_be91e6458e592ec9.png" />
+  <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu_f8cae1f2dac4936d.png" />
+
+  <link rel="canonical" href="/publication/iwcfs18/" />
+
+  
+  
+  
+  
+  
+  
+  
+  
+    
+    
+  
+  
+  <meta property="twitter:card" content="summary" />
+  
+    <meta property="twitter:site" content="@jmbruel" />
+    <meta property="twitter:creator" content="@jmbruel" />
+  
+  <meta property="og:site_name" content="Jean-Michel Bruel" />
+  <meta property="og:url" content="/publication/iwcfs18/" />
+  <meta property="og:title" content="Towards a Requirements Engineering Approach for capturing Uncertainty in Cyber-Physical Systems Environment | Jean-Michel Bruel" />
+  <meta property="og:description" content="By nature, Cyber-physical systems are very often submitted to uncertainty events that can occur in their environment. This paper presents the first results of our work on how to deal with environment uncertainty in goal-based requirements engineering. This work is motivated by the fact that current goal-based approaches do not natively allow for unanticipated adaptations. To do so, we explore the introduction of RELAX concepts into SysMLKaos. RELAX is a Requirements Engineering language for Dynamically Adaptive Systems that include explicit constructs to handle the inherent uncertainty in these systems. On the other hand, SysMLKaos is a Goal Based Requirements Engineering approach that takes into account Non-Functional Requirements at the same level of abstraction as Functional Requirements and models the impact of Non-Functional Requirements on Functional Requirements. We use an extract of a Landing Gear System case study to illustrate the proposed approach." /><meta property="og:image" content="/media/icon_hu_1b4bcfdf7d67b990.png" />
+    <meta property="twitter:image" content="/media/icon_hu_1b4bcfdf7d67b990.png" /><meta property="og:locale" content="en" />
+  
+    
+      <meta
+        property="article:published_time"
+        content="2018-07-03T00:00:00&#43;00:00"
+      />
+    
+    <meta property="article:modified_time" content="2018-07-03T00:00:00&#43;00:00">
+  
+
+  
+
+
+    
+
+
+
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "/publication/iwcfs18/"
+  },
+  "headline": "Towards a Requirements Engineering Approach for capturing Uncertainty in Cyber-Physical Systems Environment",
+  
+  "datePublished": "2018-07-03T00:00:00Z",
+  "dateModified": "2018-07-03T00:00:00Z",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Manzoor Ahmad"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Jean-Michel Bruel",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "/media/icon_hu_cf2b4812c4b4e39e.png"
+    }
+  },
+  "description": "By nature, Cyber-physical systems are very often submitted to uncertainty events that can occur in their environment. This paper presents the first results of our work on how to deal with environment uncertainty in goal-based requirements engineering. This work is motivated by the fact that current goal-based approaches do not natively allow for unanticipated adaptations. To do so, we explore the introduction of RELAX concepts into SysMLKaos. RELAX is a Requirements Engineering language for Dynamically Adaptive Systems that include explicit constructs to handle the inherent uncertainty in these systems. On the other hand, SysMLKaos is a Goal Based Requirements Engineering approach that takes into account Non-Functional Requirements at the same level of abstraction as Functional Requirements and models the impact of Non-Functional Requirements on Functional Requirements. We use an extract of a Landing Gear System case study to illustrate the proposed approach."
+}
+</script>
+
+  
+
+  
+
+  
+
+  
+
+
+
+
+
+  <title>Towards a Requirements Engineering Approach for capturing Uncertainty in Cyber-Physical Systems Environment | Jean-Michel Bruel</title>
+</head>
 
 </head>
 <body>
@@ -282,7 +652,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=//localhost:63399/publication/iwcfs18/&amp;text=Towards%20a%20Requirements%20Engineering%20Approach%20for%20capturing%20Uncertainty%20in%20Cyber-Physical%20Systems%20Environment" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=/publication/iwcfs18/&amp;text=Towards%20a%20Requirements%20Engineering%20Approach%20for%20capturing%20Uncertainty%20in%20Cyber-Physical%20Systems%20Environment" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -295,7 +665,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=//localhost:63399/publication/iwcfs18/&amp;t=Towards%20a%20Requirements%20Engineering%20Approach%20for%20capturing%20Uncertainty%20in%20Cyber-Physical%20Systems%20Environment" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=/publication/iwcfs18/&amp;t=Towards%20a%20Requirements%20Engineering%20Approach%20for%20capturing%20Uncertainty%20in%20Cyber-Physical%20Systems%20Environment" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -308,7 +678,7 @@
       
       
       <li>
-        <a href="mailto:?subject=Towards%20a%20Requirements%20Engineering%20Approach%20for%20capturing%20Uncertainty%20in%20Cyber-Physical%20Systems%20Environment&amp;body=//localhost:63399/publication/iwcfs18/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=Towards%20a%20Requirements%20Engineering%20Approach%20for%20capturing%20Uncertainty%20in%20Cyber-Physical%20Systems%20Environment&amp;body=/publication/iwcfs18/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -321,7 +691,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=//localhost:63399/publication/iwcfs18/&amp;title=Towards%20a%20Requirements%20Engineering%20Approach%20for%20capturing%20Uncertainty%20in%20Cyber-Physical%20Systems%20Environment" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=/publication/iwcfs18/&amp;title=Towards%20a%20Requirements%20Engineering%20Approach%20for%20capturing%20Uncertainty%20in%20Cyber-Physical%20Systems%20Environment" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -334,7 +704,7 @@
       
       
       <li>
-        <a href="whatsapp://send?text=Towards%20a%20Requirements%20Engineering%20Approach%20for%20capturing%20Uncertainty%20in%20Cyber-Physical%20Systems%20Environment%20//localhost:63399/publication/iwcfs18/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="whatsapp://send?text=Towards%20a%20Requirements%20Engineering%20Approach%20for%20capturing%20Uncertainty%20in%20Cyber-Physical%20Systems%20Environment%20/publication/iwcfs18/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -347,7 +717,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=//localhost:63399/publication/iwcfs18/&amp;title=Towards%20a%20Requirements%20Engineering%20Approach%20for%20capturing%20Uncertainty%20in%20Cyber-Physical%20Systems%20Environment" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=/publication/iwcfs18/&amp;title=Towards%20a%20Requirements%20Engineering%20Approach%20for%20capturing%20Uncertainty%20in%20Cyber-Physical%20Systems%20Environment" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>

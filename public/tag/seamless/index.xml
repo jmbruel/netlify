@@ -1,1 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>"Seamless" | Jean-Michel Bruel</title><link>/tag/seamless/</link><atom:link href="/tag/seamless/index.xml" rel="self" type="application/rss+xml"/><description>"Seamless"</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en</language><lastBuildDate>Sat, 01 May 2021 00:00:00 +0000</lastBuildDate><item><title>The Role of Formalism in System Requirements</title><link>/publication/acm-surveys-2021/</link><pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate><guid>/publication/acm-surveys-2021/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#34;Seamless&#34; | Jean-Michel Bruel</title>
+    <link>/tag/seamless/</link>
+      <atom:link href="/tag/seamless/index.xml" rel="self" type="application/rss+xml" />
+    <description>&#34;Seamless&#34;</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en</language><lastBuildDate>Sat, 01 May 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu_1b4bcfdf7d67b990.png</url>
+      <title>&#34;Seamless&#34;</title>
+      <link>/tag/seamless/</link>
+    </image>
+    
+    <item>
+      <title>The Role of Formalism in System Requirements</title>
+      <link>/publication/acm-surveys-2021/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/acm-surveys-2021/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

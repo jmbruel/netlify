@@ -1,19 +1,386 @@
 <!DOCTYPE html>
 <html lang="en">
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=63399&amp;path=livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Model-Driven Engineering for End-Users in the Loop in Smart Ambient Systems - Jean-Michel Bruel</title>
   
   
-  <link rel="stylesheet" href="CSS/wowchemy.css">
+  <link rel="stylesheet" href="css/wowchemy.css">
   
   
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
   
+  <head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   
+  
+  
+    <meta name="generator" content="Wowchemy 5.2.0 for Hugo" />
+  
+
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Jean-Michel Bruel" />
+
+  
+  
+  
+    
+  
+  <meta name="description" content="At the heart of cyber-physical and ambient systems, the user should permanently benefit from applications adapted to the situation and her/his needs. To do this, she/he must be able to configure her/his software environment and be supported as much as possible in that task. To this end, an intelligent &amp;ldquo;engine&amp;rdquo; assembles software components that are present in the ambient environment at the time and makes unanticipated applications emerge. The problem is to put the user &amp;ldquo;in the loop&amp;rdquo;, i.e., provide adapted and intelligible descriptions of the emerging applications, and present them so that the user can accept, modify or reject them. Besides, user feedback must be collected to feed the engine&amp;rsquo;s learning process. Our approach relies on Model-Driven Engineering (MDE). However, differently from the regular use of MDE tools and techniques by engineers to develop software and generate code, our focus is on end-users. Models of component assemblies are represented and made editable for them. Based on a metamodel that supports modeling and de- scription of component-based applications, a user interface provides multi-faceted representations of the emerging applications and captures user feedback. Our solution relies on several domain- specific languages and a transformation process, based on the established MDE tools (Gemoc studio, Eclipse Modeling Framework, EcoreTools, Sirius, Acceleo). It works in conjunction with the intelligent engine that builds the emerging applications and to which it provides learning data." />
+
+  
+  <link rel="alternate" hreflang="en" href="/publication/jucs-2021/" />
+
+  
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+  
+  
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  
+
+  
+  
+  
+    <meta name="theme-color" content="#004d7f" />
+  
+
+  
+  
+
+  
+  
+  
+  
+    
+    
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.0/css/academicons.min.css" integrity="sha512-W4yqoT1+8NLkinBLBZko+dFB2ZbHsYLDdr50VElllRcNt2Q4/GSs6u71UHKxB7S6JEMCp5Ve4xjh3eGQl/HRvg==" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" integrity="sha256-FMvZuGapsJLjouA6k7Eo2lusoAX9i0ShlWFG6qt7SLc=" crossorigin="anonymous" media="print" onload="this.media='all'">
+
+    
+    
+    
+    
+      
+      
+    
+    
+    
+
+    
+    
+    
+      
+    
+    
+      
+      
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/github.min.css" crossorigin="anonymous" title="hl-light" media="print" onload="this.media='all'">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/github.min.css" crossorigin="anonymous" title="hl-dark" media="print" onload="this.media='all'" disabled>
+      
+    
+
+    
+    
+    
+
+    
+
+    
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+        
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+  
+
+  
+  
+  
+    
+      
+      <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Yanone+Kaffeesatz:wght@300;400;700&family=Roboto:wght@300;400;500&family=Roboto+Mono:wght@400;500&display=swap&display=swap">
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Yanone+Kaffeesatz:wght@300;400;700&family=Roboto:wght@300;400;500&family=Roboto+Mono:wght@400;500&display=swap&display=swap" media="print" onload="this.media='all'">
+    
+  
+
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/wowchemy.3343d503ed94b53ab2251d51fe596eee.css" />
+
+  
+  
+
+  
+
+  
+
+
+
+
+  
+  
+  
+
+  
+
+  
+    <link rel="manifest" href="/index.webmanifest" />
+  
+
+  <link rel="icon" type="image/png" href="/media/icon_hu_be91e6458e592ec9.png" />
+  <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu_f8cae1f2dac4936d.png" />
+
+  <link rel="canonical" href="/publication/jucs-2021/" />
+
+  
+  
+  
+  
+  
+  
+  
+  
+    
+    
+  
+  
+  <meta property="twitter:card" content="summary" />
+  
+    <meta property="twitter:site" content="@jmbruel" />
+    <meta property="twitter:creator" content="@jmbruel" />
+  
+  <meta property="og:site_name" content="Jean-Michel Bruel" />
+  <meta property="og:url" content="/publication/jucs-2021/" />
+  <meta property="og:title" content="Model-Driven Engineering for End-Users in the Loop in Smart Ambient Systems | Jean-Michel Bruel" />
+  <meta property="og:description" content="At the heart of cyber-physical and ambient systems, the user should permanently benefit from applications adapted to the situation and her/his needs. To do this, she/he must be able to configure her/his software environment and be supported as much as possible in that task. To this end, an intelligent &amp;ldquo;engine&amp;rdquo; assembles software components that are present in the ambient environment at the time and makes unanticipated applications emerge. The problem is to put the user &amp;ldquo;in the loop&amp;rdquo;, i.e., provide adapted and intelligible descriptions of the emerging applications, and present them so that the user can accept, modify or reject them. Besides, user feedback must be collected to feed the engine&amp;rsquo;s learning process. Our approach relies on Model-Driven Engineering (MDE). However, differently from the regular use of MDE tools and techniques by engineers to develop software and generate code, our focus is on end-users. Models of component assemblies are represented and made editable for them. Based on a metamodel that supports modeling and de- scription of component-based applications, a user interface provides multi-faceted representations of the emerging applications and captures user feedback. Our solution relies on several domain- specific languages and a transformation process, based on the established MDE tools (Gemoc studio, Eclipse Modeling Framework, EcoreTools, Sirius, Acceleo). It works in conjunction with the intelligent engine that builds the emerging applications and to which it provides learning data." /><meta property="og:image" content="/media/icon_hu_1b4bcfdf7d67b990.png" />
+    <meta property="twitter:image" content="/media/icon_hu_1b4bcfdf7d67b990.png" /><meta property="og:locale" content="en" />
+  
+    
+      <meta
+        property="article:published_time"
+        content="2021-07-28T07:40:39&#43;00:00"
+      />
+    
+    <meta property="article:modified_time" content="2021-07-28T09:40:44&#43;02:00">
+  
+
+  
+
+
+    
+
+
+
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "/publication/jucs-2021/"
+  },
+  "headline": "Model-Driven Engineering for End-Users in the Loop in Smart Ambient Systems",
+  
+  "datePublished": "2021-07-28T07:40:39Z",
+  "dateModified": "2021-07-28T09:40:44+02:00",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Sylvie Trouilhet"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Jean-Michel Bruel",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "/media/icon_hu_cf2b4812c4b4e39e.png"
+    }
+  },
+  "description": "At the heart of cyber-physical and ambient systems, the user should permanently benefit from applications adapted to the situation and her/his needs. To do this, she/he must be able to configure her/his software environment and be supported as much as possible in that task. To this end, an intelligent \u0026ldquo;engine\u0026rdquo; assembles software components that are present in the ambient environment at the time and makes unanticipated applications emerge. The problem is to put the user \u0026ldquo;in the loop\u0026rdquo;, i.e., provide adapted and intelligible descriptions of the emerging applications, and present them so that the user can accept, modify or reject them. Besides, user feedback must be collected to feed the engine\u0026rsquo;s learning process. Our approach relies on Model-Driven Engineering (MDE). However, differently from the regular use of MDE tools and techniques by engineers to develop software and generate code, our focus is on end-users. Models of component assemblies are represented and made editable for them. Based on a metamodel that supports modeling and de- scription of component-based applications, a user interface provides multi-faceted representations of the emerging applications and captures user feedback. Our solution relies on several domain- specific languages and a transformation process, based on the established MDE tools (Gemoc studio, Eclipse Modeling Framework, EcoreTools, Sirius, Acceleo). It works in conjunction with the intelligent engine that builds the emerging applications and to which it provides learning data."
+}
+</script>
+
+  
+
+  
+
+  
+
+  
+
+
+
+
+
+  <title>Model-Driven Engineering for End-Users in the Loop in Smart Ambient Systems | Jean-Michel Bruel</title>
+</head>
 
 </head>
 <body>
@@ -318,7 +685,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=//localhost:63399/publication/jucs-2021/&amp;text=Model-Driven%20Engineering%20for%20End-Users%20in%20the%20Loop%20in%20Smart%20Ambient%20Systems" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=/publication/jucs-2021/&amp;text=Model-Driven%20Engineering%20for%20End-Users%20in%20the%20Loop%20in%20Smart%20Ambient%20Systems" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -331,7 +698,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=//localhost:63399/publication/jucs-2021/&amp;t=Model-Driven%20Engineering%20for%20End-Users%20in%20the%20Loop%20in%20Smart%20Ambient%20Systems" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=/publication/jucs-2021/&amp;t=Model-Driven%20Engineering%20for%20End-Users%20in%20the%20Loop%20in%20Smart%20Ambient%20Systems" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -344,7 +711,7 @@
       
       
       <li>
-        <a href="mailto:?subject=Model-Driven%20Engineering%20for%20End-Users%20in%20the%20Loop%20in%20Smart%20Ambient%20Systems&amp;body=//localhost:63399/publication/jucs-2021/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=Model-Driven%20Engineering%20for%20End-Users%20in%20the%20Loop%20in%20Smart%20Ambient%20Systems&amp;body=/publication/jucs-2021/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -357,7 +724,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=//localhost:63399/publication/jucs-2021/&amp;title=Model-Driven%20Engineering%20for%20End-Users%20in%20the%20Loop%20in%20Smart%20Ambient%20Systems" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=/publication/jucs-2021/&amp;title=Model-Driven%20Engineering%20for%20End-Users%20in%20the%20Loop%20in%20Smart%20Ambient%20Systems" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -370,7 +737,7 @@
       
       
       <li>
-        <a href="whatsapp://send?text=Model-Driven%20Engineering%20for%20End-Users%20in%20the%20Loop%20in%20Smart%20Ambient%20Systems%20//localhost:63399/publication/jucs-2021/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="whatsapp://send?text=Model-Driven%20Engineering%20for%20End-Users%20in%20the%20Loop%20in%20Smart%20Ambient%20Systems%20/publication/jucs-2021/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -383,7 +750,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=//localhost:63399/publication/jucs-2021/&amp;title=Model-Driven%20Engineering%20for%20End-Users%20in%20the%20Loop%20in%20Smart%20Ambient%20Systems" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=/publication/jucs-2021/&amp;title=Model-Driven%20Engineering%20for%20End-Users%20in%20the%20Loop%20in%20Smart%20Ambient%20Systems" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -429,11 +796,11 @@
   <div class="media author-card content-widget-hr">
     
       
-      <a href="//localhost:63399/"><img class="avatar mr-3 avatar-circle" src="/author/jean-michel-bruel/avatar_hu_e83e78eb27a976b5.png" alt="Jean-Michel Bruel"></a>
+      <a href="/"><img class="avatar mr-3 avatar-circle" src="/author/jean-michel-bruel/avatar_hu_e83e78eb27a976b5.png" alt="Jean-Michel Bruel"></a>
     
 
     <div class="media-body">
-      <h5 class="card-title"><a href="//localhost:63399/">Jean-Michel Bruel</a></h5>
+      <h5 class="card-title"><a href="/">Jean-Michel Bruel</a></h5>
       <h6 class="card-subtitle">Professor of Software Engineering</h6>
       <p class="card-text">My research interests include Model-Based Systems Engineering and Requirements Engineering.</p>
       <ul class="network-icon" aria-hidden="true">

@@ -1,1 +1,56 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>MBSE | Jean-Michel Bruel</title><link>/tag/mbse/</link><atom:link href="/tag/mbse/index.xml" rel="self" type="application/rss+xml"/><description>MBSE</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en</language><lastBuildDate>Fri, 23 Oct 2020 00:00:00 +0000</lastBuildDate><item><title>Chaire Industrielle</title><link>/project/airbus/</link><pubDate>Fri, 23 Oct 2020 00:00:00 +0000</pubDate><guid>/project/airbus/</guid><description/></item><item><title>BASAALT</title><link>/project/basaalt/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>/project/basaalt/</guid><description/></item><item><title>MBSE &amp; Early Validation</title><link>/project/bombardier/</link><pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate><guid>/project/bombardier/</guid><description/></item><item><title>Modeling Co-simulation: A First Experiment</title><link>/publication/gemoc2017/</link><pubDate>Fri, 27 Oct 2017 00:00:00 +0000</pubDate><guid>/publication/gemoc2017/</guid><description/></item><item><title>Moise</title><link>/project/moise/</link><pubDate>Thu, 19 Oct 2017 00:00:00 +0000</pubDate><guid>/project/moise/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MBSE | Jean-Michel Bruel</title>
+    <link>/tag/mbse/</link>
+      <atom:link href="/tag/mbse/index.xml" rel="self" type="application/rss+xml" />
+    <description>MBSE</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en</language><lastBuildDate>Fri, 23 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu_1b4bcfdf7d67b990.png</url>
+      <title>MBSE</title>
+      <link>/tag/mbse/</link>
+    </image>
+    
+    <item>
+      <title>Chaire Industrielle</title>
+      <link>/project/airbus/</link>
+      <pubDate>Fri, 23 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/project/airbus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BASAALT</title>
+      <link>/project/basaalt/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/project/basaalt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MBSE &amp; Early Validation</title>
+      <link>/project/bombardier/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>/project/bombardier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling Co-simulation: A First Experiment</title>
+      <link>/publication/gemoc2017/</link>
+      <pubDate>Fri, 27 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/gemoc2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Moise</title>
+      <link>/project/moise/</link>
+      <pubDate>Thu, 19 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>/project/moise/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
