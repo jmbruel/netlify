@@ -1,1 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>SysML | Jean-Michel Bruel</title><link>/tag/sysml/</link><atom:link href="/tag/sysml/index.xml" rel="self" type="application/rss+xml"/><description>SysML</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en</language><lastBuildDate>Tue, 26 Jun 2018 00:00:00 +0000</lastBuildDate><item><title>SysML Models Verification and Validation in an Industrial Context: Challenges and Experimentation</title><link>/publication/ecmfa18/</link><pubDate>Tue, 26 Jun 2018 00:00:00 +0000</pubDate><guid>/publication/ecmfa18/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SysML | Jean-Michel Bruel</title>
+    <link>/tag/sysml/</link>
+      <atom:link href="/tag/sysml/index.xml" rel="self" type="application/rss+xml" />
+    <description>SysML</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en</language><lastBuildDate>Tue, 26 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>SysML Models Verification and Validation in an Industrial Context: Challenges and Experimentation</title>
+      <link>/publication/ecmfa18/</link>
+      <pubDate>Tue, 26 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/ecmfa18/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
