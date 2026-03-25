@@ -5,7 +5,7 @@
     <link>/author/ronan-baduel/</link>
       <atom:link href="/author/ronan-baduel/index.xml" rel="self" type="application/rss+xml" />
     <description>Ronan Baduel</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en</language><lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
     <item>
       <title>Modeling and verification method for an early evaluation of Systems of Systems interactions</title>
       <link>/publication/ba-ob-br-2020-1/</link>
@@ -14,7 +14,5 @@
       <description></description>
     </item>
     
-  </channel>
-</rss>
   </channel>
 </rss>

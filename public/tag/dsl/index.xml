@@ -5,13 +5,7 @@
     <link>/tag/dsl/</link>
       <atom:link href="/tag/dsl/index.xml" rel="self" type="application/rss+xml" />
     <description>DSL</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 27 Jul 2018 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>/media/icon_hu_3405813888f6bb95.png</url>
-      <title>DSL</title>
-      <link>/tag/dsl/</link>
-    </image>
-    
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en</language><lastBuildDate>Fri, 27 Jul 2018 00:00:00 +0000</lastBuildDate>
     <item>
       <title>Emergence of Composite Services in Smart Environments</title>
       <link>/publication/esof-poster2018/</link>

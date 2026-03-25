@@ -5,13 +5,7 @@
     <link>/tag/specification/</link>
       <atom:link href="/tag/specification/index.xml" rel="self" type="application/rss+xml" />
     <description>&#34;Specification&#34;</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 May 2021 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>/media/icon_hu_3405813888f6bb95.png</url>
-      <title>&#34;Specification&#34;</title>
-      <link>/tag/specification/</link>
-    </image>
-    
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en</language><lastBuildDate>Sat, 01 May 2021 00:00:00 +0000</lastBuildDate>
     <item>
       <title>The Role of Formalism in System Requirements</title>
       <link>/publication/acm-surveys-2021/</link>

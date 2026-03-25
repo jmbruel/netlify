@@ -5,13 +5,7 @@
     <link>/project/</link>
       <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Mar 2026 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>/media/icon_hu_3405813888f6bb95.png</url>
-      <title>Projects</title>
-      <link>/project/</link>
-    </image>
-    
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en</language><lastBuildDate>Sun, 01 Mar 2026 00:00:00 +0000</lastBuildDate>
     <item>
       <title>EDT</title>
       <link>/project/edt/</link>

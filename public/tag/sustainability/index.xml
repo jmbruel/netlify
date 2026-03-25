@@ -5,13 +5,7 @@
     <link>/tag/sustainability/</link>
       <atom:link href="/tag/sustainability/index.xml" rel="self" type="application/rss+xml" />
     <description>Sustainability</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>/media/icon_hu_3405813888f6bb95.png</url>
-      <title>Sustainability</title>
-      <link>/tag/sustainability/</link>
-    </image>
-    
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <item>
       <title>Toward model-driven sustainability evaluation</title>
       <link>/publication/dblp-journalscacm-kienzle-mcbbbbbc-20/</link>

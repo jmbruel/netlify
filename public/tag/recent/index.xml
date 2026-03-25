@@ -5,13 +5,7 @@
     <link>/tag/recent/</link>
       <atom:link href="/tag/recent/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 27 Jul 2018 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>/media/icon_hu_3405813888f6bb95.png</url>
-      <title>Recent</title>
-      <link>/tag/recent/</link>
-    </image>
-    
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en</language><lastBuildDate>Fri, 27 Jul 2018 00:00:00 +0000</lastBuildDate>
     <item>
       <title>On the use of models for high-performance scientific computing applications: an experience report</title>
       <link>/publication/sosym2018/</link>

@@ -5,13 +5,7 @@
     <link>/tag/education/</link>
       <atom:link href="/tag/education/index.xml" rel="self" type="application/rss+xml" />
     <description>Education</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 03 Oct 2016 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>/media/icon_hu_3405813888f6bb95.png</url>
-      <title>Education</title>
-      <link>/tag/education/</link>
-    </image>
-    
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en</language><lastBuildDate>Mon, 03 Oct 2016 00:00:00 +0000</lastBuildDate>
     <item>
       <title>Joint Proceedings of the 12th Educators Symposium (EduSymp 2016) and 3rd International Workshop on Open Source Software for Model Driven Engineering (OSS4MDE 2016)</title>
       <link>/publication/models16/</link>

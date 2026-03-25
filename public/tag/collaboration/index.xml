@@ -5,13 +5,7 @@
     <link>/tag/collaboration/</link>
       <atom:link href="/tag/collaboration/index.xml" rel="self" type="application/rss+xml" />
     <description>Collaboration</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 19 Oct 2020 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>/media/icon_hu_3405813888f6bb95.png</url>
-      <title>Collaboration</title>
-      <link>/tag/collaboration/</link>
-    </image>
-    
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en</language><lastBuildDate>Mon, 19 Oct 2020 00:00:00 +0000</lastBuildDate>
     <item>
       <title>FUN Modeling</title>
       <link>/project/fun/</link>
