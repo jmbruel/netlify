@@ -1,18 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Daniel De Carvalho | Jean-Michel Bruel</title>
-    <link>/author/daniel-de-carvalho/</link>
-      <atom:link href="/author/daniel-de-carvalho/index.xml" rel="self" type="application/rss+xml" />
-    <description>Daniel De Carvalho</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
-    <item>
-      <title>Reflections on Teaching Formal Methods for Software Development in Higher Education</title>
-      <link>/publication/dblp-conffisee-khazeev-acmbb-19/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/dblp-conffisee-khazeev-acmbb-19/</guid>
-      <description></description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Daniel De Carvalho | Jean-Michel Bruel</title><link>/author/daniel-de-carvalho/</link><atom:link href="/author/daniel-de-carvalho/index.xml" rel="self" type="application/rss+xml"/><description>Daniel De Carvalho</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate><item><title>Reflections on Teaching Formal Methods for Software Development in Higher Education</title><link>/publication/dblp-conffisee-khazeev-acmbb-19/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>/publication/dblp-conffisee-khazeev-acmbb-19/</guid><description/></item></channel></rss>

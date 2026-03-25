@@ -1,18 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Ontology | Jean-Michel Bruel</title>
-    <link>/tag/ontology/</link>
-      <atom:link href="/tag/ontology/index.xml" rel="self" type="application/rss+xml" />
-    <description>Ontology</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en</language><lastBuildDate>Fri, 23 Oct 2020 00:00:00 +0000</lastBuildDate>
-    <item>
-      <title>Chaire Industrielle</title>
-      <link>/project/airbus/</link>
-      <pubDate>Fri, 23 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>/project/airbus/</guid>
-      <description></description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Ontology | Jean-Michel Bruel</title><link>/tag/ontology/</link><atom:link href="/tag/ontology/index.xml" rel="self" type="application/rss+xml"/><description>Ontology</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en</language><lastBuildDate>Fri, 23 Oct 2020 00:00:00 +0000</lastBuildDate><item><title>Chaire Industrielle</title><link>/project/airbus/</link><pubDate>Fri, 23 Oct 2020 00:00:00 +0000</pubDate><guid>/project/airbus/</guid><description/></item></channel></rss>
