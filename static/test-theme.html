@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Theme Test</title>
+    <link rel="stylesheet" href="/css/wowchemy.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Theme Switching Test</h1>
+        <p>This page tests the dark/light mode functionality.</p>
+        
+        <div class="navbar">
+            <ul class="nav">
+                <li class="nav-item dropdown theme-dropdown">
+                    <a href="#" class="nav-link" data-toggle="dropdown" aria-haspopup="true" aria-label="Display preferences">
+                        <i class="fas fa-moon" aria-hidden="true"></i>
+                    </a>
+                    <div class="dropdown-menu">
+                        <a href="#" class="dropdown-item js-set-theme-light">
+                            <span>Light</span>
+                        </a>
+                        <a href="#" class="dropdown-item js-set-theme-dark">
+                            <span>Dark</span>
+                        </a>
+                        <a href="#" class="dropdown-item js-set-theme-auto">
+                            <span>Automatic</span>
+                        </a>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        
+        <div class="card">
+            <h2>Test Card</h2>
+            <p>This card should change colors when switching themes.</p>
+        </div>
+    </div>
+    
+    <script src="/js/wowchemy-init.min.js"></script>
+    <script src="/js/wowchemy.min.js"></script>
+</body>
+</html>
