@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Eugene Syriani | Jean-Michel Bruel</title>
-    <link>/author/eugene-syriani/</link>
-      <atom:link href="/author/eugene-syriani/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:1313/author/eugene-syriani/</link>
+      <atom:link href="//localhost:1313/author/eugene-syriani/index.xml" rel="self" type="application/rss+xml" />
     <description>Eugene Syriani</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <item>
       <title>Comparing and classifying model transformation reuse approaches across metamodels</title>
-      <link>/publication/dblp-journalssosym-bruel-cgjklmsv-20/</link>
+      <link>//localhost:1313/publication/dblp-journalssosym-bruel-cgjklmsv-20/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/dblp-journalssosym-bruel-cgjklmsv-20/</guid>
+      <guid>//localhost:1313/publication/dblp-journalssosym-bruel-cgjklmsv-20/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Toward model-driven sustainability evaluation</title>
-      <link>/publication/dblp-journalscacm-kienzle-mcbbbbbc-20/</link>
+      <link>//localhost:1313/publication/dblp-journalscacm-kienzle-mcbbbbbc-20/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/dblp-journalscacm-kienzle-mcbbbbbc-20/</guid>
+      <guid>//localhost:1313/publication/dblp-journalscacm-kienzle-mcbbbbbc-20/</guid>
       <description></description>
     </item>
     

@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sophie Trouilhet | Jean-Michel Bruel</title>
-    <link>/author/sophie-trouilhet/</link>
-      <atom:link href="/author/sophie-trouilhet/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:1313/author/sophie-trouilhet/</link>
+      <atom:link href="//localhost:1313/author/sophie-trouilhet/index.xml" rel="self" type="application/rss+xml" />
     <description>Sophie Trouilhet</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en</language><lastBuildDate>Mon, 25 Jun 2018 00:00:00 +0000</lastBuildDate>
     <item>
       <title>Ambient Intelligence Users in the Loop: Towards a Model-Driven Approach</title>
-      <link>/publication/mse18/</link>
+      <link>//localhost:1313/publication/mse18/</link>
       <pubDate>Mon, 25 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/mse18/</guid>
+      <guid>//localhost:1313/publication/mse18/</guid>
       <description></description>
     </item>
     

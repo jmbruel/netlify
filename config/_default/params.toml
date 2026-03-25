@@ -94,7 +94,7 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "bruel@irit.fr"
-phone = "+33 (0)6.07.65.19.70"
+phone = "+33 (0)6.86.00.29.02"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )

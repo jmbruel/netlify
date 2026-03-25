@@ -2,31 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bertrand Meyer | Jean-Michel Bruel</title>
-    <link>/author/bertrand-meyer/</link>
-      <atom:link href="/author/bertrand-meyer/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:1313/author/bertrand-meyer/</link>
+      <atom:link href="//localhost:1313/author/bertrand-meyer/index.xml" rel="self" type="application/rss+xml" />
     <description>Bertrand Meyer</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <item>
-      <title>Special Issue on New Paradigms of Software Production and Deployment</title>
-      <link>/publication/dblp-journalssncs-capozucca-bmm-22/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/dblp-journalssncs-capozucca-bmm-22/</guid>
+      <title>Object-Oriented Requirements: a Unified Framework for Specifications, Scenarios and Tests</title>
+      <link>//localhost:1313/publication/jot-issue-2023-01-article-3/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/jot-issue-2023-01-article-3/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>AutoReq: expressing and verifying requirements for control systems</title>
-      <link>/publication/na-me-ga-br-ma-eb-2019-1/</link>
-      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/na-me-ga-br-ma-eb-2019-1/</guid>
+      <title>The Role of Formalism in System Requirements</title>
+      <link>//localhost:1313/publication/acm-surveys-2021/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/acm-surveys-2021/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Towards an Anatomy of Software Requirements</title>
-      <link>/publication/dblp-conftools-0001-begn-19/</link>
+      <title>Software Engineering Aspects of Continuous Development and New Paradigms of Software Production and Deployment</title>
+      <link>//localhost:1313/publication/bruel-hal-02976604/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/dblp-conftools-0001-begn-19/</guid>
+      <guid>//localhost:1313/publication/bruel-hal-02976604/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A contract-based method to specify stimulus-response requirements</title>
+      <link>//localhost:1313/publication/mmbge17/</link>
+      <pubDate>Wed, 07 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/mmbge17/</guid>
       <description></description>
     </item>
     
