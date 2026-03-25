@@ -1,1 +1,10 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Yinling Liu | Jean-Michel Bruel</title><link>/author/yinling-liu/</link><atom:link href="/author/yinling-liu/index.xml" rel="self" type="application/rss+xml"/><description>Yinling Liu</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en</language></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yinling Liu | Jean-Michel Bruel</title>
+    <link>/author/yinling-liu/</link>
+      <atom:link href="/author/yinling-liu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yinling Liu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en</language>
+  </channel>
+</rss>

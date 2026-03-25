@@ -1,1 +1,34 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Iulian Ober | Jean-Michel Bruel</title><link>/author/iulian-ober/</link><atom:link href="/author/iulian-ober/index.xml" rel="self" type="application/rss+xml"/><description>Iulian Ober</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en</language><lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate><item><title>Modeling and verification method for an early evaluation of Systems of Systems interactions</title><link>/publication/ba-ob-br-2020-1/</link><pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate><guid>/publication/ba-ob-br-2020-1/</guid><description/></item><item><title>Modeling and verification method for an early evaluation of systems of systems interactions</title><link>/publication/dblp-confsac-baduel-ob-20/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>/publication/dblp-confsac-baduel-ob-20/</guid><description/></item><item><title>SysML Models Verification and Validation in an Industrial Context: Challenges and Experimentation</title><link>/publication/ecmfa18/</link><pubDate>Tue, 26 Jun 2018 00:00:00 +0000</pubDate><guid>/publication/ecmfa18/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Iulian Ober | Jean-Michel Bruel</title>
+    <link>/author/iulian-ober/</link>
+      <atom:link href="/author/iulian-ober/index.xml" rel="self" type="application/rss+xml" />
+    <description>Iulian Ober</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en</language><lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Modeling and verification method for an early evaluation of Systems of Systems interactions</title>
+      <link>/publication/ba-ob-br-2020-1/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/ba-ob-br-2020-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling and verification method for an early evaluation of systems of systems interactions</title>
+      <link>/publication/dblp-confsac-baduel-ob-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/dblp-confsac-baduel-ob-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SysML Models Verification and Validation in an Industrial Context: Challenges and Experimentation</title>
+      <link>/publication/ecmfa18/</link>
+      <pubDate>Tue, 26 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/ecmfa18/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
