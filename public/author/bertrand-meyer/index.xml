@@ -5,42 +5,34 @@
     <link>/author/bertrand-meyer/</link>
       <atom:link href="/author/bertrand-meyer/index.xml" rel="self" type="application/rss+xml" />
     <description>Bertrand Meyer</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/author/bertrand-meyer/avatar_hu_692aabb27b3e038a.jpg</url>
+      <url>/media/icon_hu_1b4bcfdf7d67b990.png</url>
       <title>Bertrand Meyer</title>
       <link>/author/bertrand-meyer/</link>
     </image>
     
     <item>
-      <title>Bertrand Meyer</title>
-      <link>/author/bertrand-meyer/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>/author/bertrand-meyer/</guid>
+      <title>Object-Oriented Requirements: a Unified Framework for Specifications, Scenarios and Tests</title>
+      <link>/publication/jot-issue-2023-01-article-3/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/jot-issue-2023-01-article-3/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Special Issue on New Paradigms of Software Production and Deployment</title>
-      <link>/publication/dblp-journalssncs-capozucca-bmm-22/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/dblp-journalssncs-capozucca-bmm-22/</guid>
+      <title>The Role of Formalism in System Requirements</title>
+      <link>/publication/acm-surveys-2021/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/acm-surveys-2021/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>AutoReq: expressing and verifying requirements for control systems</title>
-      <link>/publication/na-me-ga-br-ma-eb-2019-1/</link>
-      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/na-me-ga-br-ma-eb-2019-1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Towards an Anatomy of Software Requirements</title>
-      <link>/publication/dblp-conftools-0001-begn-19/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/dblp-conftools-0001-begn-19/</guid>
+      <title>A contract-based method to specify stimulus-response requirements</title>
+      <link>/publication/mmbge17/</link>
+      <pubDate>Wed, 07 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/mmbge17/</guid>
       <description></description>
     </item>
     
