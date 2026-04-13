@@ -5,24 +5,17 @@
     <link>/author/yinling-liu/</link>
       <atom:link href="/author/yinling-liu/index.xml" rel="self" type="application/rss+xml" />
     <description>Yinling Liu</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en</language><lastBuildDate>Mon, 01 Aug 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/author/yinling-liu/avatar_hu_9a9eb21c2f1e8dd9.jpg</url>
+      <url>/media/icon_hu_1b4bcfdf7d67b990.png</url>
       <title>Yinling Liu</title>
       <link>/author/yinling-liu/</link>
     </image>
     
     <item>
-      <title>Yinling Liu</title>
-      <link>/author/yinling-liu/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/author/yinling-liu/</guid>
-      <description></description>
-    </item>
-    
-  </channel>
-</rss>
-:00 +0000</pubDate>
+      <title>Modelling and Verification of Natural Language Requirements based on States and Modes</title>
+      <link>/publication/liu-hal-03941814/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
       <guid>/publication/liu-hal-03941814/</guid>
       <description></description>
     </item>

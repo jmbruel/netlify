@@ -10,10 +10,15 @@ authors:
 superuser: false
 
 # Role/position
-role: Ph.D. student since 10/2021
+# role: Ph.D. student since 10/2017
+role: 2026 - Consultant
 
 # Short bio (displayed in user profile at end of posts)
 bio: Ph.D. thesis on "Technology Enhanced Learning"
+from: "2021-10-01"
+to: "2026-04-02"
+note: "Co-directed with Franck Silvestre and Jean-Baptiste Raclet. Doctorial School Grant."
+external_link: ""
 
 
 # Organizations/Affiliations
@@ -45,8 +50,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Current SM@RT Ph.D. Students
+- Former SM@RT Ph.D. Students (now Doctors!)
 
-tags: ["current", "phd", "grant"]
+tags: ["past", "phd", "grant"]
 
 ---

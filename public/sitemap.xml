@@ -722,9 +722,15 @@
   </url><url>
     <loc>/categories/</loc>
   </url><url>
+    <loc>/tag/cifre/</loc>
+  </url><url>
     <loc>/author/claude-baron/</loc>
   </url><url>
+    <loc>/tag/edt/</loc>
+  </url><url>
     <loc>/author/irfan-javid/</loc>
+  </url><url>
+    <loc>/author/iryna-volosheniuk/</loc>
   </url><url>
     <loc>/author/jacob-geisel/</loc>
   </url><url>
@@ -745,6 +751,8 @@
     <loc>/author/renan-leroux-beaudout/</loc>
   </url><url>
     <loc>/author/tristan-gouaichault/</loc>
+  </url><url>
+    <loc>/author/van-eli-ndili/</loc>
   </url><url>
     <loc>/author/yinling-liu/</loc>
   </url>
