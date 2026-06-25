@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ronan Baduel | Jean-Michel Bruel</title>
-    <link>/author/ronan-baduel/</link>
-      <atom:link href="/author/ronan-baduel/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:1313/author/ronan-baduel/</link>
+      <atom:link href="//localhost:1313/author/ronan-baduel/index.xml" rel="self" type="application/rss+xml" />
     <description>Ronan Baduel</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en</language><lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/media/icon_hu_1b4bcfdf7d67b990.png</url>
+      <url>//localhost:1313/media/icon_hu_3405813888f6bb95.png</url>
       <title>Ronan Baduel</title>
-      <link>/author/ronan-baduel/</link>
+      <link>//localhost:1313/author/ronan-baduel/</link>
     </image>
     
     <item>
       <title>Modeling and verification method for an early evaluation of Systems of Systems interactions</title>
-      <link>/publication/ba-ob-br-2020-1/</link>
+      <link>//localhost:1313/publication/ba-ob-br-2020-1/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/ba-ob-br-2020-1/</guid>
+      <guid>//localhost:1313/publication/ba-ob-br-2020-1/</guid>
       <description></description>
     </item>
     
