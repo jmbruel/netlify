@@ -5,19 +5,23 @@
     <link>//localhost:1313/author/ronan-baduel/</link>
       <atom:link href="//localhost:1313/author/ronan-baduel/index.xml" rel="self" type="application/rss+xml" />
     <description>Ronan Baduel</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en</language><lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>//localhost:1313/author/ronan-baduel/avatar_hu_4590f39b2b22f406.jpeg</url>
+      <url>//localhost:1313/media/icon_hu_3405813888f6bb95.png</url>
       <title>Ronan Baduel</title>
       <link>//localhost:1313/author/ronan-baduel/</link>
     </image>
     
     <item>
-      <title>Modeling and verification method for an early evaluation of systems of systems interactions</title>
-      <link>//localhost:1313/publication/dblp-confsac-baduel-ob-20/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/dblp-confsac-baduel-ob-20/</guid>
+      <title>Modeling and verification method for an early evaluation of Systems of Systems interactions</title>
+      <link>//localhost:1313/publication/ba-ob-br-2020-1/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/ba-ob-br-2020-1/</guid>
       <description></description>
+    </item>
+    
+  </channel>
+</rss>
     </item>
     
     <item>

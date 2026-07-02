@@ -17,7 +17,7 @@ bio: "DevSecMLOps: Security-by-Design for Trustworthy Machine Learning Pipelines
 
 # Organizations/Affiliations
 organizations:
-- name: 
+- name: UT2J
   url: ""
 
 # Social/Academic Networking
@@ -28,6 +28,10 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:barthelemymatakon202@gmail.com'  # For a direct email link, use "mailto:test@example.org".
+- icon: linkedin
+  icon_pack: fab
+  link: 'https://www.linkedin.com/in/barthelemy-matakon-63868a320/'
+
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "barthelemymatakon202@gmail.com"
