@@ -5,40 +5,35 @@
     <link>//localhost:1313/author/florian-galinier/</link>
       <atom:link href="//localhost:1313/author/florian-galinier/index.xml" rel="self" type="application/rss+xml" />
     <description>Florian Galinier</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en</language><lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>//localhost:1313/author/florian-galinier/avatar_hu_d36ed9ed970ad0b7.jpg</url>
+      <url>//localhost:1313/media/icon_hu_3405813888f6bb95.png</url>
       <title>Florian Galinier</title>
       <link>//localhost:1313/author/florian-galinier/</link>
     </image>
     
     <item>
-      <title>AutoReq: expressing and verifying requirements for control systems</title>
-      <link>//localhost:1313/publication/na-me-ga-br-ma-eb-2019-1/</link>
-      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/na-me-ga-br-ma-eb-2019-1/</guid>
+      <title>Object-Oriented Requirements: a Unified Framework for Specifications, Scenarios and Tests</title>
+      <link>//localhost:1313/publication/jot-issue-2023-01-article-3/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/jot-issue-2023-01-article-3/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Florian Galinier</title>
-      <link>//localhost:1313/author/florian-galinier/</link>
-      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/author/florian-galinier/</guid>
+      <title>The Role of Formalism in System Requirements</title>
+      <link>//localhost:1313/publication/acm-surveys-2021/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/acm-surveys-2021/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Towards an Anatomy of Software Requirements</title>
-      <link>//localhost:1313/publication/dblp-conftools-0001-begn-19/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/dblp-conftools-0001-begn-19/</guid>
+      <title>Requirements Specific Modeling Language : un langage formel d&#39;expression d&#39;exigences</title>
+      <link>//localhost:1313/publication/ciel18/</link>
+      <pubDate>Wed, 27 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/ciel18/</guid>
       <description></description>
-    </item>
-    
-  </channel>
-</rss>
-n></description>
     </item>
     
     <item>

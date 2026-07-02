@@ -5,12 +5,20 @@
     <link>//localhost:1313/tag/research/</link>
       <atom:link href="//localhost:1313/tag/research/index.xml" rel="self" type="application/rss+xml" />
     <description>Research</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en</language><lastBuildDate>Tue, 02 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en</language><lastBuildDate>Tue, 16 Jun 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>//localhost:1313/media/icon_hu_3405813888f6bb95.png</url>
       <title>Research</title>
       <link>//localhost:1313/tag/research/</link>
     </image>
+    
+    <item>
+      <title>Making justifications</title>
+      <link>//localhost:1313/talk/20260625-sig-llodia/</link>
+      <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/talk/20260625-sig-llodia/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>FATES-MLOps</title>

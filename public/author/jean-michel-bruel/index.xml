@@ -5,7 +5,7 @@
     <link>//localhost:1313/author/jean-michel-bruel/</link>
       <atom:link href="//localhost:1313/author/jean-michel-bruel/index.xml" rel="self" type="application/rss+xml" />
     <description>Jean-Michel Bruel</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en</language><lastBuildDate>Tue, 02 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en</language><lastBuildDate>Tue, 16 Jun 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>//localhost:1313/author/jean-michel-bruel/avatar_hu_7e96022eadcd08f4.png</url>
       <title>Jean-Michel Bruel</title>
@@ -13,17 +13,9 @@
     </image>
     
     <item>
-      <title>FATES-MLOps</title>
-      <link>//localhost:1313/talk/2025-iasiv/</link>
-      <pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/talk/2025-iasiv/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Jean-Michel Bruel</title>
       <link>//localhost:1313/author/jean-michel-bruel/</link>
-      <pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/author/jean-michel-bruel/</guid>
       <description>&lt;p&gt;Jean-Michel Bruel has been head of the &lt;a href=&#34;https://smart-researchteam.github.io/&#34;&gt;SM@RT&lt;/a&gt;
  team of the &lt;a href=&#34;https://www.irit.fr/&#34;&gt;IRIT&lt;/a&gt;
@@ -44,6 +36,22 @@ He is the holder of the Chair of Model-Driven Systems Engineering between &lt;a 
  project &lt;a href=&#34;http://fates-mlops.org/&#34;&gt;FATES-MLOps&lt;/a&gt;
 .&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Making justifications</title>
+      <link>//localhost:1313/talk/20260625-sig-llodia/</link>
+      <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/talk/20260625-sig-llodia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FATES-MLOps</title>
+      <link>//localhost:1313/talk/2025-iasiv/</link>
+      <pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/talk/2025-iasiv/</guid>
+      <description></description>
     </item>
     
     <item>

@@ -2,13 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>//localhost:1313/authors/</loc>
+    <lastmod>2026-06-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tag/fates/</loc>
+    <lastmod>2026-06-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/</loc>
+    <lastmod>2026-06-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/author/jean-michel-bruel/</loc>
+    <lastmod>2026-06-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tag/justification/</loc>
+    <lastmod>2026-06-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/talk/20260625-sig-llodia/</loc>
+    <lastmod>2026-06-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/talk/</loc>
+    <lastmod>2026-06-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tag/research/</loc>
+    <lastmod>2026-06-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/</loc>
+    <lastmod>2026-06-16T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/tag/digital-twins/</loc>
     <lastmod>2026-03-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/project/edt/</loc>
-    <lastmod>2026-03-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/</loc>
     <lastmod>2026-03-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/project/</loc>
@@ -17,22 +41,7 @@
     <loc>//localhost:1313/tag/software-engineering/</loc>
     <lastmod>2026-03-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/</loc>
-    <lastmod>2026-03-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/authors/</loc>
-    <lastmod>2025-12-02T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>//localhost:1313/talk/2025-iasiv/</loc>
-    <lastmod>2025-12-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/author/jean-michel-bruel/</loc>
-    <lastmod>2025-12-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/talk/</loc>
-    <lastmod>2025-12-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tag/research/</loc>
     <lastmod>2025-12-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/tag/gpl/</loc>
@@ -717,6 +726,8 @@
     <lastmod>2015-02-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/author/anas-motii/</loc>
+  </url><url>
+    <loc>//localhost:1313/author/barthelemy-makaton/</loc>
   </url><url>
     <loc>//localhost:1313/author/bernard-coulette/</loc>
   </url><url>
