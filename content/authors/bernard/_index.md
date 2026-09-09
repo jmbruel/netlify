@@ -24,7 +24,6 @@ bio: My research interests include Model-Based Systems Engineering and Requireme
 interests:
 - Process Engineering
 - Information System Design
-- 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -53,7 +52,7 @@ social:
 # email: "jbruel@gmail.com"
 
 # Highlight the author in author lists? (true/false)
-highlight_name: true
+highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
