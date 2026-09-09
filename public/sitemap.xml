@@ -733,11 +733,15 @@
   </url><url>
     <loc>//localhost:1313/categories/</loc>
   </url><url>
+    <loc>//localhost:1313/author/c%C3%A9cile-marcon/</loc>
+  </url><url>
     <loc>//localhost:1313/tag/cifre/</loc>
   </url><url>
     <loc>//localhost:1313/author/claude-baron/</loc>
   </url><url>
     <loc>//localhost:1313/tag/edt/</loc>
+  </url><url>
+    <loc>//localhost:1313/author/eric-lubat/</loc>
   </url><url>
     <loc>//localhost:1313/author/irfan-javid/</loc>
   </url><url>

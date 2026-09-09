@@ -14,8 +14,8 @@ role: Professor Emeritus
 
 # Organizations/Affiliations
 organizations:
-- name: University of Toulouse
-  url: "http://www.univ-toulouse.fr/"
+- name: Université Toulouse 2 Jean Jaurès
+  url: "https://www.univ-tlse2.fr/"
 - name: IRIT Laboratory
   url: "http://www.irit.fr/"
 # Short bio (displayed in user profile at end of posts)
